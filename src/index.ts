@@ -62,8 +62,44 @@ const calcAvg = (matrix: Pixel[][], x: number, y: number): Pixel => {
   }
 };
 
-const main = () => {
-  fs.readFile('./input/icon.png', (err, data) => {
+const createMosaicPixel = (
+  matrix: Pixel[][], imgWidth: number, imgHeight: number,
+): Pixel[][] => {
+  const mosaicPixel: Pixel[][] = [];
+
+  for (let y = 0; y <= imgHeight - STEP; y += STEP) {
+    const line: Pixel[] = [];
+    for (let x = 0; x <= imgWidth - STEP; x += STEP) {
+      line.push(calcAvg(matrix, x, y));
+    }
+    mosaicPixel.push(line);
+  }
+
+  return mosaicPixel;
+}
+
+const createMosaicPng = (
+  mosaicPixel: Pixel[][], imgWidth: number, imgHeight: number,
+) => {
+  const canvas = Canvas.createCanvas(imgWidth, imgHeight);
+  const ctx = canvas.getContext('2d');
+
+  mosaicPixel.map((pxls, h) => {
+    pxls.map((p, w) => {
+      ctx.fillStyle = `rgb(${p.r},${p.g},${p.b})`;
+      ctx.fillRect(w * STEP, h * STEP, (w + 1) * STEP, (h + 1) * STEP);
+      ctx.closePath();
+    });
+  });
+
+  const out = fs.createWriteStream('./out.png');
+  const stream = canvas.createPNGStream();
+  stream.pipe(out);
+  out.on('finish', () => console.log('done'));
+};
+
+const mosaTest = () => {
+  fs.readFile('./input/IMG_5052.JPG', (err, data) => {
     if (err) throw err;
     let img = new Canvas.Image;
     img.src = data;
@@ -73,32 +109,7 @@ const main = () => {
 
     const pixels: Pixel[] = mapToPixes(ctx.getImageData(0, 0, img.width, img.height).data);
     const matrix: Pixel[][] = mapToMatrix(pixels, img.width, img.height);
-
-    const mosaicPixel: Pixel[][] = [];
-    for (let y = 0; y <= img.height - STEP; y += STEP) {
-      const line: Pixel[] = [];
-      for (let x = 0; x <= img.width - STEP; x += STEP) {
-        line.push(calcAvg(matrix, x, y));
-      }
-      mosaicPixel.push(line);
-    }
-
-    const canvas = Canvas.createCanvas(200, 200);
-    const newCtx = canvas.getContext('2d');
-
-    mosaicPixel.map((pxls, h) => {
-      pxls.map((p, w) => {
-        newCtx.fillStyle = `rgb(${p.r},${p.g},${p.b})`;
-        newCtx.fillRect(w, h, w+STEP, h+STEP);
-        newCtx.closePath();
-      });
-    });
-
-    const out = fs.createWriteStream('./out.png');
-    const stream = canvas.createPNGStream();
-    stream.pipe(out);
-    out.on('finish', () => console.log('done'));
+    const mosaicPixel: Pixel[][] = createMosaicPixel(matrix, img.width, img.height)
+    createMosaicPng(mosaicPixel, img.width, img.height);
   });
 };
-
-main();
