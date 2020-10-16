@@ -1,0 +1,10796 @@
+{
+  "100": {
+    "name": "100",
+    "r": 206,
+    "g": 70,
+    "b": 68
+  },
+  "1234": {
+    "name": "1234",
+    "r": 44,
+    "g": 164,
+    "b": 224
+  },
+  "+1": {
+    "name": "+1",
+    "r": 250,
+    "g": 188,
+    "b": 21
+  },
+  "-1": {
+    "name": "-1",
+    "r": 250,
+    "g": 188,
+    "b": 21
+  },
+  "1st_place_medal": {
+    "name": "1st_place_medal",
+    "r": 185,
+    "g": 186,
+    "b": 104
+  },
+  "2nd_place_medal": {
+    "name": "2nd_place_medal",
+    "r": 153,
+    "g": 181,
+    "b": 206
+  },
+  "3rd_place_medal": {
+    "name": "3rd_place_medal",
+    "r": 182,
+    "g": 144,
+    "b": 87
+  },
+  "8ball": {
+    "name": "8ball",
+    "r": 90,
+    "g": 90,
+    "b": 90
+  },
+  "a": {
+    "name": "a",
+    "r": 226,
+    "g": 103,
+    "b": 101
+  },
+  "ab": {
+    "name": "ab",
+    "r": 224,
+    "g": 99,
+    "b": 98
+  },
+  "abacus": {
+    "name": "abacus",
+    "r": 182,
+    "g": 161,
+    "b": 85
+  },
+  "abc": {
+    "name": "abc",
+    "r": 48,
+    "g": 166,
+    "b": 224
+  },
+  "abcd": {
+    "name": "abcd",
+    "r": 50,
+    "g": 166,
+    "b": 224
+  },
+  "accept": {
+    "name": "accept",
+    "r": 168,
+    "g": 202,
+    "b": 130
+  },
+  "adhesive_bandage": {
+    "name": "adhesive_bandage",
+    "r": 194,
+    "g": 142,
+    "b": 104
+  },
+  "adult": {
+    "name": "adult",
+    "r": 159,
+    "g": 115,
+    "b": 38
+  },
+  "aerial_tramway": {
+    "name": "aerial_tramway",
+    "r": 143,
+    "g": 112,
+    "b": 128
+  },
+  "afghanistan": {
+    "name": "afghanistan",
+    "r": 80,
+    "g": 76,
+    "b": 34
+  },
+  "airplane": {
+    "name": "airplane",
+    "r": 105,
+    "g": 169,
+    "b": 199
+  },
+  "aland_islands": {
+    "name": "aland_islands",
+    "r": 103,
+    "g": 103,
+    "b": 105
+  },
+  "alarm_clock": {
+    "name": "alarm_clock",
+    "r": 180,
+    "g": 187,
+    "b": 175
+  },
+  "albania": {
+    "name": "albania",
+    "r": 157,
+    "g": 44,
+    "b": 50
+  },
+  "alembic": {
+    "name": "alembic",
+    "r": 195,
+    "g": 198,
+    "b": 219
+  },
+  "algeria": {
+    "name": "algeria",
+    "r": 135,
+    "g": 163,
+    "b": 136
+  },
+  "alien": {
+    "name": "alien",
+    "r": 134,
+    "g": 143,
+    "b": 148
+  },
+  "ambulance": {
+    "name": "ambulance",
+    "r": 199,
+    "g": 155,
+    "b": 153
+  },
+  "american_samoa": {
+    "name": "american_samoa",
+    "r": 115,
+    "g": 99,
+    "b": 131
+  },
+  "amphora": {
+    "name": "amphora",
+    "r": 133,
+    "g": 77,
+    "b": 38
+  },
+  "anchor": {
+    "name": "anchor",
+    "r": 141,
+    "g": 149,
+    "b": 162
+  },
+  "andorra": {
+    "name": "andorra",
+    "r": 161,
+    "g": 102,
+    "b": 76
+  },
+  "angel": {
+    "name": "angel",
+    "r": 155,
+    "g": 145,
+    "b": 92
+  },
+  "anger": {
+    "name": "anger",
+    "r": 223,
+    "g": 66,
+    "b": 55
+  },
+  "angola": {
+    "name": "angola",
+    "r": 112,
+    "g": 41,
+    "b": 39
+  },
+  "angry": {
+    "name": "angry",
+    "r": 215,
+    "g": 111,
+    "b": 88
+  },
+  "anguilla": {
+    "name": "anguilla",
+    "r": 91,
+    "g": 57,
+    "b": 105
+  },
+  "anguished": {
+    "name": "anguished",
+    "r": 221,
+    "g": 156,
+    "b": 33
+  },
+  "ant": {
+    "name": "ant",
+    "r": 65,
+    "g": 65,
+    "b": 65
+  },
+  "antarctica": {
+    "name": "antarctica",
+    "r": 117,
+    "g": 153,
+    "b": 195
+  },
+  "antigua_barbuda": {
+    "name": "antigua_barbuda",
+    "r": 130,
+    "g": 68,
+    "b": 75
+  },
+  "apple": {
+    "name": "apple",
+    "r": 196,
+    "g": 59,
+    "b": 45
+  },
+  "aquarius": {
+    "name": "aquarius",
+    "r": 166,
+    "g": 93,
+    "b": 186
+  },
+  "argentina": {
+    "name": "argentina",
+    "r": 155,
+    "g": 179,
+    "b": 201
+  },
+  "aries": {
+    "name": "aries",
+    "r": 217,
+    "g": 88,
+    "b": 87
+  },
+  "armenia": {
+    "name": "armenia",
+    "r": 149,
+    "g": 62,
+    "b": 75
+  },
+  "arrow_backward": {
+    "name": "arrow_backward",
+    "r": 249,
+    "g": 149,
+    "b": 55
+  },
+  "arrow_double_down": {
+    "name": "arrow_double_down",
+    "r": 248,
+    "g": 157,
+    "b": 73
+  },
+  "arrow_double_up": {
+    "name": "arrow_double_up",
+    "r": 248,
+    "g": 159,
+    "b": 74
+  },
+  "arrow_down": {
+    "name": "arrow_down",
+    "r": 64,
+    "g": 180,
+    "b": 241
+  },
+  "arrow_down_small": {
+    "name": "arrow_down_small",
+    "r": 249,
+    "g": 153,
+    "b": 63
+  },
+  "arrow_forward": {
+    "name": "arrow_forward",
+    "r": 249,
+    "g": 149,
+    "b": 55
+  },
+  "arrow_heading_down": {
+    "name": "arrow_heading_down",
+    "r": 76,
+    "g": 183,
+    "b": 240
+  },
+  "arrow_heading_up": {
+    "name": "arrow_heading_up",
+    "r": 77,
+    "g": 184,
+    "b": 240
+  },
+  "arrow_left": {
+    "name": "arrow_left",
+    "r": 63,
+    "g": 179,
+    "b": 241
+  },
+  "arrow_lower_left": {
+    "name": "arrow_lower_left",
+    "r": 67,
+    "g": 181,
+    "b": 241
+  },
+  "arrow_lower_right": {
+    "name": "arrow_lower_right",
+    "r": 67,
+    "g": 181,
+    "b": 241
+  },
+  "arrow_right": {
+    "name": "arrow_right",
+    "r": 64,
+    "g": 179,
+    "b": 241
+  },
+  "arrow_right_hook": {
+    "name": "arrow_right_hook",
+    "r": 85,
+    "g": 186,
+    "b": 240
+  },
+  "arrow_up": {
+    "name": "arrow_up",
+    "r": 63,
+    "g": 179,
+    "b": 240
+  },
+  "arrow_up_down": {
+    "name": "arrow_up_down",
+    "r": 75,
+    "g": 183,
+    "b": 240
+  },
+  "arrow_up_small": {
+    "name": "arrow_up_small",
+    "r": 249,
+    "g": 154,
+    "b": 63
+  },
+  "arrow_upper_left": {
+    "name": "arrow_upper_left",
+    "r": 66,
+    "g": 180,
+    "b": 240
+  },
+  "arrow_upper_right": {
+    "name": "arrow_upper_right",
+    "r": 66,
+    "g": 180,
+    "b": 240
+  },
+  "arrows_clockwise": {
+    "name": "arrows_clockwise",
+    "r": 103,
+    "g": 192,
+    "b": 239
+  },
+  "arrows_counterclockwise": {
+    "name": "arrows_counterclockwise",
+    "r": 103,
+    "g": 192,
+    "b": 239
+  },
+  "art": {
+    "name": "art",
+    "r": 232,
+    "g": 178,
+    "b": 93
+  },
+  "articulated_lorry": {
+    "name": "articulated_lorry",
+    "r": 197,
+    "g": 75,
+    "b": 74
+  },
+  "artificial_satellite": {
+    "name": "artificial_satellite",
+    "r": 66,
+    "g": 143,
+    "b": 185
+  },
+  "artist": {
+    "name": "artist",
+    "r": 154,
+    "g": 131,
+    "b": 84
+  },
+  "aruba": {
+    "name": "aruba",
+    "r": 105,
+    "g": 130,
+    "b": 158
+  },
+  "ascension_island": {
+    "name": "ascension_island",
+    "r": 53,
+    "g": 62,
+    "b": 121
+  },
+  "asterisk": {
+    "name": "asterisk",
+    "r": 126,
+    "g": 201,
+    "b": 234
+  },
+  "astonished": {
+    "name": "astonished",
+    "r": 230,
+    "g": 182,
+    "b": 59
+  },
+  "astronaut": {
+    "name": "astronaut",
+    "r": 175,
+    "g": 156,
+    "b": 119
+  },
+  "athletic_shoe": {
+    "name": "athletic_shoe",
+    "r": 206,
+    "g": 134,
+    "b": 134
+  },
+  "atm": {
+    "name": "atm",
+    "r": 144,
+    "g": 157,
+    "b": 183
+  },
+  "atom": {
+    "name": "atom",
+    "r": 110,
+    "g": 187,
+    "b": 130
+  },
+  "atom_symbol": {
+    "name": "atom_symbol",
+    "r": 171,
+    "g": 138,
+    "b": 245
+  },
+  "australia": {
+    "name": "australia",
+    "r": 75,
+    "g": 76,
+    "b": 127
+  },
+  "austria": {
+    "name": "austria",
+    "r": 215,
+    "g": 118,
+    "b": 115
+  },
+  "auto_rickshaw": {
+    "name": "auto_rickshaw",
+    "r": 136,
+    "g": 158,
+    "b": 69
+  },
+  "avocado": {
+    "name": "avocado",
+    "r": 154,
+    "g": 168,
+    "b": 81
+  },
+  "axe": {
+    "name": "axe",
+    "r": 223,
+    "g": 151,
+    "b": 98
+  },
+  "azerbaijan": {
+    "name": "azerbaijan",
+    "r": 94,
+    "g": 108,
+    "b": 118
+  },
+  "b": {
+    "name": "b",
+    "r": 226,
+    "g": 112,
+    "b": 110
+  },
+  "baby": {
+    "name": "baby",
+    "r": 230,
+    "g": 173,
+    "b": 27
+  },
+  "baby_bottle": {
+    "name": "baby_bottle",
+    "r": 198,
+    "g": 210,
+    "b": 213
+  },
+  "baby_chick": {
+    "name": "baby_chick",
+    "r": 250,
+    "g": 204,
+    "b": 80
+  },
+  "baby_symbol": {
+    "name": "baby_symbol",
+    "r": 126,
+    "g": 164,
+    "b": 248
+  },
+  "back": {
+    "name": "back",
+    "r": 82,
+    "g": 184,
+    "b": 238
+  },
+  "bacon": {
+    "name": "bacon",
+    "r": 200,
+    "g": 114,
+    "b": 65
+  },
+  "badger": {
+    "name": "badger",
+    "r": 133,
+    "g": 132,
+    "b": 132
+  },
+  "badminton": {
+    "name": "badminton",
+    "r": 146,
+    "g": 185,
+    "b": 213
+  },
+  "bagel": {
+    "name": "bagel",
+    "r": 234,
+    "g": 186,
+    "b": 135
+  },
+  "baggage_claim": {
+    "name": "baggage_claim",
+    "r": 152,
+    "g": 180,
+    "b": 243
+  },
+  "baguette_bread": {
+    "name": "baguette_bread",
+    "r": 223,
+    "g": 164,
+    "b": 79
+  },
+  "bahamas": {
+    "name": "bahamas",
+    "r": 68,
+    "g": 135,
+    "b": 119
+  },
+  "bahrain": {
+    "name": "bahrain",
+    "r": 197,
+    "g": 94,
+    "b": 105
+  },
+  "balance_scale": {
+    "name": "balance_scale",
+    "r": 189,
+    "g": 164,
+    "b": 125
+  },
+  "bald_man": {
+    "name": "bald_man",
+    "r": 163,
+    "g": 178,
+    "b": 65
+  },
+  "bald_woman": {
+    "name": "bald_woman",
+    "r": 189,
+    "g": 126,
+    "b": 96
+  },
+  "ballet_shoes": {
+    "name": "ballet_shoes",
+    "r": 230,
+    "g": 119,
+    "b": 159
+  },
+  "balloon": {
+    "name": "balloon",
+    "r": 235,
+    "g": 90,
+    "b": 45
+  },
+  "ballot_box": {
+    "name": "ballot_box",
+    "r": 168,
+    "g": 173,
+    "b": 148
+  },
+  "ballot_box_with_check": {
+    "name": "ballot_box_with_check",
+    "r": 199,
+    "g": 157,
+    "b": 157
+  },
+  "bamboo": {
+    "name": "bamboo",
+    "r": 158,
+    "g": 168,
+    "b": 97
+  },
+  "banana": {
+    "name": "banana",
+    "r": 231,
+    "g": 205,
+    "b": 104
+  },
+  "bangbang": {
+    "name": "bangbang",
+    "r": 228,
+    "g": 56,
+    "b": 56
+  },
+  "bangladesh": {
+    "name": "bangladesh",
+    "r": 80,
+    "g": 99,
+    "b": 74
+  },
+  "banjo": {
+    "name": "banjo",
+    "r": 148,
+    "g": 131,
+    "b": 124
+  },
+  "bank": {
+    "name": "bank",
+    "r": 158,
+    "g": 161,
+    "b": 162
+  },
+  "bar_chart": {
+    "name": "bar_chart",
+    "r": 203,
+    "g": 199,
+    "b": 189
+  },
+  "barbados": {
+    "name": "barbados",
+    "r": 82,
+    "g": 89,
+    "b": 96
+  },
+  "barber": {
+    "name": "barber",
+    "r": 183,
+    "g": 152,
+    "b": 172
+  },
+  "baseball": {
+    "name": "baseball",
+    "r": 223,
+    "g": 202,
+    "b": 202
+  },
+  "basecamp": {
+    "name": "basecamp",
+    "r": 138,
+    "g": 211,
+    "b": 177
+  },
+  "basecampy": {
+    "name": "basecampy",
+    "r": 99,
+    "g": 136,
+    "b": 108
+  },
+  "basket": {
+    "name": "basket",
+    "r": 195,
+    "g": 153,
+    "b": 95
+  },
+  "basketball": {
+    "name": "basketball",
+    "r": 231,
+    "g": 117,
+    "b": 33
+  },
+  "basketball_man": {
+    "name": "basketball_man",
+    "r": 164,
+    "g": 141,
+    "b": 54
+  },
+  "basketball_woman": {
+    "name": "basketball_woman",
+    "r": 171,
+    "g": 105,
+    "b": 72
+  },
+  "bat": {
+    "name": "bat",
+    "r": 94,
+    "g": 70,
+    "b": 87
+  },
+  "bath": {
+    "name": "bath",
+    "r": 201,
+    "g": 198,
+    "b": 187
+  },
+  "bathtub": {
+    "name": "bathtub",
+    "r": 202,
+    "g": 208,
+    "b": 211
+  },
+  "battery": {
+    "name": "battery",
+    "r": 148,
+    "g": 188,
+    "b": 107
+  },
+  "beach_umbrella": {
+    "name": "beach_umbrella",
+    "r": 191,
+    "g": 172,
+    "b": 138
+  },
+  "bear": {
+    "name": "bear",
+    "r": 154,
+    "g": 112,
+    "b": 74
+  },
+  "bearded_person": {
+    "name": "bearded_person",
+    "r": 142,
+    "g": 103,
+    "b": 44
+  },
+  "bed": {
+    "name": "bed",
+    "r": 172,
+    "g": 171,
+    "b": 112
+  },
+  "bee": {
+    "name": "bee",
+    "r": 183,
+    "g": 171,
+    "b": 142
+  },
+  "beer": {
+    "name": "beer",
+    "r": 231,
+    "g": 215,
+    "b": 150
+  },
+  "beers": {
+    "name": "beers",
+    "r": 229,
+    "g": 210,
+    "b": 153
+  },
+  "beetle": {
+    "name": "beetle",
+    "r": 120,
+    "g": 17,
+    "b": 25
+  },
+  "beginner": {
+    "name": "beginner",
+    "r": 144,
+    "g": 192,
+    "b": 74
+  },
+  "belarus": {
+    "name": "belarus",
+    "r": 141,
+    "g": 69,
+    "b": 35
+  },
+  "belgium": {
+    "name": "belgium",
+    "r": 161,
+    "g": 93,
+    "b": 48
+  },
+  "belize": {
+    "name": "belize",
+    "r": 77,
+    "g": 93,
+    "b": 121
+  },
+  "bell": {
+    "name": "bell",
+    "r": 247,
+    "g": 189,
+    "b": 37
+  },
+  "bellhop_bell": {
+    "name": "bellhop_bell",
+    "r": 199,
+    "g": 163,
+    "b": 56
+  },
+  "benin": {
+    "name": "benin",
+    "r": 140,
+    "g": 119,
+    "b": 65
+  },
+  "bento": {
+    "name": "bento",
+    "r": 143,
+    "g": 127,
+    "b": 99
+  },
+  "bermuda": {
+    "name": "bermuda",
+    "r": 170,
+    "g": 59,
+    "b": 63
+  },
+  "beverage_box": {
+    "name": "beverage_box",
+    "r": 176,
+    "g": 126,
+    "b": 185
+  },
+  "bhutan": {
+    "name": "bhutan",
+    "r": 208,
+    "g": 134,
+    "b": 88
+  },
+  "bicyclist": {
+    "name": "bicyclist",
+    "r": 100,
+    "g": 132,
+    "b": 114
+  },
+  "bike": {
+    "name": "bike",
+    "r": 160,
+    "g": 168,
+    "b": 128
+  },
+  "biking_man": {
+    "name": "biking_man",
+    "r": 105,
+    "g": 137,
+    "b": 115
+  },
+  "biking_woman": {
+    "name": "biking_woman",
+    "r": 112,
+    "g": 111,
+    "b": 130
+  },
+  "bikini": {
+    "name": "bikini",
+    "r": 227,
+    "g": 89,
+    "b": 137
+  },
+  "billed_cap": {
+    "name": "billed_cap",
+    "r": 47,
+    "g": 142,
+    "b": 223
+  },
+  "biohazard": {
+    "name": "biohazard",
+    "r": 217,
+    "g": 186,
+    "b": 40
+  },
+  "bird": {
+    "name": "bird",
+    "r": 129,
+    "g": 175,
+    "b": 183
+  },
+  "birthday": {
+    "name": "birthday",
+    "r": 229,
+    "g": 190,
+    "b": 136
+  },
+  "black_circle": {
+    "name": "black_circle",
+    "r": 71,
+    "g": 71,
+    "b": 71
+  },
+  "black_flag": {
+    "name": "black_flag",
+    "r": 93,
+    "g": 93,
+    "b": 93
+  },
+  "black_heart": {
+    "name": "black_heart",
+    "r": 42,
+    "g": 42,
+    "b": 42
+  },
+  "black_joker": {
+    "name": "black_joker",
+    "r": 214,
+    "g": 205,
+    "b": 208
+  },
+  "black_large_square": {
+    "name": "black_large_square",
+    "r": 70,
+    "g": 70,
+    "b": 70
+  },
+  "black_medium_small_square": {
+    "name": "black_medium_small_square",
+    "r": 74,
+    "g": 74,
+    "b": 74
+  },
+  "black_medium_square": {
+    "name": "black_medium_square",
+    "r": 72,
+    "g": 72,
+    "b": 72
+  },
+  "black_nib": {
+    "name": "black_nib",
+    "r": 135,
+    "g": 132,
+    "b": 126
+  },
+  "black_small_square": {
+    "name": "black_small_square",
+    "r": 75,
+    "g": 75,
+    "b": 75
+  },
+  "black_square_button": {
+    "name": "black_square_button",
+    "r": 167,
+    "g": 167,
+    "b": 167
+  },
+  "blond_haired_man": {
+    "name": "blond_haired_man",
+    "r": 174,
+    "g": 188,
+    "b": 70
+  },
+  "blond_haired_person": {
+    "name": "blond_haired_person",
+    "r": 172,
+    "g": 187,
+    "b": 70
+  },
+  "blond_haired_woman": {
+    "name": "blond_haired_woman",
+    "r": 206,
+    "g": 153,
+    "b": 90
+  },
+  "blonde_woman": {
+    "name": "blonde_woman",
+    "r": 206,
+    "g": 153,
+    "b": 90
+  },
+  "blossom": {
+    "name": "blossom",
+    "r": 224,
+    "g": 217,
+    "b": 205
+  },
+  "blowfish": {
+    "name": "blowfish",
+    "r": 148,
+    "g": 122,
+    "b": 113
+  },
+  "blue_book": {
+    "name": "blue_book",
+    "r": 67,
+    "g": 109,
+    "b": 191
+  },
+  "blue_car": {
+    "name": "blue_car",
+    "r": 92,
+    "g": 145,
+    "b": 175
+  },
+  "blue_heart": {
+    "name": "blue_heart",
+    "r": 29,
+    "g": 129,
+    "b": 219
+  },
+  "blue_square": {
+    "name": "blue_square",
+    "r": 58,
+    "g": 123,
+    "b": 188
+  },
+  "blush": {
+    "name": "blush",
+    "r": 226,
+    "g": 177,
+    "b": 40
+  },
+  "boar": {
+    "name": "boar",
+    "r": 139,
+    "g": 110,
+    "b": 86
+  },
+  "boat": {
+    "name": "boat",
+    "r": 111,
+    "g": 160,
+    "b": 167
+  },
+  "bolivia": {
+    "name": "bolivia",
+    "r": 143,
+    "g": 114,
+    "b": 57
+  },
+  "bomb": {
+    "name": "bomb",
+    "r": 70,
+    "g": 62,
+    "b": 59
+  },
+  "bone": {
+    "name": "bone",
+    "r": 219,
+    "g": 201,
+    "b": 167
+  },
+  "book": {
+    "name": "book",
+    "r": 180,
+    "g": 170,
+    "b": 169
+  },
+  "bookmark": {
+    "name": "bookmark",
+    "r": 210,
+    "g": 74,
+    "b": 67
+  },
+  "bookmark_tabs": {
+    "name": "bookmark_tabs",
+    "r": 215,
+    "g": 214,
+    "b": 211
+  },
+  "books": {
+    "name": "books",
+    "r": 101,
+    "g": 132,
+    "b": 105
+  },
+  "boom": {
+    "name": "boom",
+    "r": 233,
+    "g": 135,
+    "b": 15
+  },
+  "boot": {
+    "name": "boot",
+    "r": 115,
+    "g": 101,
+    "b": 82
+  },
+  "bosnia_herzegovina": {
+    "name": "bosnia_herzegovina",
+    "r": 105,
+    "g": 93,
+    "b": 108
+  },
+  "botswana": {
+    "name": "botswana",
+    "r": 106,
+    "g": 135,
+    "b": 162
+  },
+  "bouncing_ball_man": {
+    "name": "bouncing_ball_man",
+    "r": 164,
+    "g": 141,
+    "b": 54
+  },
+  "bouncing_ball_person": {
+    "name": "bouncing_ball_person",
+    "r": 160,
+    "g": 138,
+    "b": 56
+  },
+  "bouncing_ball_woman": {
+    "name": "bouncing_ball_woman",
+    "r": 171,
+    "g": 105,
+    "b": 72
+  },
+  "bouquet": {
+    "name": "bouquet",
+    "r": 178,
+    "g": 171,
+    "b": 93
+  },
+  "bouvet_island": {
+    "name": "bouvet_island",
+    "r": 185,
+    "g": 79,
+    "b": 93
+  },
+  "bow": {
+    "name": "bow",
+    "r": 105,
+    "g": 134,
+    "b": 72
+  },
+  "bow_and_arrow": {
+    "name": "bow_and_arrow",
+    "r": 172,
+    "g": 130,
+    "b": 98
+  },
+  "bowing_man": {
+    "name": "bowing_man",
+    "r": 105,
+    "g": 135,
+    "b": 73
+  },
+  "bowing_woman": {
+    "name": "bowing_woman",
+    "r": 127,
+    "g": 78,
+    "b": 102
+  },
+  "bowl_with_spoon": {
+    "name": "bowl_with_spoon",
+    "r": 140,
+    "g": 181,
+    "b": 187
+  },
+  "bowling": {
+    "name": "bowling",
+    "r": 153,
+    "g": 149,
+    "b": 150
+  },
+  "bowtie": {
+    "name": "bowtie",
+    "r": 183,
+    "g": 132,
+    "b": 61
+  },
+  "boxing_glove": {
+    "name": "boxing_glove",
+    "r": 217,
+    "g": 64,
+    "b": 58
+  },
+  "boy": {
+    "name": "boy",
+    "r": 162,
+    "g": 118,
+    "b": 37
+  },
+  "brain": {
+    "name": "brain",
+    "r": 237,
+    "g": 157,
+    "b": 159
+  },
+  "brazil": {
+    "name": "brazil",
+    "r": 67,
+    "g": 152,
+    "b": 94
+  },
+  "bread": {
+    "name": "bread",
+    "r": 218,
+    "g": 158,
+    "b": 102
+  },
+  "breast_feeding": {
+    "name": "breast_feeding",
+    "r": 118,
+    "g": 103,
+    "b": 107
+  },
+  "bricks": {
+    "name": "bricks",
+    "r": 209,
+    "g": 111,
+    "b": 77
+  },
+  "bride_with_veil": {
+    "name": "bride_with_veil",
+    "r": 181,
+    "g": 148,
+    "b": 108
+  },
+  "bridge_at_night": {
+    "name": "bridge_at_night",
+    "r": 102,
+    "g": 89,
+    "b": 92
+  },
+  "briefcase": {
+    "name": "briefcase",
+    "r": 133,
+    "g": 107,
+    "b": 96
+  },
+  "british_indian_ocean_territory": {
+    "name": "british_indian_ocean_territory",
+    "r": 135,
+    "g": 134,
+    "b": 160
+  },
+  "british_virgin_islands": {
+    "name": "british_virgin_islands",
+    "r": 75,
+    "g": 50,
+    "b": 99
+  },
+  "broccoli": {
+    "name": "broccoli",
+    "r": 97,
+    "g": 126,
+    "b": 29
+  },
+  "broken_heart": {
+    "name": "broken_heart",
+    "r": 204,
+    "g": 48,
+    "b": 46
+  },
+  "broom": {
+    "name": "broom",
+    "r": 167,
+    "g": 111,
+    "b": 12
+  },
+  "brown_circle": {
+    "name": "brown_circle",
+    "r": 133,
+    "g": 98,
+    "b": 67
+  },
+  "brown_heart": {
+    "name": "brown_heart",
+    "r": 135,
+    "g": 98,
+    "b": 67
+  },
+  "brown_square": {
+    "name": "brown_square",
+    "r": 137,
+    "g": 101,
+    "b": 69
+  },
+  "brunei": {
+    "name": "brunei",
+    "r": 179,
+    "g": 158,
+    "b": 78
+  },
+  "bug": {
+    "name": "bug",
+    "r": 110,
+    "g": 164,
+    "b": 23
+  },
+  "building_construction": {
+    "name": "building_construction",
+    "r": 185,
+    "g": 150,
+    "b": 94
+  },
+  "bulb": {
+    "name": "bulb",
+    "r": 223,
+    "g": 220,
+    "b": 125
+  },
+  "bulgaria": {
+    "name": "bulgaria",
+    "r": 139,
+    "g": 139,
+    "b": 123
+  },
+  "bullettrain_front": {
+    "name": "bullettrain_front",
+    "r": 121,
+    "g": 158,
+    "b": 178
+  },
+  "bullettrain_side": {
+    "name": "bullettrain_side",
+    "r": 128,
+    "g": 156,
+    "b": 170
+  },
+  "burkina_faso": {
+    "name": "burkina_faso",
+    "r": 120,
+    "g": 106,
+    "b": 69
+  },
+  "burrito": {
+    "name": "burrito",
+    "r": 178,
+    "g": 164,
+    "b": 142
+  },
+  "burundi": {
+    "name": "burundi",
+    "r": 150,
+    "g": 152,
+    "b": 121
+  },
+  "bus": {
+    "name": "bus",
+    "r": 147,
+    "g": 188,
+    "b": 195
+  },
+  "business_suit_levitating": {
+    "name": "business_suit_levitating",
+    "r": 98,
+    "g": 90,
+    "b": 75
+  },
+  "busstop": {
+    "name": "busstop",
+    "r": 101,
+    "g": 165,
+    "b": 175
+  },
+  "bust_in_silhouette": {
+    "name": "bust_in_silhouette",
+    "r": 27,
+    "g": 117,
+    "b": 206
+  },
+  "busts_in_silhouette": {
+    "name": "busts_in_silhouette",
+    "r": 40,
+    "g": 123,
+    "b": 206
+  },
+  "butter": {
+    "name": "butter",
+    "r": 178,
+    "g": 193,
+    "b": 114
+  },
+  "butterfly": {
+    "name": "butterfly",
+    "r": 138,
+    "g": 85,
+    "b": 20
+  },
+  "cactus": {
+    "name": "cactus",
+    "r": 116,
+    "g": 165,
+    "b": 70
+  },
+  "cake": {
+    "name": "cake",
+    "r": 229,
+    "g": 151,
+    "b": 89
+  },
+  "calendar": {
+    "name": "calendar",
+    "r": 145,
+    "g": 176,
+    "b": 204
+  },
+  "call_me_hand": {
+    "name": "call_me_hand",
+    "r": 250,
+    "g": 183,
+    "b": 14
+  },
+  "calling": {
+    "name": "calling",
+    "r": 126,
+    "g": 114,
+    "b": 89
+  },
+  "cambodia": {
+    "name": "cambodia",
+    "r": 125,
+    "g": 44,
+    "b": 92
+  },
+  "camel": {
+    "name": "camel",
+    "r": 166,
+    "g": 129,
+    "b": 91
+  },
+  "camera": {
+    "name": "camera",
+    "r": 113,
+    "g": 113,
+    "b": 113
+  },
+  "camera_flash": {
+    "name": "camera_flash",
+    "r": 129,
+    "g": 117,
+    "b": 92
+  },
+  "cameroon": {
+    "name": "cameroon",
+    "r": 147,
+    "g": 115,
+    "b": 63
+  },
+  "camping": {
+    "name": "camping",
+    "r": 148,
+    "g": 147,
+    "b": 41
+  },
+  "canada": {
+    "name": "canada",
+    "r": 224,
+    "g": 96,
+    "b": 96
+  },
+  "canary_islands": {
+    "name": "canary_islands",
+    "r": 160,
+    "g": 170,
+    "b": 133
+  },
+  "cancer": {
+    "name": "cancer",
+    "r": 244,
+    "g": 194,
+    "b": 83
+  },
+  "candle": {
+    "name": "candle",
+    "r": 218,
+    "g": 201,
+    "b": 177
+  },
+  "candy": {
+    "name": "candy",
+    "r": 118,
+    "g": 169,
+    "b": 171
+  },
+  "canned_food": {
+    "name": "canned_food",
+    "r": 215,
+    "g": 185,
+    "b": 127
+  },
+  "canoe": {
+    "name": "canoe",
+    "r": 197,
+    "g": 129,
+    "b": 51
+  },
+  "cape_verde": {
+    "name": "cape_verde",
+    "r": 76,
+    "g": 91,
+    "b": 140
+  },
+  "capital_abcd": {
+    "name": "capital_abcd",
+    "r": 50,
+    "g": 166,
+    "b": 224
+  },
+  "capricorn": {
+    "name": "capricorn",
+    "r": 135,
+    "g": 103,
+    "b": 192
+  },
+  "car": {
+    "name": "car",
+    "r": 171,
+    "g": 172,
+    "b": 171
+  },
+  "card_file_box": {
+    "name": "card_file_box",
+    "r": 148,
+    "g": 141,
+    "b": 114
+  },
+  "card_index": {
+    "name": "card_index",
+    "r": 171,
+    "g": 173,
+    "b": 174
+  },
+  "card_index_dividers": {
+    "name": "card_index_dividers",
+    "r": 235,
+    "g": 203,
+    "b": 92
+  },
+  "caribbean_netherlands": {
+    "name": "caribbean_netherlands",
+    "r": 121,
+    "g": 132,
+    "b": 156
+  },
+  "carousel_horse": {
+    "name": "carousel_horse",
+    "r": 212,
+    "g": 139,
+    "b": 179
+  },
+  "carrot": {
+    "name": "carrot",
+    "r": 195,
+    "g": 120,
+    "b": 29
+  },
+  "cartwheeling": {
+    "name": "cartwheeling",
+    "r": 202,
+    "g": 139,
+    "b": 43
+  },
+  "cat": {
+    "name": "cat",
+    "r": 213,
+    "g": 160,
+    "b": 41
+  },
+  "cat2": {
+    "name": "cat2",
+    "r": 225,
+    "g": 160,
+    "b": 37
+  },
+  "cayman_islands": {
+    "name": "cayman_islands",
+    "r": 82,
+    "g": 49,
+    "b": 100
+  },
+  "cd": {
+    "name": "cd",
+    "r": 228,
+    "g": 228,
+    "b": 228
+  },
+  "central_african_republic": {
+    "name": "central_african_republic",
+    "r": 141,
+    "g": 134,
+    "b": 100
+  },
+  "ceuta_melilla": {
+    "name": "ceuta_melilla",
+    "r": 213,
+    "g": 95,
+    "b": 19
+  },
+  "chad": {
+    "name": "chad",
+    "r": 149,
+    "g": 95,
+    "b": 64
+  },
+  "chains": {
+    "name": "chains",
+    "r": 164,
+    "g": 164,
+    "b": 164
+  },
+  "chair": {
+    "name": "chair",
+    "r": 112,
+    "g": 79,
+    "b": 56
+  },
+  "champagne": {
+    "name": "champagne",
+    "r": 152,
+    "g": 153,
+    "b": 103
+  },
+  "chart": {
+    "name": "chart",
+    "r": 121,
+    "g": 191,
+    "b": 123
+  },
+  "chart_with_downwards_trend": {
+    "name": "chart_with_downwards_trend",
+    "r": 195,
+    "g": 201,
+    "b": 197
+  },
+  "chart_with_upwards_trend": {
+    "name": "chart_with_upwards_trend",
+    "r": 205,
+    "g": 196,
+    "b": 196
+  },
+  "checkered_flag": {
+    "name": "checkered_flag",
+    "r": 163,
+    "g": 163,
+    "b": 163
+  },
+  "cheese": {
+    "name": "cheese",
+    "r": 239,
+    "g": 193,
+    "b": 43
+  },
+  "cherries": {
+    "name": "cherries",
+    "r": 184,
+    "g": 67,
+    "b": 46
+  },
+  "cherry_blossom": {
+    "name": "cherry_blossom",
+    "r": 238,
+    "g": 170,
+    "b": 193
+  },
+  "chess_pawn": {
+    "name": "chess_pawn",
+    "r": 64,
+    "g": 64,
+    "b": 64
+  },
+  "chestnut": {
+    "name": "chestnut",
+    "r": 141,
+    "g": 78,
+    "b": 62
+  },
+  "chicken": {
+    "name": "chicken",
+    "r": 211,
+    "g": 197,
+    "b": 191
+  },
+  "child": {
+    "name": "child",
+    "r": 157,
+    "g": 114,
+    "b": 37
+  },
+  "children_crossing": {
+    "name": "children_crossing",
+    "r": 201,
+    "g": 171,
+    "b": 38
+  },
+  "chile": {
+    "name": "chile",
+    "r": 182,
+    "g": 121,
+    "b": 127
+  },
+  "chipmunk": {
+    "name": "chipmunk",
+    "r": 184,
+    "g": 100,
+    "b": 37
+  },
+  "chocolate_bar": {
+    "name": "chocolate_bar",
+    "r": 166,
+    "g": 110,
+    "b": 104
+  },
+  "chopsticks": {
+    "name": "chopsticks",
+    "r": 179,
+    "g": 70,
+    "b": 68
+  },
+  "christmas_island": {
+    "name": "christmas_island",
+    "r": 55,
+    "g": 102,
+    "b": 117
+  },
+  "christmas_tree": {
+    "name": "christmas_tree",
+    "r": 82,
+    "g": 140,
+    "b": 61
+  },
+  "church": {
+    "name": "church",
+    "r": 194,
+    "g": 170,
+    "b": 170
+  },
+  "cinema": {
+    "name": "cinema",
+    "r": 246,
+    "g": 180,
+    "b": 117
+  },
+  "circus_tent": {
+    "name": "circus_tent",
+    "r": 213,
+    "g": 98,
+    "b": 50
+  },
+  "city_sunrise": {
+    "name": "city_sunrise",
+    "r": 182,
+    "g": 104,
+    "b": 44
+  },
+  "city_sunset": {
+    "name": "city_sunset",
+    "r": 97,
+    "g": 48,
+    "b": 117
+  },
+  "cityscape": {
+    "name": "cityscape",
+    "r": 83,
+    "g": 139,
+    "b": 162
+  },
+  "cl": {
+    "name": "cl",
+    "r": 223,
+    "g": 89,
+    "b": 87
+  },
+  "clamp": {
+    "name": "clamp",
+    "r": 114,
+    "g": 133,
+    "b": 141
+  },
+  "clap": {
+    "name": "clap",
+    "r": 239,
+    "g": 176,
+    "b": 17
+  },
+  "clapper": {
+    "name": "clapper",
+    "r": 77,
+    "g": 129,
+    "b": 121
+  },
+  "classical_building": {
+    "name": "classical_building",
+    "r": 79,
+    "g": 161,
+    "b": 152
+  },
+  "climbing": {
+    "name": "climbing",
+    "r": 129,
+    "g": 102,
+    "b": 71
+  },
+  "climbing_man": {
+    "name": "climbing_man",
+    "r": 130,
+    "g": 104,
+    "b": 63
+  },
+  "climbing_woman": {
+    "name": "climbing_woman",
+    "r": 134,
+    "g": 91,
+    "b": 70
+  },
+  "clinking_glasses": {
+    "name": "clinking_glasses",
+    "r": 218,
+    "g": 202,
+    "b": 167
+  },
+  "clipboard": {
+    "name": "clipboard",
+    "r": 192,
+    "g": 179,
+    "b": 165
+  },
+  "clipperton_island": {
+    "name": "clipperton_island",
+    "r": 158,
+    "g": 109,
+    "b": 149
+  },
+  "clock1": {
+    "name": "clock1",
+    "r": 202,
+    "g": 208,
+    "b": 212
+  },
+  "clock10": {
+    "name": "clock10",
+    "r": 202,
+    "g": 208,
+    "b": 211
+  },
+  "clock1030": {
+    "name": "clock1030",
+    "r": 203,
+    "g": 209,
+    "b": 212
+  },
+  "clock11": {
+    "name": "clock11",
+    "r": 202,
+    "g": 208,
+    "b": 212
+  },
+  "clock1130": {
+    "name": "clock1130",
+    "r": 203,
+    "g": 209,
+    "b": 212
+  },
+  "clock12": {
+    "name": "clock12",
+    "r": 204,
+    "g": 211,
+    "b": 214
+  },
+  "clock1230": {
+    "name": "clock1230",
+    "r": 203,
+    "g": 209,
+    "b": 212
+  },
+  "clock130": {
+    "name": "clock130",
+    "r": 203,
+    "g": 209,
+    "b": 212
+  },
+  "clock2": {
+    "name": "clock2",
+    "r": 202,
+    "g": 208,
+    "b": 211
+  },
+  "clock230": {
+    "name": "clock230",
+    "r": 203,
+    "g": 209,
+    "b": 212
+  },
+  "clock3": {
+    "name": "clock3",
+    "r": 202,
+    "g": 208,
+    "b": 212
+  },
+  "clock330": {
+    "name": "clock330",
+    "r": 203,
+    "g": 209,
+    "b": 212
+  },
+  "clock4": {
+    "name": "clock4",
+    "r": 202,
+    "g": 208,
+    "b": 212
+  },
+  "clock430": {
+    "name": "clock430",
+    "r": 203,
+    "g": 209,
+    "b": 212
+  },
+  "clock5": {
+    "name": "clock5",
+    "r": 202,
+    "g": 208,
+    "b": 212
+  },
+  "clock530": {
+    "name": "clock530",
+    "r": 203,
+    "g": 209,
+    "b": 213
+  },
+  "clock6": {
+    "name": "clock6",
+    "r": 202,
+    "g": 208,
+    "b": 212
+  },
+  "clock630": {
+    "name": "clock630",
+    "r": 205,
+    "g": 211,
+    "b": 215
+  },
+  "clock7": {
+    "name": "clock7",
+    "r": 202,
+    "g": 208,
+    "b": 212
+  },
+  "clock730": {
+    "name": "clock730",
+    "r": 203,
+    "g": 209,
+    "b": 213
+  },
+  "clock8": {
+    "name": "clock8",
+    "r": 202,
+    "g": 208,
+    "b": 212
+  },
+  "clock830": {
+    "name": "clock830",
+    "r": 203,
+    "g": 209,
+    "b": 212
+  },
+  "clock9": {
+    "name": "clock9",
+    "r": 202,
+    "g": 208,
+    "b": 212
+  },
+  "clock930": {
+    "name": "clock930",
+    "r": 203,
+    "g": 209,
+    "b": 212
+  },
+  "closed_book": {
+    "name": "closed_book",
+    "r": 162,
+    "g": 136,
+    "b": 129
+  },
+  "closed_lock_with_key": {
+    "name": "closed_lock_with_key",
+    "r": 233,
+    "g": 162,
+    "b": 30
+  },
+  "closed_umbrella": {
+    "name": "closed_umbrella",
+    "r": 148,
+    "g": 79,
+    "b": 159
+  },
+  "cloud": {
+    "name": "cloud",
+    "r": 185,
+    "g": 219,
+    "b": 245
+  },
+  "cloud_with_lightning": {
+    "name": "cloud_with_lightning",
+    "r": 195,
+    "g": 216,
+    "b": 218
+  },
+  "cloud_with_lightning_and_rain": {
+    "name": "cloud_with_lightning_and_rain",
+    "r": 183,
+    "g": 211,
+    "b": 219
+  },
+  "cloud_with_rain": {
+    "name": "cloud_with_rain",
+    "r": 176,
+    "g": 213,
+    "b": 242
+  },
+  "cloud_with_snow": {
+    "name": "cloud_with_snow",
+    "r": 176,
+    "g": 214,
+    "b": 245
+  },
+  "clown_face": {
+    "name": "clown_face",
+    "r": 207,
+    "g": 144,
+    "b": 138
+  },
+  "clubs": {
+    "name": "clubs",
+    "r": 65,
+    "g": 65,
+    "b": 65
+  },
+  "cn": {
+    "name": "cn",
+    "r": 186,
+    "g": 43,
+    "b": 53
+  },
+  "coat": {
+    "name": "coat",
+    "r": 53,
+    "g": 65,
+    "b": 150
+  },
+  "cocktail": {
+    "name": "cocktail",
+    "r": 205,
+    "g": 207,
+    "b": 180
+  },
+  "coconut": {
+    "name": "coconut",
+    "r": 130,
+    "g": 99,
+    "b": 80
+  },
+  "cocos_islands": {
+    "name": "cocos_islands",
+    "r": 56,
+    "g": 131,
+    "b": 41
+  },
+  "coffee": {
+    "name": "coffee",
+    "r": 204,
+    "g": 199,
+    "b": 198
+  },
+  "coffin": {
+    "name": "coffin",
+    "r": 159,
+    "g": 103,
+    "b": 69
+  },
+  "cold_face": {
+    "name": "cold_face",
+    "r": 89,
+    "g": 190,
+    "b": 225
+  },
+  "cold_sweat": {
+    "name": "cold_sweat",
+    "r": 172,
+    "g": 183,
+    "b": 95
+  },
+  "collision": {
+    "name": "collision",
+    "r": 233,
+    "g": 135,
+    "b": 15
+  },
+  "colombia": {
+    "name": "colombia",
+    "r": 159,
+    "g": 118,
+    "b": 71
+  },
+  "comet": {
+    "name": "comet",
+    "r": 176,
+    "g": 213,
+    "b": 242
+  },
+  "comoros": {
+    "name": "comoros",
+    "r": 146,
+    "g": 146,
+    "b": 120
+  },
+  "compass": {
+    "name": "compass",
+    "r": 212,
+    "g": 179,
+    "b": 105
+  },
+  "computer": {
+    "name": "computer",
+    "r": 148,
+    "g": 148,
+    "b": 148
+  },
+  "computer_mouse": {
+    "name": "computer_mouse",
+    "r": 166,
+    "g": 166,
+    "b": 166
+  },
+  "confetti_ball": {
+    "name": "confetti_ball",
+    "r": 186,
+    "g": 142,
+    "b": 74
+  },
+  "confounded": {
+    "name": "confounded",
+    "r": 219,
+    "g": 155,
+    "b": 32
+  },
+  "confused": {
+    "name": "confused",
+    "r": 231,
+    "g": 183,
+    "b": 38
+  },
+  "congo_brazzaville": {
+    "name": "congo_brazzaville",
+    "r": 160,
+    "g": 141,
+    "b": 78
+  },
+  "congo_kinshasa": {
+    "name": "congo_kinshasa",
+    "r": 90,
+    "g": 129,
+    "b": 140
+  },
+  "congratulations": {
+    "name": "congratulations",
+    "r": 243,
+    "g": 131,
+    "b": 169
+  },
+  "construction": {
+    "name": "construction",
+    "r": 149,
+    "g": 127,
+    "b": 71
+  },
+  "construction_worker": {
+    "name": "construction_worker",
+    "r": 215,
+    "g": 178,
+    "b": 75
+  },
+  "construction_worker_man": {
+    "name": "construction_worker_man",
+    "r": 221,
+    "g": 179,
+    "b": 32
+  },
+  "construction_worker_woman": {
+    "name": "construction_worker_woman",
+    "r": 205,
+    "g": 166,
+    "b": 34
+  },
+  "control_knobs": {
+    "name": "control_knobs",
+    "r": 128,
+    "g": 181,
+    "b": 209
+  },
+  "convenience_store": {
+    "name": "convenience_store",
+    "r": 131,
+    "g": 197,
+    "b": 200
+  },
+  "cook": {
+    "name": "cook",
+    "r": 195,
+    "g": 175,
+    "b": 131
+  },
+  "cook_islands": {
+    "name": "cook_islands",
+    "r": 80,
+    "g": 47,
+    "b": 103
+  },
+  "cookie": {
+    "name": "cookie",
+    "r": 238,
+    "g": 175,
+    "b": 85
+  },
+  "cool": {
+    "name": "cool",
+    "r": 45,
+    "g": 164,
+    "b": 224
+  },
+  "cop": {
+    "name": "cop",
+    "r": 117,
+    "g": 115,
+    "b": 113
+  },
+  "copyright": {
+    "name": "copyright",
+    "r": 86,
+    "g": 86,
+    "b": 86
+  },
+  "corn": {
+    "name": "corn",
+    "r": 171,
+    "g": 173,
+    "b": 56
+  },
+  "costa_rica": {
+    "name": "costa_rica",
+    "r": 152,
+    "g": 112,
+    "b": 137
+  },
+  "cote_divoire": {
+    "name": "cote_divoire",
+    "r": 156,
+    "g": 167,
+    "b": 120
+  },
+  "couch_and_lamp": {
+    "name": "couch_and_lamp",
+    "r": 228,
+    "g": 153,
+    "b": 36
+  },
+  "couple": {
+    "name": "couple",
+    "r": 128,
+    "g": 108,
+    "b": 85
+  },
+  "couple_with_heart": {
+    "name": "couple_with_heart",
+    "r": 195,
+    "g": 117,
+    "b": 64
+  },
+  "couple_with_heart_man_man": {
+    "name": "couple_with_heart_man_man",
+    "r": 164,
+    "g": 124,
+    "b": 87
+  },
+  "couple_with_heart_woman_man": {
+    "name": "couple_with_heart_woman_man",
+    "r": 169,
+    "g": 111,
+    "b": 97
+  },
+  "couple_with_heart_woman_woman": {
+    "name": "couple_with_heart_woman_woman",
+    "r": 177,
+    "g": 89,
+    "b": 103
+  },
+  "couplekiss": {
+    "name": "couplekiss",
+    "r": 202,
+    "g": 124,
+    "b": 66
+  },
+  "couplekiss_man_man": {
+    "name": "couplekiss_man_man",
+    "r": 208,
+    "g": 128,
+    "b": 66
+  },
+  "couplekiss_man_woman": {
+    "name": "couplekiss_man_woman",
+    "r": 199,
+    "g": 123,
+    "b": 67
+  },
+  "couplekiss_woman_woman": {
+    "name": "couplekiss_woman_woman",
+    "r": 194,
+    "g": 120,
+    "b": 68
+  },
+  "cow": {
+    "name": "cow",
+    "r": 209,
+    "g": 186,
+    "b": 159
+  },
+  "cow2": {
+    "name": "cow2",
+    "r": 166,
+    "g": 155,
+    "b": 155
+  },
+  "cowboy_hat_face": {
+    "name": "cowboy_hat_face",
+    "r": 173,
+    "g": 132,
+    "b": 49
+  },
+  "crab": {
+    "name": "crab",
+    "r": 178,
+    "g": 39,
+    "b": 36
+  },
+  "crayon": {
+    "name": "crayon",
+    "r": 196,
+    "g": 53,
+    "b": 51
+  },
+  "credit_card": {
+    "name": "credit_card",
+    "r": 207,
+    "g": 180,
+    "b": 97
+  },
+  "crescent_moon": {
+    "name": "crescent_moon",
+    "r": 237,
+    "g": 213,
+    "b": 66
+  },
+  "cricket": {
+    "name": "cricket",
+    "r": 121,
+    "g": 83,
+    "b": 47
+  },
+  "cricket_game": {
+    "name": "cricket_game",
+    "r": 216,
+    "g": 139,
+    "b": 102
+  },
+  "croatia": {
+    "name": "croatia",
+    "r": 148,
+    "g": 103,
+    "b": 126
+  },
+  "crocodile": {
+    "name": "crocodile",
+    "r": 65,
+    "g": 138,
+    "b": 53
+  },
+  "croissant": {
+    "name": "croissant",
+    "r": 218,
+    "g": 133,
+    "b": 40
+  },
+  "crossed_fingers": {
+    "name": "crossed_fingers",
+    "r": 249,
+    "g": 183,
+    "b": 15
+  },
+  "crossed_flags": {
+    "name": "crossed_flags",
+    "r": 225,
+    "g": 192,
+    "b": 191
+  },
+  "crossed_swords": {
+    "name": "crossed_swords",
+    "r": 157,
+    "g": 170,
+    "b": 164
+  },
+  "crown": {
+    "name": "crown",
+    "r": 221,
+    "g": 192,
+    "b": 68
+  },
+  "cry": {
+    "name": "cry",
+    "r": 217,
+    "g": 156,
+    "b": 45
+  },
+  "crying_cat_face": {
+    "name": "crying_cat_face",
+    "r": 213,
+    "g": 162,
+    "b": 49
+  },
+  "crystal_ball": {
+    "name": "crystal_ball",
+    "r": 88,
+    "g": 173,
+    "b": 231
+  },
+  "cuba": {
+    "name": "cuba",
+    "r": 126,
+    "g": 105,
+    "b": 145
+  },
+  "cucumber": {
+    "name": "cucumber",
+    "r": 93,
+    "g": 164,
+    "b": 40
+  },
+  "cup_with_straw": {
+    "name": "cup_with_straw",
+    "r": 81,
+    "g": 154,
+    "b": 226
+  },
+  "cupcake": {
+    "name": "cupcake",
+    "r": 160,
+    "g": 155,
+    "b": 179
+  },
+  "cupid": {
+    "name": "cupid",
+    "r": 218,
+    "g": 94,
+    "b": 45
+  },
+  "curacao": {
+    "name": "curacao",
+    "r": 60,
+    "g": 85,
+    "b": 111
+  },
+  "curling_stone": {
+    "name": "curling_stone",
+    "r": 141,
+    "g": 104,
+    "b": 103
+  },
+  "curly_haired_man": {
+    "name": "curly_haired_man",
+    "r": 118,
+    "g": 134,
+    "b": 68
+  },
+  "curly_haired_woman": {
+    "name": "curly_haired_woman",
+    "r": 130,
+    "g": 83,
+    "b": 87
+  },
+  "curly_loop": {
+    "name": "curly_loop",
+    "r": 85,
+    "g": 193,
+    "b": 241
+  },
+  "currency_exchange": {
+    "name": "currency_exchange",
+    "r": 78,
+    "g": 150,
+    "b": 148
+  },
+  "curry": {
+    "name": "curry",
+    "r": 200,
+    "g": 176,
+    "b": 154
+  },
+  "cursing_face": {
+    "name": "cursing_face",
+    "r": 178,
+    "g": 68,
+    "b": 68
+  },
+  "custard": {
+    "name": "custard",
+    "r": 188,
+    "g": 151,
+    "b": 109
+  },
+  "customs": {
+    "name": "customs",
+    "r": 132,
+    "g": 167,
+    "b": 244
+  },
+  "cut_of_meat": {
+    "name": "cut_of_meat",
+    "r": 206,
+    "g": 114,
+    "b": 109
+  },
+  "cyclone": {
+    "name": "cyclone",
+    "r": 31,
+    "g": 127,
+    "b": 213
+  },
+  "cyprus": {
+    "name": "cyprus",
+    "r": 219,
+    "g": 214,
+    "b": 205
+  },
+  "czech_republic": {
+    "name": "czech_republic",
+    "r": 164,
+    "g": 118,
+    "b": 131
+  },
+  "dagger": {
+    "name": "dagger",
+    "r": 116,
+    "g": 180,
+    "b": 179
+  },
+  "dancer": {
+    "name": "dancer",
+    "r": 188,
+    "g": 73,
+    "b": 11
+  },
+  "dancers": {
+    "name": "dancers",
+    "r": 154,
+    "g": 117,
+    "b": 43
+  },
+  "dancing_men": {
+    "name": "dancing_men",
+    "r": 163,
+    "g": 125,
+    "b": 41
+  },
+  "dancing_women": {
+    "name": "dancing_women",
+    "r": 156,
+    "g": 120,
+    "b": 41
+  },
+  "dango": {
+    "name": "dango",
+    "r": 223,
+    "g": 188,
+    "b": 148
+  },
+  "dark_sunglasses": {
+    "name": "dark_sunglasses",
+    "r": 6,
+    "g": 6,
+    "b": 6
+  },
+  "dart": {
+    "name": "dart",
+    "r": 214,
+    "g": 126,
+    "b": 122
+  },
+  "dash": {
+    "name": "dash",
+    "r": 214,
+    "g": 217,
+    "b": 235
+  },
+  "date": {
+    "name": "date",
+    "r": 145,
+    "g": 183,
+    "b": 216
+  },
+  "de": {
+    "name": "de",
+    "r": 161,
+    "g": 75,
+    "b": 25
+  },
+  "deaf_man": {
+    "name": "deaf_man",
+    "r": 176,
+    "g": 157,
+    "b": 48
+  },
+  "deaf_person": {
+    "name": "deaf_person",
+    "r": 195,
+    "g": 135,
+    "b": 32
+  },
+  "deaf_woman": {
+    "name": "deaf_woman",
+    "r": 170,
+    "g": 119,
+    "b": 61
+  },
+  "deciduous_tree": {
+    "name": "deciduous_tree",
+    "r": 131,
+    "g": 177,
+    "b": 81
+  },
+  "deer": {
+    "name": "deer",
+    "r": 170,
+    "g": 107,
+    "b": 72
+  },
+  "denmark": {
+    "name": "denmark",
+    "r": 190,
+    "g": 79,
+    "b": 100
+  },
+  "department_store": {
+    "name": "department_store",
+    "r": 172,
+    "g": 133,
+    "b": 125
+  },
+  "derelict_house": {
+    "name": "derelict_house",
+    "r": 126,
+    "g": 98,
+    "b": 77
+  },
+  "desert": {
+    "name": "desert",
+    "r": 207,
+    "g": 183,
+    "b": 49
+  },
+  "desert_island": {
+    "name": "desert_island",
+    "r": 90,
+    "g": 153,
+    "b": 124
+  },
+  "desktop_computer": {
+    "name": "desktop_computer",
+    "r": 158,
+    "g": 158,
+    "b": 158
+  },
+  "detective": {
+    "name": "detective",
+    "r": 149,
+    "g": 131,
+    "b": 90
+  },
+  "diamond_shape_with_a_dot_inside": {
+    "name": "diamond_shape_with_a_dot_inside",
+    "r": 63,
+    "g": 181,
+    "b": 239
+  },
+  "diamonds": {
+    "name": "diamonds",
+    "r": 227,
+    "g": 70,
+    "b": 67
+  },
+  "diego_garcia": {
+    "name": "diego_garcia",
+    "r": 131,
+    "g": 132,
+    "b": 163
+  },
+  "disappointed": {
+    "name": "disappointed",
+    "r": 234,
+    "g": 165,
+    "b": 33
+  },
+  "disappointed_relieved": {
+    "name": "disappointed_relieved",
+    "r": 216,
+    "g": 160,
+    "b": 48
+  },
+  "diving_mask": {
+    "name": "diving_mask",
+    "r": 100,
+    "g": 140,
+    "b": 191
+  },
+  "diya_lamp": {
+    "name": "diya_lamp",
+    "r": 180,
+    "g": 108,
+    "b": 66
+  },
+  "dizzy": {
+    "name": "dizzy",
+    "r": 173,
+    "g": 189,
+    "b": 137
+  },
+  "dizzy_face": {
+    "name": "dizzy_face",
+    "r": 200,
+    "g": 142,
+    "b": 36
+  },
+  "djibouti": {
+    "name": "djibouti",
+    "r": 107,
+    "g": 174,
+    "b": 150
+  },
+  "dna": {
+    "name": "dna",
+    "r": 138,
+    "g": 112,
+    "b": 130
+  },
+  "do_not_litter": {
+    "name": "do_not_litter",
+    "r": 152,
+    "g": 77,
+    "b": 77
+  },
+  "dog": {
+    "name": "dog",
+    "r": 221,
+    "g": 175,
+    "b": 107
+  },
+  "dog2": {
+    "name": "dog2",
+    "r": 233,
+    "g": 175,
+    "b": 90
+  },
+  "dollar": {
+    "name": "dollar",
+    "r": 112,
+    "g": 174,
+    "b": 99
+  },
+  "dolls": {
+    "name": "dolls",
+    "r": 138,
+    "g": 116,
+    "b": 128
+  },
+  "dolphin": {
+    "name": "dolphin",
+    "r": 64,
+    "g": 163,
+    "b": 217
+  },
+  "dominica": {
+    "name": "dominica",
+    "r": 76,
+    "g": 130,
+    "b": 80
+  },
+  "dominican_republic": {
+    "name": "dominican_republic",
+    "r": 143,
+    "g": 106,
+    "b": 127
+  },
+  "door": {
+    "name": "door",
+    "r": 119,
+    "g": 90,
+    "b": 79
+  },
+  "doughnut": {
+    "name": "doughnut",
+    "r": 151,
+    "g": 100,
+    "b": 59
+  },
+  "dove": {
+    "name": "dove",
+    "r": 208,
+    "g": 214,
+    "b": 205
+  },
+  "dragon": {
+    "name": "dragon",
+    "r": 52,
+    "g": 138,
+    "b": 71
+  },
+  "dragon_face": {
+    "name": "dragon_face",
+    "r": 63,
+    "g": 136,
+    "b": 65
+  },
+  "dress": {
+    "name": "dress",
+    "r": 54,
+    "g": 68,
+    "b": 160
+  },
+  "dromedary_camel": {
+    "name": "dromedary_camel",
+    "r": 190,
+    "g": 122,
+    "b": 49
+  },
+  "drooling_face": {
+    "name": "drooling_face",
+    "r": 219,
+    "g": 178,
+    "b": 47
+  },
+  "drop_of_blood": {
+    "name": "drop_of_blood",
+    "r": 206,
+    "g": 49,
+    "b": 47
+  },
+  "droplet": {
+    "name": "droplet",
+    "r": 133,
+    "g": 192,
+    "b": 240
+  },
+  "drum": {
+    "name": "drum",
+    "r": 109,
+    "g": 144,
+    "b": 159
+  },
+  "duck": {
+    "name": "duck",
+    "r": 143,
+    "g": 110,
+    "b": 70
+  },
+  "dumpling": {
+    "name": "dumpling",
+    "r": 227,
+    "g": 211,
+    "b": 196
+  },
+  "dvd": {
+    "name": "dvd",
+    "r": 246,
+    "g": 195,
+    "b": 71
+  },
+  "e-mail": {
+    "name": "e-mail",
+    "r": 209,
+    "g": 191,
+    "b": 95
+  },
+  "eagle": {
+    "name": "eagle",
+    "r": 143,
+    "g": 118,
+    "b": 102
+  },
+  "ear": {
+    "name": "ear",
+    "r": 250,
+    "g": 188,
+    "b": 21
+  },
+  "ear_of_rice": {
+    "name": "ear_of_rice",
+    "r": 177,
+    "g": 162,
+    "b": 36
+  },
+  "ear_with_hearing_aid": {
+    "name": "ear_with_hearing_aid",
+    "r": 228,
+    "g": 166,
+    "b": 37
+  },
+  "earth_africa": {
+    "name": "earth_africa",
+    "r": 99,
+    "g": 173,
+    "b": 130
+  },
+  "earth_americas": {
+    "name": "earth_americas",
+    "r": 84,
+    "g": 164,
+    "b": 159
+  },
+  "earth_asia": {
+    "name": "earth_asia",
+    "r": 88,
+    "g": 166,
+    "b": 150
+  },
+  "ecuador": {
+    "name": "ecuador",
+    "r": 157,
+    "g": 119,
+    "b": 68
+  },
+  "egg": {
+    "name": "egg",
+    "r": 227,
+    "g": 181,
+    "b": 132
+  },
+  "eggplant": {
+    "name": "eggplant",
+    "r": 110,
+    "g": 80,
+    "b": 98
+  },
+  "egypt": {
+    "name": "egypt",
+    "r": 154,
+    "g": 110,
+    "b": 111
+  },
+  "eight": {
+    "name": "eight",
+    "r": 126,
+    "g": 200,
+    "b": 234
+  },
+  "eight_pointed_black_star": {
+    "name": "eight_pointed_black_star",
+    "r": 82,
+    "g": 82,
+    "b": 82
+  },
+  "eight_spoked_asterisk": {
+    "name": "eight_spoked_asterisk",
+    "r": 65,
+    "g": 178,
+    "b": 232
+  },
+  "eject_button": {
+    "name": "eject_button",
+    "r": 248,
+    "g": 159,
+    "b": 75
+  },
+  "el_salvador": {
+    "name": "el_salvador",
+    "r": 95,
+    "g": 110,
+    "b": 171
+  },
+  "electric_plug": {
+    "name": "electric_plug",
+    "r": 88,
+    "g": 88,
+    "b": 88
+  },
+  "electron": {
+    "name": "electron",
+    "r": 92,
+    "g": 127,
+    "b": 141
+  },
+  "elephant": {
+    "name": "elephant",
+    "r": 139,
+    "g": 156,
+    "b": 164
+  },
+  "elf": {
+    "name": "elf",
+    "r": 221,
+    "g": 156,
+    "b": 87
+  },
+  "elf_man": {
+    "name": "elf_man",
+    "r": 165,
+    "g": 189,
+    "b": 130
+  },
+  "elf_woman": {
+    "name": "elf_woman",
+    "r": 190,
+    "g": 150,
+    "b": 159
+  },
+  "email": {
+    "name": "email",
+    "r": 251,
+    "g": 202,
+    "b": 58
+  },
+  "end": {
+    "name": "end",
+    "r": 79,
+    "g": 183,
+    "b": 238
+  },
+  "england": {
+    "name": "england",
+    "r": 240,
+    "g": 189,
+    "b": 193
+  },
+  "envelope": {
+    "name": "envelope",
+    "r": 251,
+    "g": 202,
+    "b": 58
+  },
+  "envelope_with_arrow": {
+    "name": "envelope_with_arrow",
+    "r": 201,
+    "g": 190,
+    "b": 102
+  },
+  "equatorial_guinea": {
+    "name": "equatorial_guinea",
+    "r": 144,
+    "g": 134,
+    "b": 107
+  },
+  "eritrea": {
+    "name": "eritrea",
+    "r": 135,
+    "g": 95,
+    "b": 96
+  },
+  "es": {
+    "name": "es",
+    "r": 181,
+    "g": 107,
+    "b": 38
+  },
+  "estonia": {
+    "name": "estonia",
+    "r": 102,
+    "g": 117,
+    "b": 138
+  },
+  "ethiopia": {
+    "name": "ethiopia",
+    "r": 131,
+    "g": 124,
+    "b": 72
+  },
+  "eu": {
+    "name": "eu",
+    "r": 35,
+    "g": 71,
+    "b": 139
+  },
+  "euro": {
+    "name": "euro",
+    "r": 86,
+    "g": 156,
+    "b": 213
+  },
+  "european_castle": {
+    "name": "european_castle",
+    "r": 121,
+    "g": 156,
+    "b": 182
+  },
+  "european_post_office": {
+    "name": "european_post_office",
+    "r": 183,
+    "g": 100,
+    "b": 68
+  },
+  "european_union": {
+    "name": "european_union",
+    "r": 35,
+    "g": 71,
+    "b": 139
+  },
+  "evergreen_tree": {
+    "name": "evergreen_tree",
+    "r": 102,
+    "g": 147,
+    "b": 62
+  },
+  "exclamation": {
+    "name": "exclamation",
+    "r": 227,
+    "g": 56,
+    "b": 56
+  },
+  "exploding_head": {
+    "name": "exploding_head",
+    "r": 207,
+    "g": 167,
+    "b": 106
+  },
+  "expressionless": {
+    "name": "expressionless",
+    "r": 232,
+    "g": 185,
+    "b": 39
+  },
+  "eye": {
+    "name": "eye",
+    "r": 126,
+    "g": 126,
+    "b": 126
+  },
+  "eye_speech_bubble": {
+    "name": "eye_speech_bubble",
+    "r": 88,
+    "g": 164,
+    "b": 229
+  },
+  "eyeglasses": {
+    "name": "eyeglasses",
+    "r": 138,
+    "g": 143,
+    "b": 146
+  },
+  "eyes": {
+    "name": "eyes",
+    "r": 211,
+    "g": 211,
+    "b": 211
+  },
+  "face_with_head_bandage": {
+    "name": "face_with_head_bandage",
+    "r": 221,
+    "g": 188,
+    "b": 112
+  },
+  "face_with_thermometer": {
+    "name": "face_with_thermometer",
+    "r": 210,
+    "g": 120,
+    "b": 83
+  },
+  "facepalm": {
+    "name": "facepalm",
+    "r": 173,
+    "g": 106,
+    "b": 33
+  },
+  "facepunch": {
+    "name": "facepunch",
+    "r": 251,
+    "g": 190,
+    "b": 23
+  },
+  "factory": {
+    "name": "factory",
+    "r": 205,
+    "g": 134,
+    "b": 135
+  },
+  "factory_worker": {
+    "name": "factory_worker",
+    "r": 137,
+    "g": 123,
+    "b": 108
+  },
+  "fairy": {
+    "name": "fairy",
+    "r": 187,
+    "g": 172,
+    "b": 111
+  },
+  "fairy_man": {
+    "name": "fairy_man",
+    "r": 159,
+    "g": 203,
+    "b": 131
+  },
+  "fairy_woman": {
+    "name": "fairy_woman",
+    "r": 185,
+    "g": 173,
+    "b": 139
+  },
+  "falafel": {
+    "name": "falafel",
+    "r": 184,
+    "g": 153,
+    "b": 97
+  },
+  "falkland_islands": {
+    "name": "falkland_islands",
+    "r": 77,
+    "g": 87,
+    "b": 131
+  },
+  "fallen_leaf": {
+    "name": "fallen_leaf",
+    "r": 238,
+    "g": 159,
+    "b": 66
+  },
+  "family": {
+    "name": "family",
+    "r": 161,
+    "g": 119,
+    "b": 43
+  },
+  "family_man_boy": {
+    "name": "family_man_boy",
+    "r": 148,
+    "g": 143,
+    "b": 68
+  },
+  "family_man_boy_boy": {
+    "name": "family_man_boy_boy",
+    "r": 148,
+    "g": 135,
+    "b": 71
+  },
+  "family_man_girl": {
+    "name": "family_man_girl",
+    "r": 152,
+    "g": 135,
+    "b": 65
+  },
+  "family_man_girl_boy": {
+    "name": "family_man_girl_boy",
+    "r": 150,
+    "g": 129,
+    "b": 70
+  },
+  "family_man_girl_girl": {
+    "name": "family_man_girl_girl",
+    "r": 152,
+    "g": 124,
+    "b": 69
+  },
+  "family_man_man_boy": {
+    "name": "family_man_man_boy",
+    "r": 112,
+    "g": 137,
+    "b": 80
+  },
+  "family_man_man_boy_boy": {
+    "name": "family_man_man_boy_boy",
+    "r": 138,
+    "g": 133,
+    "b": 68
+  },
+  "family_man_man_girl": {
+    "name": "family_man_man_girl",
+    "r": 115,
+    "g": 133,
+    "b": 79
+  },
+  "family_man_man_girl_boy": {
+    "name": "family_man_man_girl_boy",
+    "r": 141,
+    "g": 130,
+    "b": 68
+  },
+  "family_man_man_girl_girl": {
+    "name": "family_man_man_girl_girl",
+    "r": 143,
+    "g": 126,
+    "b": 67
+  },
+  "family_man_woman_boy": {
+    "name": "family_man_woman_boy",
+    "r": 124,
+    "g": 118,
+    "b": 97
+  },
+  "family_man_woman_boy_boy": {
+    "name": "family_man_woman_boy_boy",
+    "r": 140,
+    "g": 121,
+    "b": 76
+  },
+  "family_man_woman_girl": {
+    "name": "family_man_woman_girl",
+    "r": 126,
+    "g": 115,
+    "b": 96
+  },
+  "family_man_woman_girl_boy": {
+    "name": "family_man_woman_girl_boy",
+    "r": 143,
+    "g": 118,
+    "b": 75
+  },
+  "family_man_woman_girl_girl": {
+    "name": "family_man_woman_girl_girl",
+    "r": 144,
+    "g": 116,
+    "b": 73
+  },
+  "family_woman_boy": {
+    "name": "family_woman_boy",
+    "r": 151,
+    "g": 111,
+    "b": 77
+  },
+  "family_woman_boy_boy": {
+    "name": "family_woman_boy_boy",
+    "r": 147,
+    "g": 116,
+    "b": 78
+  },
+  "family_woman_girl": {
+    "name": "family_woman_girl",
+    "r": 152,
+    "g": 108,
+    "b": 73
+  },
+  "family_woman_girl_boy": {
+    "name": "family_woman_girl_boy",
+    "r": 149,
+    "g": 112,
+    "b": 76
+  },
+  "family_woman_girl_girl": {
+    "name": "family_woman_girl_girl",
+    "r": 150,
+    "g": 109,
+    "b": 74
+  },
+  "family_woman_woman_boy": {
+    "name": "family_woman_woman_boy",
+    "r": 145,
+    "g": 84,
+    "b": 109
+  },
+  "family_woman_woman_boy_boy": {
+    "name": "family_woman_woman_boy_boy",
+    "r": 147,
+    "g": 103,
+    "b": 81
+  },
+  "family_woman_woman_girl": {
+    "name": "family_woman_woman_girl",
+    "r": 146,
+    "g": 83,
+    "b": 108
+  },
+  "family_woman_woman_girl_boy": {
+    "name": "family_woman_woman_girl_boy",
+    "r": 148,
+    "g": 102,
+    "b": 79
+  },
+  "family_woman_woman_girl_girl": {
+    "name": "family_woman_woman_girl_girl",
+    "r": 149,
+    "g": 100,
+    "b": 77
+  },
+  "farmer": {
+    "name": "farmer",
+    "r": 165,
+    "g": 153,
+    "b": 84
+  },
+  "faroe_islands": {
+    "name": "faroe_islands",
+    "r": 178,
+    "g": 166,
+    "b": 181
+  },
+  "fast_forward": {
+    "name": "fast_forward",
+    "r": 248,
+    "g": 158,
+    "b": 74
+  },
+  "fax": {
+    "name": "fax",
+    "r": 119,
+    "g": 122,
+    "b": 118
+  },
+  "fearful": {
+    "name": "fearful",
+    "r": 185,
+    "g": 193,
+    "b": 86
+  },
+  "feelsgood": {
+    "name": "feelsgood",
+    "r": 148,
+    "g": 74,
+    "b": 42
+  },
+  "feet": {
+    "name": "feet",
+    "r": 196,
+    "g": 39,
+    "b": 37
+  },
+  "female_detective": {
+    "name": "female_detective",
+    "r": 143,
+    "g": 125,
+    "b": 87
+  },
+  "female_sign": {
+    "name": "female_sign",
+    "r": 173,
+    "g": 27,
+    "b": 218
+  },
+  "ferris_wheel": {
+    "name": "ferris_wheel",
+    "r": 164,
+    "g": 160,
+    "b": 144
+  },
+  "ferry": {
+    "name": "ferry",
+    "r": 86,
+    "g": 165,
+    "b": 205
+  },
+  "field_hockey": {
+    "name": "field_hockey",
+    "r": 169,
+    "g": 153,
+    "b": 99
+  },
+  "fiji": {
+    "name": "fiji",
+    "r": 85,
+    "g": 137,
+    "b": 165
+  },
+  "file_cabinet": {
+    "name": "file_cabinet",
+    "r": 134,
+    "g": 134,
+    "b": 134
+  },
+  "file_folder": {
+    "name": "file_folder",
+    "r": 243,
+    "g": 202,
+    "b": 58
+  },
+  "film_projector": {
+    "name": "film_projector",
+    "r": 42,
+    "g": 146,
+    "b": 213
+  },
+  "film_strip": {
+    "name": "film_strip",
+    "r": 116,
+    "g": 101,
+    "b": 95
+  },
+  "finland": {
+    "name": "finland",
+    "r": 141,
+    "g": 157,
+    "b": 178
+  },
+  "finnadie": {
+    "name": "finnadie",
+    "r": 144,
+    "g": 68,
+    "b": 39
+  },
+  "fire": {
+    "name": "fire",
+    "r": 234,
+    "g": 147,
+    "b": 21
+  },
+  "fire_engine": {
+    "name": "fire_engine",
+    "r": 194,
+    "g": 110,
+    "b": 109
+  },
+  "fire_extinguisher": {
+    "name": "fire_extinguisher",
+    "r": 162,
+    "g": 65,
+    "b": 65
+  },
+  "firecracker": {
+    "name": "firecracker",
+    "r": 218,
+    "g": 62,
+    "b": 34
+  },
+  "firefighter": {
+    "name": "firefighter",
+    "r": 212,
+    "g": 109,
+    "b": 40
+  },
+  "fireworks": {
+    "name": "fireworks",
+    "r": 78,
+    "g": 121,
+    "b": 177
+  },
+  "first_quarter_moon": {
+    "name": "first_quarter_moon",
+    "r": 160,
+    "g": 149,
+    "b": 80
+  },
+  "first_quarter_moon_with_face": {
+    "name": "first_quarter_moon_with_face",
+    "r": 227,
+    "g": 202,
+    "b": 63
+  },
+  "fish": {
+    "name": "fish",
+    "r": 104,
+    "g": 185,
+    "b": 228
+  },
+  "fish_cake": {
+    "name": "fish_cake",
+    "r": 223,
+    "g": 202,
+    "b": 211
+  },
+  "fishing_pole_and_fish": {
+    "name": "fishing_pole_and_fish",
+    "r": 145,
+    "g": 159,
+    "b": 166
+  },
+  "fist": {
+    "name": "fist",
+    "r": 251,
+    "g": 188,
+    "b": 20
+  },
+  "fist_left": {
+    "name": "fist_left",
+    "r": 252,
+    "g": 188,
+    "b": 20
+  },
+  "fist_oncoming": {
+    "name": "fist_oncoming",
+    "r": 251,
+    "g": 190,
+    "b": 23
+  },
+  "fist_raised": {
+    "name": "fist_raised",
+    "r": 251,
+    "g": 188,
+    "b": 20
+  },
+  "fist_right": {
+    "name": "fist_right",
+    "r": 252,
+    "g": 184,
+    "b": 14
+  },
+  "five": {
+    "name": "five",
+    "r": 124,
+    "g": 200,
+    "b": 234
+  },
+  "flags": {
+    "name": "flags",
+    "r": 151,
+    "g": 137,
+    "b": 149
+  },
+  "flamingo": {
+    "name": "flamingo",
+    "r": 188,
+    "g": 51,
+    "b": 105
+  },
+  "flashlight": {
+    "name": "flashlight",
+    "r": 177,
+    "g": 115,
+    "b": 43
+  },
+  "flat_shoe": {
+    "name": "flat_shoe",
+    "r": 107,
+    "g": 187,
+    "b": 161
+  },
+  "fleur_de_lis": {
+    "name": "fleur_de_lis",
+    "r": 237,
+    "g": 154,
+    "b": 36
+  },
+  "flight_arrival": {
+    "name": "flight_arrival",
+    "r": 143,
+    "g": 155,
+    "b": 161
+  },
+  "flight_departure": {
+    "name": "flight_departure",
+    "r": 143,
+    "g": 155,
+    "b": 161
+  },
+  "flipper": {
+    "name": "flipper",
+    "r": 64,
+    "g": 163,
+    "b": 217
+  },
+  "floppy_disk": {
+    "name": "floppy_disk",
+    "r": 146,
+    "g": 155,
+    "b": 160
+  },
+  "flower_playing_cards": {
+    "name": "flower_playing_cards",
+    "r": 175,
+    "g": 99,
+    "b": 97
+  },
+  "flushed": {
+    "name": "flushed",
+    "r": 237,
+    "g": 186,
+    "b": 64
+  },
+  "flying_disc": {
+    "name": "flying_disc",
+    "r": 216,
+    "g": 109,
+    "b": 42
+  },
+  "flying_saucer": {
+    "name": "flying_saucer",
+    "r": 82,
+    "g": 193,
+    "b": 195
+  },
+  "fog": {
+    "name": "fog",
+    "r": 213,
+    "g": 213,
+    "b": 213
+  },
+  "foggy": {
+    "name": "foggy",
+    "r": 185,
+    "g": 210,
+    "b": 231
+  },
+  "foot": {
+    "name": "foot",
+    "r": 250,
+    "g": 190,
+    "b": 25
+  },
+  "football": {
+    "name": "football",
+    "r": 148,
+    "g": 108,
+    "b": 98
+  },
+  "footprints": {
+    "name": "footprints",
+    "r": 97,
+    "g": 171,
+    "b": 234
+  },
+  "fork_and_knife": {
+    "name": "fork_and_knife",
+    "r": 209,
+    "g": 209,
+    "b": 209
+  },
+  "fortune_cookie": {
+    "name": "fortune_cookie",
+    "r": 228,
+    "g": 189,
+    "b": 112
+  },
+  "fountain": {
+    "name": "fountain",
+    "r": 75,
+    "g": 154,
+    "b": 191
+  },
+  "fountain_pen": {
+    "name": "fountain_pen",
+    "r": 101,
+    "g": 91,
+    "b": 73
+  },
+  "four": {
+    "name": "four",
+    "r": 124,
+    "g": 200,
+    "b": 234
+  },
+  "four_leaf_clover": {
+    "name": "four_leaf_clover",
+    "r": 117,
+    "g": 167,
+    "b": 70
+  },
+  "fox_face": {
+    "name": "fox_face",
+    "r": 220,
+    "g": 134,
+    "b": 94
+  },
+  "fr": {
+    "name": "fr",
+    "r": 160,
+    "g": 132,
+    "b": 148
+  },
+  "framed_picture": {
+    "name": "framed_picture",
+    "r": 174,
+    "g": 184,
+    "b": 96
+  },
+  "free": {
+    "name": "free",
+    "r": 48,
+    "g": 165,
+    "b": 224
+  },
+  "french_guiana": {
+    "name": "french_guiana",
+    "r": 126,
+    "g": 160,
+    "b": 46
+  },
+  "french_polynesia": {
+    "name": "french_polynesia",
+    "r": 199,
+    "g": 127,
+    "b": 134
+  },
+  "french_southern_territories": {
+    "name": "french_southern_territories",
+    "r": 60,
+    "g": 75,
+    "b": 144
+  },
+  "fried_egg": {
+    "name": "fried_egg",
+    "r": 119,
+    "g": 110,
+    "b": 99
+  },
+  "fried_shrimp": {
+    "name": "fried_shrimp",
+    "r": 217,
+    "g": 185,
+    "b": 104
+  },
+  "fries": {
+    "name": "fries",
+    "r": 230,
+    "g": 112,
+    "b": 32
+  },
+  "frog": {
+    "name": "frog",
+    "r": 117,
+    "g": 163,
+    "b": 122
+  },
+  "frowning": {
+    "name": "frowning",
+    "r": 226,
+    "g": 164,
+    "b": 34
+  },
+  "frowning_face": {
+    "name": "frowning_face",
+    "r": 230,
+    "g": 183,
+    "b": 38
+  },
+  "frowning_man": {
+    "name": "frowning_man",
+    "r": 126,
+    "g": 142,
+    "b": 68
+  },
+  "frowning_person": {
+    "name": "frowning_person",
+    "r": 134,
+    "g": 85,
+    "b": 96
+  },
+  "frowning_woman": {
+    "name": "frowning_woman",
+    "r": 138,
+    "g": 88,
+    "b": 92
+  },
+  "fu": {
+    "name": "fu",
+    "r": 251,
+    "g": 185,
+    "b": 16
+  },
+  "fuelpump": {
+    "name": "fuelpump",
+    "r": 158,
+    "g": 98,
+    "b": 103
+  },
+  "full_moon": {
+    "name": "full_moon",
+    "r": 242,
+    "g": 216,
+    "b": 65
+  },
+  "full_moon_with_face": {
+    "name": "full_moon_with_face",
+    "r": 229,
+    "g": 204,
+    "b": 61
+  },
+  "funeral_urn": {
+    "name": "funeral_urn",
+    "r": 236,
+    "g": 115,
+    "b": 77
+  },
+  "gabon": {
+    "name": "gabon",
+    "r": 112,
+    "g": 153,
+    "b": 102
+  },
+  "gambia": {
+    "name": "gambia",
+    "r": 118,
+    "g": 100,
+    "b": 104
+  },
+  "game_die": {
+    "name": "game_die",
+    "r": 197,
+    "g": 192,
+    "b": 192
+  },
+  "garlic": {
+    "name": "garlic",
+    "r": 215,
+    "g": 193,
+    "b": 208
+  },
+  "gb": {
+    "name": "gb",
+    "r": 157,
+    "g": 95,
+    "b": 121
+  },
+  "gear": {
+    "name": "gear",
+    "r": 143,
+    "g": 143,
+    "b": 143
+  },
+  "gem": {
+    "name": "gem",
+    "r": 69,
+    "g": 181,
+    "b": 235
+  },
+  "gemini": {
+    "name": "gemini",
+    "r": 242,
+    "g": 159,
+    "b": 57
+  },
+  "genie": {
+    "name": "genie",
+    "r": 101,
+    "g": 127,
+    "b": 123
+  },
+  "genie_man": {
+    "name": "genie_man",
+    "r": 63,
+    "g": 123,
+    "b": 147
+  },
+  "genie_woman": {
+    "name": "genie_woman",
+    "r": 83,
+    "g": 98,
+    "b": 140
+  },
+  "georgia": {
+    "name": "georgia",
+    "r": 216,
+    "g": 144,
+    "b": 152
+  },
+  "ghana": {
+    "name": "ghana",
+    "r": 143,
+    "g": 114,
+    "b": 54
+  },
+  "ghost": {
+    "name": "ghost",
+    "r": 190,
+    "g": 178,
+    "b": 181
+  },
+  "gibraltar": {
+    "name": "gibraltar",
+    "r": 202,
+    "g": 128,
+    "b": 130
+  },
+  "gift": {
+    "name": "gift",
+    "r": 116,
+    "g": 170,
+    "b": 163
+  },
+  "gift_heart": {
+    "name": "gift_heart",
+    "r": 220,
+    "g": 122,
+    "b": 31
+  },
+  "giraffe": {
+    "name": "giraffe",
+    "r": 195,
+    "g": 112,
+    "b": 39
+  },
+  "girl": {
+    "name": "girl",
+    "r": 149,
+    "g": 108,
+    "b": 41
+  },
+  "globe_with_meridians": {
+    "name": "globe_with_meridians",
+    "r": 45,
+    "g": 139,
+    "b": 220
+  },
+  "gloves": {
+    "name": "gloves",
+    "r": 73,
+    "g": 93,
+    "b": 104
+  },
+  "goal_net": {
+    "name": "goal_net",
+    "r": 157,
+    "g": 96,
+    "b": 111
+  },
+  "goat": {
+    "name": "goat",
+    "r": 194,
+    "g": 169,
+    "b": 139
+  },
+  "goberserk": {
+    "name": "goberserk",
+    "r": 148,
+    "g": 76,
+    "b": 43
+  },
+  "godmode": {
+    "name": "godmode",
+    "r": 169,
+    "g": 104,
+    "b": 56
+  },
+  "goggles": {
+    "name": "goggles",
+    "r": 170,
+    "g": 187,
+    "b": 198
+  },
+  "golf": {
+    "name": "golf",
+    "r": 143,
+    "g": 174,
+    "b": 74
+  },
+  "golfing": {
+    "name": "golfing",
+    "r": 78,
+    "g": 111,
+    "b": 87
+  },
+  "golfing_man": {
+    "name": "golfing_man",
+    "r": 81,
+    "g": 115,
+    "b": 89
+  },
+  "golfing_woman": {
+    "name": "golfing_woman",
+    "r": 100,
+    "g": 59,
+    "b": 119
+  },
+  "gorilla": {
+    "name": "gorilla",
+    "r": 74,
+    "g": 74,
+    "b": 74
+  },
+  "grapes": {
+    "name": "grapes",
+    "r": 131,
+    "g": 71,
+    "b": 142
+  },
+  "greece": {
+    "name": "greece",
+    "r": 114,
+    "g": 114,
+    "b": 168
+  },
+  "green_apple": {
+    "name": "green_apple",
+    "r": 144,
+    "g": 189,
+    "b": 94
+  },
+  "green_book": {
+    "name": "green_book",
+    "r": 81,
+    "g": 147,
+    "b": 84
+  },
+  "green_circle": {
+    "name": "green_circle",
+    "r": 112,
+    "g": 165,
+    "b": 68
+  },
+  "green_heart": {
+    "name": "green_heart",
+    "r": 113,
+    "g": 166,
+    "b": 61
+  },
+  "green_salad": {
+    "name": "green_salad",
+    "r": 142,
+    "g": 153,
+    "b": 96
+  },
+  "green_square": {
+    "name": "green_square",
+    "r": 114,
+    "g": 168,
+    "b": 69
+  },
+  "greenland": {
+    "name": "greenland",
+    "r": 205,
+    "g": 129,
+    "b": 144
+  },
+  "grenada": {
+    "name": "grenada",
+    "r": 143,
+    "g": 121,
+    "b": 64
+  },
+  "grey_exclamation": {
+    "name": "grey_exclamation",
+    "r": 206,
+    "g": 206,
+    "b": 206
+  },
+  "grey_question": {
+    "name": "grey_question",
+    "r": 209,
+    "g": 209,
+    "b": 209
+  },
+  "grimacing": {
+    "name": "grimacing",
+    "r": 236,
+    "g": 191,
+    "b": 59
+  },
+  "grin": {
+    "name": "grin",
+    "r": 236,
+    "g": 192,
+    "b": 64
+  },
+  "grinning": {
+    "name": "grinning",
+    "r": 213,
+    "g": 168,
+    "b": 50
+  },
+  "guadeloupe": {
+    "name": "guadeloupe",
+    "r": 59,
+    "g": 66,
+    "b": 56
+  },
+  "guam": {
+    "name": "guam",
+    "r": 61,
+    "g": 89,
+    "b": 138
+  },
+  "guard": {
+    "name": "guard",
+    "r": 117,
+    "g": 78,
+    "b": 58
+  },
+  "guardsman": {
+    "name": "guardsman",
+    "r": 120,
+    "g": 81,
+    "b": 60
+  },
+  "guardswoman": {
+    "name": "guardswoman",
+    "r": 118,
+    "g": 79,
+    "b": 60
+  },
+  "guatemala": {
+    "name": "guatemala",
+    "r": 155,
+    "g": 189,
+    "b": 201
+  },
+  "guernsey": {
+    "name": "guernsey",
+    "r": 217,
+    "g": 173,
+    "b": 166
+  },
+  "guide_dog": {
+    "name": "guide_dog",
+    "r": 216,
+    "g": 173,
+    "b": 109
+  },
+  "guinea": {
+    "name": "guinea",
+    "r": 160,
+    "g": 135,
+    "b": 76
+  },
+  "guinea_bissau": {
+    "name": "guinea_bissau",
+    "r": 140,
+    "g": 124,
+    "b": 58
+  },
+  "guitar": {
+    "name": "guitar",
+    "r": 179,
+    "g": 39,
+    "b": 54
+  },
+  "gun": {
+    "name": "gun",
+    "r": 230,
+    "g": 147,
+    "b": 17
+  },
+  "guyana": {
+    "name": "guyana",
+    "r": 128,
+    "g": 145,
+    "b": 86
+  },
+  "haircut": {
+    "name": "haircut",
+    "r": 135,
+    "g": 86,
+    "b": 82
+  },
+  "haircut_man": {
+    "name": "haircut_man",
+    "r": 135,
+    "g": 136,
+    "b": 68
+  },
+  "haircut_woman": {
+    "name": "haircut_woman",
+    "r": 137,
+    "g": 88,
+    "b": 82
+  },
+  "haiti": {
+    "name": "haiti",
+    "r": 108,
+    "g": 49,
+    "b": 109
+  },
+  "hamburger": {
+    "name": "hamburger",
+    "r": 189,
+    "g": 117,
+    "b": 33
+  },
+  "hammer": {
+    "name": "hammer",
+    "r": 128,
+    "g": 111,
+    "b": 105
+  },
+  "hammer_and_pick": {
+    "name": "hammer_and_pick",
+    "r": 134,
+    "g": 119,
+    "b": 114
+  },
+  "hammer_and_wrench": {
+    "name": "hammer_and_wrench",
+    "r": 139,
+    "g": 132,
+    "b": 129
+  },
+  "hamster": {
+    "name": "hamster",
+    "r": 216,
+    "g": 167,
+    "b": 85
+  },
+  "hand": {
+    "name": "hand",
+    "r": 249,
+    "g": 184,
+    "b": 16
+  },
+  "hand_over_mouth": {
+    "name": "hand_over_mouth",
+    "r": 239,
+    "g": 188,
+    "b": 38
+  },
+  "handbag": {
+    "name": "handbag",
+    "r": 139,
+    "g": 101,
+    "b": 74
+  },
+  "handball_person": {
+    "name": "handball_person",
+    "r": 169,
+    "g": 128,
+    "b": 62
+  },
+  "handshake": {
+    "name": "handshake",
+    "r": 250,
+    "g": 187,
+    "b": 20
+  },
+  "hankey": {
+    "name": "hankey",
+    "r": 144,
+    "g": 105,
+    "b": 91
+  },
+  "hash": {
+    "name": "hash",
+    "r": 124,
+    "g": 200,
+    "b": 234
+  },
+  "hatched_chick": {
+    "name": "hatched_chick",
+    "r": 247,
+    "g": 206,
+    "b": 27
+  },
+  "hatching_chick": {
+    "name": "hatching_chick",
+    "r": 232,
+    "g": 210,
+    "b": 103
+  },
+  "headphones": {
+    "name": "headphones",
+    "r": 57,
+    "g": 133,
+    "b": 176
+  },
+  "health_worker": {
+    "name": "health_worker",
+    "r": 155,
+    "g": 131,
+    "b": 84
+  },
+  "hear_no_evil": {
+    "name": "hear_no_evil",
+    "r": 183,
+    "g": 135,
+    "b": 98
+  },
+  "heard_mcdonald_islands": {
+    "name": "heard_mcdonald_islands",
+    "r": 52,
+    "g": 29,
+    "b": 132
+  },
+  "heart": {
+    "name": "heart",
+    "r": 203,
+    "g": 46,
+    "b": 45
+  },
+  "heart_decoration": {
+    "name": "heart_decoration",
+    "r": 221,
+    "g": 117,
+    "b": 115
+  },
+  "heart_eyes": {
+    "name": "heart_eyes",
+    "r": 219,
+    "g": 131,
+    "b": 56
+  },
+  "heart_eyes_cat": {
+    "name": "heart_eyes_cat",
+    "r": 209,
+    "g": 122,
+    "b": 54
+  },
+  "heartbeat": {
+    "name": "heartbeat",
+    "r": 208,
+    "g": 53,
+    "b": 52
+  },
+  "heartpulse": {
+    "name": "heartpulse",
+    "r": 226,
+    "g": 126,
+    "b": 126
+  },
+  "hearts": {
+    "name": "hearts",
+    "r": 227,
+    "g": 70,
+    "b": 66
+  },
+  "heavy_check_mark": {
+    "name": "heavy_check_mark",
+    "r": 121,
+    "g": 173,
+    "b": 66
+  },
+  "heavy_division_sign": {
+    "name": "heavy_division_sign",
+    "r": 65,
+    "g": 151,
+    "b": 69
+  },
+  "heavy_dollar_sign": {
+    "name": "heavy_dollar_sign",
+    "r": 116,
+    "g": 167,
+    "b": 65
+  },
+  "heavy_exclamation_mark": {
+    "name": "heavy_exclamation_mark",
+    "r": 227,
+    "g": 56,
+    "b": 56
+  },
+  "heavy_heart_exclamation": {
+    "name": "heavy_heart_exclamation",
+    "r": 205,
+    "g": 48,
+    "b": 46
+  },
+  "heavy_minus_sign": {
+    "name": "heavy_minus_sign",
+    "r": 31,
+    "g": 130,
+    "b": 217
+  },
+  "heavy_multiplication_x": {
+    "name": "heavy_multiplication_x",
+    "r": 242,
+    "g": 113,
+    "b": 72
+  },
+  "heavy_plus_sign": {
+    "name": "heavy_plus_sign",
+    "r": 243,
+    "g": 207,
+    "b": 53
+  },
+  "hedgehog": {
+    "name": "hedgehog",
+    "r": 154,
+    "g": 113,
+    "b": 71
+  },
+  "helicopter": {
+    "name": "helicopter",
+    "r": 161,
+    "g": 164,
+    "b": 90
+  },
+  "herb": {
+    "name": "herb",
+    "r": 123,
+    "g": 165,
+    "b": 77
+  },
+  "hibiscus": {
+    "name": "hibiscus",
+    "r": 243,
+    "g": 122,
+    "b": 156
+  },
+  "high_brightness": {
+    "name": "high_brightness",
+    "r": 231,
+    "g": 131,
+    "b": 35
+  },
+  "high_heel": {
+    "name": "high_heel",
+    "r": 145,
+    "g": 12,
+    "b": 12
+  },
+  "hiking_boot": {
+    "name": "hiking_boot",
+    "r": 179,
+    "g": 136,
+    "b": 81
+  },
+  "hindu_temple": {
+    "name": "hindu_temple",
+    "r": 189,
+    "g": 79,
+    "b": 45
+  },
+  "hippopotamus": {
+    "name": "hippopotamus",
+    "r": 196,
+    "g": 173,
+    "b": 220
+  },
+  "hocho": {
+    "name": "hocho",
+    "r": 196,
+    "g": 180,
+    "b": 166
+  },
+  "hole": {
+    "name": "hole",
+    "r": 87,
+    "g": 91,
+    "b": 93
+  },
+  "honduras": {
+    "name": "honduras",
+    "r": 97,
+    "g": 131,
+    "b": 189
+  },
+  "honey_pot": {
+    "name": "honey_pot",
+    "r": 220,
+    "g": 166,
+    "b": 45
+  },
+  "honeybee": {
+    "name": "honeybee",
+    "r": 183,
+    "g": 171,
+    "b": 142
+  },
+  "hong_kong": {
+    "name": "hong_kong",
+    "r": 189,
+    "g": 56,
+    "b": 70
+  },
+  "horse": {
+    "name": "horse",
+    "r": 201,
+    "g": 135,
+    "b": 81
+  },
+  "horse_racing": {
+    "name": "horse_racing",
+    "r": 168,
+    "g": 129,
+    "b": 76
+  },
+  "hospital": {
+    "name": "hospital",
+    "r": 191,
+    "g": 198,
+    "b": 203
+  },
+  "hot_face": {
+    "name": "hot_face",
+    "r": 204,
+    "g": 105,
+    "b": 57
+  },
+  "hot_pepper": {
+    "name": "hot_pepper",
+    "r": 194,
+    "g": 29,
+    "b": 32
+  },
+  "hotdog": {
+    "name": "hotdog",
+    "r": 221,
+    "g": 145,
+    "b": 60
+  },
+  "hotel": {
+    "name": "hotel",
+    "r": 133,
+    "g": 158,
+    "b": 174
+  },
+  "hotsprings": {
+    "name": "hotsprings",
+    "r": 210,
+    "g": 65,
+    "b": 64
+  },
+  "hourglass": {
+    "name": "hourglass",
+    "r": 190,
+    "g": 179,
+    "b": 165
+  },
+  "hourglass_flowing_sand": {
+    "name": "hourglass_flowing_sand",
+    "r": 189,
+    "g": 174,
+    "b": 155
+  },
+  "house": {
+    "name": "house",
+    "r": 207,
+    "g": 143,
+    "b": 69
+  },
+  "house_with_garden": {
+    "name": "house_with_garden",
+    "r": 175,
+    "g": 148,
+    "b": 68
+  },
+  "houses": {
+    "name": "houses",
+    "r": 190,
+    "g": 148,
+    "b": 68
+  },
+  "hugs": {
+    "name": "hugs",
+    "r": 230,
+    "g": 181,
+    "b": 38
+  },
+  "hungary": {
+    "name": "hungary",
+    "r": 150,
+    "g": 142,
+    "b": 126
+  },
+  "hurtrealbad": {
+    "name": "hurtrealbad",
+    "r": 151,
+    "g": 90,
+    "b": 50
+  },
+  "hushed": {
+    "name": "hushed",
+    "r": 233,
+    "g": 185,
+    "b": 38
+  },
+  "ice_cream": {
+    "name": "ice_cream",
+    "r": 168,
+    "g": 193,
+    "b": 205
+  },
+  "ice_cube": {
+    "name": "ice_cube",
+    "r": 115,
+    "g": 182,
+    "b": 232
+  },
+  "ice_hockey": {
+    "name": "ice_hockey",
+    "r": 166,
+    "g": 105,
+    "b": 86
+  },
+  "ice_skate": {
+    "name": "ice_skate",
+    "r": 192,
+    "g": 194,
+    "b": 195
+  },
+  "icecream": {
+    "name": "icecream",
+    "r": 245,
+    "g": 209,
+    "b": 123
+  },
+  "iceland": {
+    "name": "iceland",
+    "r": 91,
+    "g": 92,
+    "b": 139
+  },
+  "id": {
+    "name": "id",
+    "r": 163,
+    "g": 137,
+    "b": 207
+  },
+  "ideograph_advantage": {
+    "name": "ideograph_advantage",
+    "r": 242,
+    "g": 163,
+    "b": 90
+  },
+  "imp": {
+    "name": "imp",
+    "r": 155,
+    "g": 26,
+    "b": 171
+  },
+  "inbox_tray": {
+    "name": "inbox_tray",
+    "r": 186,
+    "g": 170,
+    "b": 133
+  },
+  "incoming_envelope": {
+    "name": "incoming_envelope",
+    "r": 236,
+    "g": 200,
+    "b": 78
+  },
+  "india": {
+    "name": "india",
+    "r": 163,
+    "g": 166,
+    "b": 117
+  },
+  "indonesia": {
+    "name": "indonesia",
+    "r": 210,
+    "g": 124,
+    "b": 124
+  },
+  "infinity": {
+    "name": "infinity",
+    "r": 163,
+    "g": 125,
+    "b": 248
+  },
+  "information_desk_person": {
+    "name": "information_desk_person",
+    "r": 133,
+    "g": 83,
+    "b": 97
+  },
+  "information_source": {
+    "name": "information_source",
+    "r": 44,
+    "g": 166,
+    "b": 226
+  },
+  "innocent": {
+    "name": "innocent",
+    "r": 193,
+    "g": 168,
+    "b": 69
+  },
+  "interrobang": {
+    "name": "interrobang",
+    "r": 228,
+    "g": 59,
+    "b": 59
+  },
+  "iphone": {
+    "name": "iphone",
+    "r": 107,
+    "g": 106,
+    "b": 102
+  },
+  "iran": {
+    "name": "iran",
+    "r": 166,
+    "g": 139,
+    "b": 119
+  },
+  "iraq": {
+    "name": "iraq",
+    "r": 143,
+    "g": 101,
+    "b": 104
+  },
+  "ireland": {
+    "name": "ireland",
+    "r": 159,
+    "g": 167,
+    "b": 119
+  },
+  "isle_of_man": {
+    "name": "isle_of_man",
+    "r": 183,
+    "g": 54,
+    "b": 70
+  },
+  "israel": {
+    "name": "israel",
+    "r": 151,
+    "g": 165,
+    "b": 198
+  },
+  "it": {
+    "name": "it",
+    "r": 148,
+    "g": 142,
+    "b": 127
+  },
+  "izakaya_lantern": {
+    "name": "izakaya_lantern",
+    "r": 194,
+    "g": 54,
+    "b": 53
+  },
+  "jack_o_lantern": {
+    "name": "jack_o_lantern",
+    "r": 197,
+    "g": 110,
+    "b": 3
+  },
+  "jamaica": {
+    "name": "jamaica",
+    "r": 131,
+    "g": 139,
+    "b": 34
+  },
+  "japan": {
+    "name": "japan",
+    "r": 144,
+    "g": 196,
+    "b": 44
+  },
+  "japanese_castle": {
+    "name": "japanese_castle",
+    "r": 144,
+    "g": 143,
+    "b": 143
+  },
+  "japanese_goblin": {
+    "name": "japanese_goblin",
+    "r": 156,
+    "g": 17,
+    "b": 9
+  },
+  "japanese_ogre": {
+    "name": "japanese_ogre",
+    "r": 137,
+    "g": 18,
+    "b": 17
+  },
+  "jeans": {
+    "name": "jeans",
+    "r": 82,
+    "g": 166,
+    "b": 235
+  },
+  "jersey": {
+    "name": "jersey",
+    "r": 216,
+    "g": 177,
+    "b": 181
+  },
+  "jigsaw": {
+    "name": "jigsaw",
+    "r": 72,
+    "g": 163,
+    "b": 153
+  },
+  "jordan": {
+    "name": "jordan",
+    "r": 110,
+    "g": 94,
+    "b": 85
+  },
+  "joy": {
+    "name": "joy",
+    "r": 193,
+    "g": 159,
+    "b": 77
+  },
+  "joy_cat": {
+    "name": "joy_cat",
+    "r": 205,
+    "g": 158,
+    "b": 59
+  },
+  "joystick": {
+    "name": "joystick",
+    "r": 103,
+    "g": 114,
+    "b": 164
+  },
+  "jp": {
+    "name": "jp",
+    "r": 214,
+    "g": 188,
+    "b": 194
+  },
+  "judge": {
+    "name": "judge",
+    "r": 142,
+    "g": 107,
+    "b": 52
+  },
+  "juggling_person": {
+    "name": "juggling_person",
+    "r": 156,
+    "g": 108,
+    "b": 67
+  },
+  "kaaba": {
+    "name": "kaaba",
+    "r": 82,
+    "g": 71,
+    "b": 47
+  },
+  "kangaroo": {
+    "name": "kangaroo",
+    "r": 186,
+    "g": 138,
+    "b": 92
+  },
+  "kazakhstan": {
+    "name": "kazakhstan",
+    "r": 49,
+    "g": 163,
+    "b": 163
+  },
+  "kenya": {
+    "name": "kenya",
+    "r": 105,
+    "g": 68,
+    "b": 50
+  },
+  "key": {
+    "name": "key",
+    "r": 223,
+    "g": 131,
+    "b": 13
+  },
+  "keyboard": {
+    "name": "keyboard",
+    "r": 195,
+    "g": 195,
+    "b": 195
+  },
+  "keycap_ten": {
+    "name": "keycap_ten",
+    "r": 128,
+    "g": 201,
+    "b": 233
+  },
+  "kick_scooter": {
+    "name": "kick_scooter",
+    "r": 177,
+    "g": 115,
+    "b": 37
+  },
+  "kimono": {
+    "name": "kimono",
+    "r": 121,
+    "g": 148,
+    "b": 51
+  },
+  "kiribati": {
+    "name": "kiribati",
+    "r": 173,
+    "g": 110,
+    "b": 117
+  },
+  "kiss": {
+    "name": "kiss",
+    "r": 204,
+    "g": 50,
+    "b": 49
+  },
+  "kissing": {
+    "name": "kissing",
+    "r": 235,
+    "g": 188,
+    "b": 39
+  },
+  "kissing_cat": {
+    "name": "kissing_cat",
+    "r": 222,
+    "g": 163,
+    "b": 41
+  },
+  "kissing_closed_eyes": {
+    "name": "kissing_closed_eyes",
+    "r": 234,
+    "g": 182,
+    "b": 40
+  },
+  "kissing_heart": {
+    "name": "kissing_heart",
+    "r": 229,
+    "g": 168,
+    "b": 44
+  },
+  "kissing_smiling_eyes": {
+    "name": "kissing_smiling_eyes",
+    "r": 235,
+    "g": 188,
+    "b": 39
+  },
+  "kite": {
+    "name": "kite",
+    "r": 128,
+    "g": 90,
+    "b": 72
+  },
+  "kiwi_fruit": {
+    "name": "kiwi_fruit",
+    "r": 133,
+    "g": 145,
+    "b": 60
+  },
+  "kneeling_man": {
+    "name": "kneeling_man",
+    "r": 99,
+    "g": 112,
+    "b": 88
+  },
+  "kneeling_person": {
+    "name": "kneeling_person",
+    "r": 133,
+    "g": 100,
+    "b": 68
+  },
+  "kneeling_woman": {
+    "name": "kneeling_woman",
+    "r": 104,
+    "g": 81,
+    "b": 96
+  },
+  "knife": {
+    "name": "knife",
+    "r": 196,
+    "g": 180,
+    "b": 166
+  },
+  "koala": {
+    "name": "koala",
+    "r": 175,
+    "g": 173,
+    "b": 173
+  },
+  "koko": {
+    "name": "koko",
+    "r": 216,
+    "g": 184,
+    "b": 38
+  },
+  "kosovo": {
+    "name": "kosovo",
+    "r": 73,
+    "g": 95,
+    "b": 146
+  },
+  "kr": {
+    "name": "kr",
+    "r": 186,
+    "g": 177,
+    "b": 182
+  },
+  "kuwait": {
+    "name": "kuwait",
+    "r": 135,
+    "g": 123,
+    "b": 117
+  },
+  "kyrgyzstan": {
+    "name": "kyrgyzstan",
+    "r": 207,
+    "g": 56,
+    "b": 55
+  },
+  "lab_coat": {
+    "name": "lab_coat",
+    "r": 229,
+    "g": 235,
+    "b": 240
+  },
+  "label": {
+    "name": "label",
+    "r": 236,
+    "g": 184,
+    "b": 44
+  },
+  "lacrosse": {
+    "name": "lacrosse",
+    "r": 139,
+    "g": 95,
+    "b": 67
+  },
+  "lantern": {
+    "name": "lantern",
+    "r": 194,
+    "g": 54,
+    "b": 53
+  },
+  "laos": {
+    "name": "laos",
+    "r": 107,
+    "g": 67,
+    "b": 99
+  },
+  "large_blue_circle": {
+    "name": "large_blue_circle",
+    "r": 46,
+    "g": 140,
+    "b": 224
+  },
+  "large_blue_diamond": {
+    "name": "large_blue_diamond",
+    "r": 47,
+    "g": 141,
+    "b": 223
+  },
+  "large_orange_diamond": {
+    "name": "large_orange_diamond",
+    "r": 246,
+    "g": 152,
+    "b": 29
+  },
+  "last_quarter_moon": {
+    "name": "last_quarter_moon",
+    "r": 164,
+    "g": 154,
+    "b": 79
+  },
+  "last_quarter_moon_with_face": {
+    "name": "last_quarter_moon_with_face",
+    "r": 227,
+    "g": 202,
+    "b": 63
+  },
+  "latin_cross": {
+    "name": "latin_cross",
+    "r": 159,
+    "g": 120,
+    "b": 249
+  },
+  "latvia": {
+    "name": "latvia",
+    "r": 148,
+    "g": 78,
+    "b": 86
+  },
+  "laughing": {
+    "name": "laughing",
+    "r": 207,
+    "g": 163,
+    "b": 49
+  },
+  "leafy_green": {
+    "name": "leafy_green",
+    "r": 91,
+    "g": 163,
+    "b": 100
+  },
+  "leaves": {
+    "name": "leaves",
+    "r": 121,
+    "g": 161,
+    "b": 97
+  },
+  "lebanon": {
+    "name": "lebanon",
+    "r": 206,
+    "g": 154,
+    "b": 140
+  },
+  "ledger": {
+    "name": "ledger",
+    "r": 226,
+    "g": 169,
+    "b": 41
+  },
+  "left_luggage": {
+    "name": "left_luggage",
+    "r": 143,
+    "g": 174,
+    "b": 241
+  },
+  "left_right_arrow": {
+    "name": "left_right_arrow",
+    "r": 75,
+    "g": 183,
+    "b": 240
+  },
+  "left_speech_bubble": {
+    "name": "left_speech_bubble",
+    "r": 45,
+    "g": 145,
+    "b": 230
+  },
+  "leftwards_arrow_with_hook": {
+    "name": "leftwards_arrow_with_hook",
+    "r": 85,
+    "g": 186,
+    "b": 240
+  },
+  "leg": {
+    "name": "leg",
+    "r": 250,
+    "g": 184,
+    "b": 16
+  },
+  "lemon": {
+    "name": "lemon",
+    "r": 222,
+    "g": 203,
+    "b": 71
+  },
+  "leo": {
+    "name": "leo",
+    "r": 244,
+    "g": 218,
+    "b": 96
+  },
+  "leopard": {
+    "name": "leopard",
+    "r": 230,
+    "g": 176,
+    "b": 75
+  },
+  "lesotho": {
+    "name": "lesotho",
+    "r": 100,
+    "g": 140,
+    "b": 151
+  },
+  "level_slider": {
+    "name": "level_slider",
+    "r": 153,
+    "g": 175,
+    "b": 186
+  },
+  "liberia": {
+    "name": "liberia",
+    "r": 187,
+    "g": 112,
+    "b": 129
+  },
+  "libra": {
+    "name": "libra",
+    "r": 113,
+    "g": 179,
+    "b": 116
+  },
+  "libya": {
+    "name": "libya",
+    "r": 86,
+    "g": 67,
+    "b": 49
+  },
+  "liechtenstein": {
+    "name": "liechtenstein",
+    "r": 111,
+    "g": 51,
+    "b": 85
+  },
+  "light_rail": {
+    "name": "light_rail",
+    "r": 135,
+    "g": 178,
+    "b": 197
+  },
+  "link": {
+    "name": "link",
+    "r": 161,
+    "g": 161,
+    "b": 161
+  },
+  "lion": {
+    "name": "lion",
+    "r": 170,
+    "g": 129,
+    "b": 62
+  },
+  "lips": {
+    "name": "lips",
+    "r": 196,
+    "g": 78,
+    "b": 114
+  },
+  "lipstick": {
+    "name": "lipstick",
+    "r": 220,
+    "g": 117,
+    "b": 70
+  },
+  "lithuania": {
+    "name": "lithuania",
+    "r": 134,
+    "g": 110,
+    "b": 60
+  },
+  "lizard": {
+    "name": "lizard",
+    "r": 77,
+    "g": 154,
+    "b": 51
+  },
+  "llama": {
+    "name": "llama",
+    "r": 190,
+    "g": 177,
+    "b": 168
+  },
+  "lobster": {
+    "name": "lobster",
+    "r": 198,
+    "g": 33,
+    "b": 30
+  },
+  "lock": {
+    "name": "lock",
+    "r": 234,
+    "g": 174,
+    "b": 43
+  },
+  "lock_with_ink_pen": {
+    "name": "lock_with_ink_pen",
+    "r": 208,
+    "g": 172,
+    "b": 94
+  },
+  "lollipop": {
+    "name": "lollipop",
+    "r": 238,
+    "g": 146,
+    "b": 165
+  },
+  "loop": {
+    "name": "loop",
+    "r": 81,
+    "g": 190,
+    "b": 238
+  },
+  "lotion_bottle": {
+    "name": "lotion_bottle",
+    "r": 204,
+    "g": 197,
+    "b": 177
+  },
+  "lotus_position": {
+    "name": "lotus_position",
+    "r": 212,
+    "g": 142,
+    "b": 19
+  },
+  "lotus_position_man": {
+    "name": "lotus_position_man",
+    "r": 162,
+    "g": 165,
+    "b": 56
+  },
+  "lotus_position_woman": {
+    "name": "lotus_position_woman",
+    "r": 180,
+    "g": 116,
+    "b": 84
+  },
+  "loud_sound": {
+    "name": "loud_sound",
+    "r": 155,
+    "g": 167,
+    "b": 162
+  },
+  "loudspeaker": {
+    "name": "loudspeaker",
+    "r": 201,
+    "g": 167,
+    "b": 165
+  },
+  "love_hotel": {
+    "name": "love_hotel",
+    "r": 223,
+    "g": 135,
+    "b": 172
+  },
+  "love_letter": {
+    "name": "love_letter",
+    "r": 209,
+    "g": 172,
+    "b": 172
+  },
+  "love_you_gesture": {
+    "name": "love_you_gesture",
+    "r": 250,
+    "g": 186,
+    "b": 19
+  },
+  "low_brightness": {
+    "name": "low_brightness",
+    "r": 231,
+    "g": 131,
+    "b": 35
+  },
+  "luggage": {
+    "name": "luggage",
+    "r": 125,
+    "g": 142,
+    "b": 147
+  },
+  "luxembourg": {
+    "name": "luxembourg",
+    "r": 153,
+    "g": 144,
+    "b": 159
+  },
+  "lying_face": {
+    "name": "lying_face",
+    "r": 225,
+    "g": 177,
+    "b": 36
+  },
+  "m": {
+    "name": "m",
+    "r": 123,
+    "g": 190,
+    "b": 223
+  },
+  "macau": {
+    "name": "macau",
+    "r": 46,
+    "g": 120,
+    "b": 103
+  },
+  "macedonia": {
+    "name": "macedonia",
+    "r": 196,
+    "g": 95,
+    "b": 51
+  },
+  "madagascar": {
+    "name": "madagascar",
+    "r": 154,
+    "g": 136,
+    "b": 115
+  },
+  "mag": {
+    "name": "mag",
+    "r": 169,
+    "g": 189,
+    "b": 180
+  },
+  "mag_right": {
+    "name": "mag_right",
+    "r": 169,
+    "g": 189,
+    "b": 181
+  },
+  "mage": {
+    "name": "mage",
+    "r": 123,
+    "g": 111,
+    "b": 109
+  },
+  "mage_man": {
+    "name": "mage_man",
+    "r": 145,
+    "g": 139,
+    "b": 143
+  },
+  "mage_woman": {
+    "name": "mage_woman",
+    "r": 137,
+    "g": 123,
+    "b": 107
+  },
+  "magnet": {
+    "name": "magnet",
+    "r": 211,
+    "g": 69,
+    "b": 76
+  },
+  "mahjong": {
+    "name": "mahjong",
+    "r": 245,
+    "g": 217,
+    "b": 182
+  },
+  "mailbox": {
+    "name": "mailbox",
+    "r": 93,
+    "g": 158,
+    "b": 219
+  },
+  "mailbox_closed": {
+    "name": "mailbox_closed",
+    "r": 96,
+    "g": 159,
+    "b": 219
+  },
+  "mailbox_with_mail": {
+    "name": "mailbox_with_mail",
+    "r": 111,
+    "g": 150,
+    "b": 172
+  },
+  "mailbox_with_no_mail": {
+    "name": "mailbox_with_no_mail",
+    "r": 86,
+    "g": 135,
+    "b": 180
+  },
+  "malawi": {
+    "name": "malawi",
+    "r": 103,
+    "g": 69,
+    "b": 49
+  },
+  "malaysia": {
+    "name": "malaysia",
+    "r": 164,
+    "g": 120,
+    "b": 113
+  },
+  "maldives": {
+    "name": "maldives",
+    "r": 122,
+    "g": 76,
+    "b": 70
+  },
+  "male_detective": {
+    "name": "male_detective",
+    "r": 150,
+    "g": 131,
+    "b": 89
+  },
+  "male_sign": {
+    "name": "male_sign",
+    "r": 5,
+    "g": 172,
+    "b": 150
+  },
+  "mali": {
+    "name": "mali",
+    "r": 149,
+    "g": 130,
+    "b": 55
+  },
+  "malta": {
+    "name": "malta",
+    "r": 202,
+    "g": 125,
+    "b": 135
+  },
+  "man": {
+    "name": "man",
+    "r": 174,
+    "g": 127,
+    "b": 36
+  },
+  "man_artist": {
+    "name": "man_artist",
+    "r": 171,
+    "g": 146,
+    "b": 87
+  },
+  "man_astronaut": {
+    "name": "man_astronaut",
+    "r": 170,
+    "g": 151,
+    "b": 110
+  },
+  "man_cartwheeling": {
+    "name": "man_cartwheeling",
+    "r": 194,
+    "g": 163,
+    "b": 39
+  },
+  "man_cook": {
+    "name": "man_cook",
+    "r": 196,
+    "g": 179,
+    "b": 135
+  },
+  "man_dancing": {
+    "name": "man_dancing",
+    "r": 108,
+    "g": 104,
+    "b": 80
+  },
+  "man_facepalming": {
+    "name": "man_facepalming",
+    "r": 111,
+    "g": 142,
+    "b": 74
+  },
+  "man_factory_worker": {
+    "name": "man_factory_worker",
+    "r": 154,
+    "g": 135,
+    "b": 107
+  },
+  "man_farmer": {
+    "name": "man_farmer",
+    "r": 214,
+    "g": 186,
+    "b": 60
+  },
+  "man_firefighter": {
+    "name": "man_firefighter",
+    "r": 220,
+    "g": 112,
+    "b": 41
+  },
+  "man_health_worker": {
+    "name": "man_health_worker",
+    "r": 173,
+    "g": 151,
+    "b": 92
+  },
+  "man_in_manual_wheelchair": {
+    "name": "man_in_manual_wheelchair",
+    "r": 108,
+    "g": 90,
+    "b": 70
+  },
+  "man_in_motorized_wheelchair": {
+    "name": "man_in_motorized_wheelchair",
+    "r": 96,
+    "g": 81,
+    "b": 67
+  },
+  "man_in_tuxedo": {
+    "name": "man_in_tuxedo",
+    "r": 151,
+    "g": 118,
+    "b": 52
+  },
+  "man_judge": {
+    "name": "man_judge",
+    "r": 143,
+    "g": 109,
+    "b": 61
+  },
+  "man_juggling": {
+    "name": "man_juggling",
+    "r": 88,
+    "g": 134,
+    "b": 102
+  },
+  "man_mechanic": {
+    "name": "man_mechanic",
+    "r": 163,
+    "g": 123,
+    "b": 56
+  },
+  "man_office_worker": {
+    "name": "man_office_worker",
+    "r": 148,
+    "g": 115,
+    "b": 50
+  },
+  "man_pilot": {
+    "name": "man_pilot",
+    "r": 131,
+    "g": 106,
+    "b": 48
+  },
+  "man_playing_handball": {
+    "name": "man_playing_handball",
+    "r": 143,
+    "g": 150,
+    "b": 77
+  },
+  "man_playing_water_polo": {
+    "name": "man_playing_water_polo",
+    "r": 143,
+    "g": 161,
+    "b": 110
+  },
+  "man_scientist": {
+    "name": "man_scientist",
+    "r": 178,
+    "g": 161,
+    "b": 123
+  },
+  "man_shrugging": {
+    "name": "man_shrugging",
+    "r": 102,
+    "g": 151,
+    "b": 85
+  },
+  "man_singer": {
+    "name": "man_singer",
+    "r": 162,
+    "g": 95,
+    "b": 39
+  },
+  "man_student": {
+    "name": "man_student",
+    "r": 136,
+    "g": 108,
+    "b": 46
+  },
+  "man_teacher": {
+    "name": "man_teacher",
+    "r": 137,
+    "g": 134,
+    "b": 86
+  },
+  "man_technologist": {
+    "name": "man_technologist",
+    "r": 87,
+    "g": 133,
+    "b": 102
+  },
+  "man_with_gua_pi_mao": {
+    "name": "man_with_gua_pi_mao",
+    "r": 146,
+    "g": 116,
+    "b": 87
+  },
+  "man_with_probing_cane": {
+    "name": "man_with_probing_cane",
+    "r": 102,
+    "g": 111,
+    "b": 89
+  },
+  "man_with_turban": {
+    "name": "man_with_turban",
+    "r": 213,
+    "g": 191,
+    "b": 139
+  },
+  "mandarin": {
+    "name": "mandarin",
+    "r": 220,
+    "g": 157,
+    "b": 33
+  },
+  "mango": {
+    "name": "mango",
+    "r": 197,
+    "g": 172,
+    "b": 64
+  },
+  "mans_shoe": {
+    "name": "mans_shoe",
+    "r": 143,
+    "g": 83,
+    "b": 60
+  },
+  "mantelpiece_clock": {
+    "name": "mantelpiece_clock",
+    "r": 151,
+    "g": 123,
+    "b": 104
+  },
+  "manual_wheelchair": {
+    "name": "manual_wheelchair",
+    "r": 112,
+    "g": 62,
+    "b": 67
+  },
+  "maple_leaf": {
+    "name": "maple_leaf",
+    "r": 234,
+    "g": 157,
+    "b": 65
+  },
+  "marshall_islands": {
+    "name": "marshall_islands",
+    "r": 79,
+    "g": 100,
+    "b": 141
+  },
+  "martial_arts_uniform": {
+    "name": "martial_arts_uniform",
+    "r": 197,
+    "g": 197,
+    "b": 197
+  },
+  "martinique": {
+    "name": "martinique",
+    "r": 108,
+    "g": 125,
+    "b": 164
+  },
+  "mask": {
+    "name": "mask",
+    "r": 226,
+    "g": 179,
+    "b": 98
+  },
+  "massage": {
+    "name": "massage",
+    "r": 156,
+    "g": 103,
+    "b": 81
+  },
+  "massage_man": {
+    "name": "massage_man",
+    "r": 151,
+    "g": 152,
+    "b": 59
+  },
+  "massage_woman": {
+    "name": "massage_woman",
+    "r": 158,
+    "g": 105,
+    "b": 78
+  },
+  "mate": {
+    "name": "mate",
+    "r": 140,
+    "g": 116,
+    "b": 88
+  },
+  "mauritania": {
+    "name": "mauritania",
+    "r": 59,
+    "g": 167,
+    "b": 67
+  },
+  "mauritius": {
+    "name": "mauritius",
+    "r": 129,
+    "g": 114,
+    "b": 84
+  },
+  "mayotte": {
+    "name": "mayotte",
+    "r": 204,
+    "g": 197,
+    "b": 199
+  },
+  "meat_on_bone": {
+    "name": "meat_on_bone",
+    "r": 189,
+    "g": 105,
+    "b": 91
+  },
+  "mechanic": {
+    "name": "mechanic",
+    "r": 121,
+    "g": 119,
+    "b": 112
+  },
+  "mechanical_arm": {
+    "name": "mechanical_arm",
+    "r": 124,
+    "g": 140,
+    "b": 147
+  },
+  "mechanical_leg": {
+    "name": "mechanical_leg",
+    "r": 129,
+    "g": 144,
+    "b": 152
+  },
+  "medal_military": {
+    "name": "medal_military",
+    "r": 196,
+    "g": 168,
+    "b": 122
+  },
+  "medal_sports": {
+    "name": "medal_sports",
+    "r": 216,
+    "g": 181,
+    "b": 88
+  },
+  "medical_symbol": {
+    "name": "medical_symbol",
+    "r": 55,
+    "g": 134,
+    "b": 209
+  },
+  "mega": {
+    "name": "mega",
+    "r": 210,
+    "g": 77,
+    "b": 64
+  },
+  "melon": {
+    "name": "melon",
+    "r": 167,
+    "g": 198,
+    "b": 137
+  },
+  "memo": {
+    "name": "memo",
+    "r": 224,
+    "g": 208,
+    "b": 186
+  },
+  "men_wrestling": {
+    "name": "men_wrestling",
+    "r": 177,
+    "g": 150,
+    "b": 48
+  },
+  "menorah": {
+    "name": "menorah",
+    "r": 169,
+    "g": 138,
+    "b": 242
+  },
+  "mens": {
+    "name": "mens",
+    "r": 112,
+    "g": 155,
+    "b": 249
+  },
+  "mermaid": {
+    "name": "mermaid",
+    "r": 207,
+    "g": 132,
+    "b": 127
+  },
+  "merman": {
+    "name": "merman",
+    "r": 132,
+    "g": 166,
+    "b": 76
+  },
+  "merperson": {
+    "name": "merperson",
+    "r": 230,
+    "g": 118,
+    "b": 26
+  },
+  "metal": {
+    "name": "metal",
+    "r": 249,
+    "g": 183,
+    "b": 16
+  },
+  "metro": {
+    "name": "metro",
+    "r": 113,
+    "g": 137,
+    "b": 147
+  },
+  "mexico": {
+    "name": "mexico",
+    "r": 142,
+    "g": 120,
+    "b": 118
+  },
+  "microbe": {
+    "name": "microbe",
+    "r": 111,
+    "g": 130,
+    "b": 144
+  },
+  "micronesia": {
+    "name": "micronesia",
+    "r": 121,
+    "g": 166,
+    "b": 196
+  },
+  "microphone": {
+    "name": "microphone",
+    "r": 90,
+    "g": 140,
+    "b": 168
+  },
+  "microscope": {
+    "name": "microscope",
+    "r": 165,
+    "g": 75,
+    "b": 77
+  },
+  "middle_finger": {
+    "name": "middle_finger",
+    "r": 251,
+    "g": 185,
+    "b": 16
+  },
+  "milk_glass": {
+    "name": "milk_glass",
+    "r": 232,
+    "g": 234,
+    "b": 235
+  },
+  "milky_way": {
+    "name": "milky_way",
+    "r": 50,
+    "g": 59,
+    "b": 124
+  },
+  "minibus": {
+    "name": "minibus",
+    "r": 178,
+    "g": 179,
+    "b": 180
+  },
+  "minidisc": {
+    "name": "minidisc",
+    "r": 185,
+    "g": 185,
+    "b": 185
+  },
+  "mobile_phone_off": {
+    "name": "mobile_phone_off",
+    "r": 136,
+    "g": 96,
+    "b": 53
+  },
+  "moldova": {
+    "name": "moldova",
+    "r": 145,
+    "g": 92,
+    "b": 71
+  },
+  "monaco": {
+    "name": "monaco",
+    "r": 203,
+    "g": 132,
+    "b": 141
+  },
+  "money_mouth_face": {
+    "name": "money_mouth_face",
+    "r": 129,
+    "g": 167,
+    "b": 33
+  },
+  "money_with_wings": {
+    "name": "money_with_wings",
+    "r": 130,
+    "g": 180,
+    "b": 126
+  },
+  "moneybag": {
+    "name": "moneybag",
+    "r": 228,
+    "g": 178,
+    "b": 109
+  },
+  "mongolia": {
+    "name": "mongolia",
+    "r": 135,
+    "g": 79,
+    "b": 89
+  },
+  "monkey": {
+    "name": "monkey",
+    "r": 155,
+    "g": 113,
+    "b": 76
+  },
+  "monkey_face": {
+    "name": "monkey_face",
+    "r": 174,
+    "g": 130,
+    "b": 90
+  },
+  "monocle_face": {
+    "name": "monocle_face",
+    "r": 224,
+    "g": 179,
+    "b": 47
+  },
+  "monorail": {
+    "name": "monorail",
+    "r": 165,
+    "g": 162,
+    "b": 167
+  },
+  "montenegro": {
+    "name": "montenegro",
+    "r": 178,
+    "g": 49,
+    "b": 37
+  },
+  "montserrat": {
+    "name": "montserrat",
+    "r": 77,
+    "g": 56,
+    "b": 105
+  },
+  "moon": {
+    "name": "moon",
+    "r": 201,
+    "g": 187,
+    "b": 77
+  },
+  "moon_cake": {
+    "name": "moon_cake",
+    "r": 210,
+    "g": 140,
+    "b": 59
+  },
+  "morocco": {
+    "name": "morocco",
+    "r": 191,
+    "g": 30,
+    "b": 38
+  },
+  "mortar_board": {
+    "name": "mortar_board",
+    "r": 118,
+    "g": 108,
+    "b": 82
+  },
+  "mosque": {
+    "name": "mosque",
+    "r": 224,
+    "g": 205,
+    "b": 149
+  },
+  "mosquito": {
+    "name": "mosquito",
+    "r": 56,
+    "g": 56,
+    "b": 56
+  },
+  "motor_boat": {
+    "name": "motor_boat",
+    "r": 98,
+    "g": 168,
+    "b": 209
+  },
+  "motor_scooter": {
+    "name": "motor_scooter",
+    "r": 183,
+    "g": 81,
+    "b": 69
+  },
+  "motorcycle": {
+    "name": "motorcycle",
+    "r": 142,
+    "g": 118,
+    "b": 60
+  },
+  "motorized_wheelchair": {
+    "name": "motorized_wheelchair",
+    "r": 83,
+    "g": 61,
+    "b": 64
+  },
+  "motorway": {
+    "name": "motorway",
+    "r": 134,
+    "g": 163,
+    "b": 124
+  },
+  "mount_fuji": {
+    "name": "mount_fuji",
+    "r": 66,
+    "g": 134,
+    "b": 186
+  },
+  "mountain": {
+    "name": "mountain",
+    "r": 82,
+    "g": 124,
+    "b": 107
+  },
+  "mountain_bicyclist": {
+    "name": "mountain_bicyclist",
+    "r": 139,
+    "g": 139,
+    "b": 123
+  },
+  "mountain_biking_man": {
+    "name": "mountain_biking_man",
+    "r": 140,
+    "g": 142,
+    "b": 125
+  },
+  "mountain_biking_woman": {
+    "name": "mountain_biking_woman",
+    "r": 144,
+    "g": 128,
+    "b": 133
+  },
+  "mountain_cableway": {
+    "name": "mountain_cableway",
+    "r": 118,
+    "g": 172,
+    "b": 199
+  },
+  "mountain_railway": {
+    "name": "mountain_railway",
+    "r": 151,
+    "g": 142,
+    "b": 133
+  },
+  "mountain_snow": {
+    "name": "mountain_snow",
+    "r": 160,
+    "g": 185,
+    "b": 197
+  },
+  "mouse": {
+    "name": "mouse",
+    "r": 203,
+    "g": 197,
+    "b": 197
+  },
+  "mouse2": {
+    "name": "mouse2",
+    "r": 196,
+    "g": 190,
+    "b": 190
+  },
+  "movie_camera": {
+    "name": "movie_camera",
+    "r": 84,
+    "g": 83,
+    "b": 83
+  },
+  "moyai": {
+    "name": "moyai",
+    "r": 148,
+    "g": 148,
+    "b": 147
+  },
+  "mozambique": {
+    "name": "mozambique",
+    "r": 113,
+    "g": 109,
+    "b": 61
+  },
+  "mrs_claus": {
+    "name": "mrs_claus",
+    "r": 228,
+    "g": 156,
+    "b": 107
+  },
+  "muscle": {
+    "name": "muscle",
+    "r": 250,
+    "g": 186,
+    "b": 19
+  },
+  "mushroom": {
+    "name": "mushroom",
+    "r": 229,
+    "g": 122,
+    "b": 119
+  },
+  "musical_keyboard": {
+    "name": "musical_keyboard",
+    "r": 145,
+    "g": 145,
+    "b": 145
+  },
+  "musical_note": {
+    "name": "musical_note",
+    "r": 30,
+    "g": 159,
+    "b": 230
+  },
+  "musical_score": {
+    "name": "musical_score",
+    "r": 78,
+    "g": 78,
+    "b": 78
+  },
+  "mute": {
+    "name": "mute",
+    "r": 138,
+    "g": 77,
+    "b": 88
+  },
+  "myanmar": {
+    "name": "myanmar",
+    "r": 174,
+    "g": 142,
+    "b": 68
+  },
+  "nail_care": {
+    "name": "nail_care",
+    "r": 236,
+    "g": 137,
+    "b": 38
+  },
+  "name_badge": {
+    "name": "name_badge",
+    "r": 222,
+    "g": 92,
+    "b": 138
+  },
+  "namibia": {
+    "name": "namibia",
+    "r": 100,
+    "g": 97,
+    "b": 95
+  },
+  "national_park": {
+    "name": "national_park",
+    "r": 82,
+    "g": 139,
+    "b": 105
+  },
+  "nauru": {
+    "name": "nauru",
+    "r": 47,
+    "g": 74,
+    "b": 121
+  },
+  "nauseated_face": {
+    "name": "nauseated_face",
+    "r": 86,
+    "g": 184,
+    "b": 127
+  },
+  "nazar_amulet": {
+    "name": "nazar_amulet",
+    "r": 68,
+    "g": 61,
+    "b": 194
+  },
+  "neckbeard": {
+    "name": "neckbeard",
+    "r": 94,
+    "g": 75,
+    "b": 37
+  },
+  "necktie": {
+    "name": "necktie",
+    "r": 198,
+    "g": 178,
+    "b": 160
+  },
+  "negative_squared_cross_mark": {
+    "name": "negative_squared_cross_mark",
+    "r": 196,
+    "g": 132,
+    "b": 132
+  },
+  "nepal": {
+    "name": "nepal",
+    "r": 205,
+    "g": 182,
+    "b": 189
+  },
+  "nerd_face": {
+    "name": "nerd_face",
+    "r": 178,
+    "g": 142,
+    "b": 43
+  },
+  "netherlands": {
+    "name": "netherlands",
+    "r": 144,
+    "g": 116,
+    "b": 137
+  },
+  "neutral_face": {
+    "name": "neutral_face",
+    "r": 233,
+    "g": 186,
+    "b": 40
+  },
+  "new": {
+    "name": "new",
+    "r": 47,
+    "g": 165,
+    "b": 224
+  },
+  "new_caledonia": {
+    "name": "new_caledonia",
+    "r": 110,
+    "g": 117,
+    "b": 78
+  },
+  "new_moon": {
+    "name": "new_moon",
+    "r": 100,
+    "g": 100,
+    "b": 100
+  },
+  "new_moon_with_face": {
+    "name": "new_moon_with_face",
+    "r": 78,
+    "g": 78,
+    "b": 78
+  },
+  "new_zealand": {
+    "name": "new_zealand",
+    "r": 66,
+    "g": 44,
+    "b": 104
+  },
+  "newspaper": {
+    "name": "newspaper",
+    "r": 183,
+    "g": 183,
+    "b": 184
+  },
+  "newspaper_roll": {
+    "name": "newspaper_roll",
+    "r": 169,
+    "g": 167,
+    "b": 167
+  },
+  "next_track_button": {
+    "name": "next_track_button",
+    "r": 247,
+    "g": 164,
+    "b": 86
+  },
+  "ng": {
+    "name": "ng",
+    "r": 66,
+    "g": 172,
+    "b": 225
+  },
+  "ng_man": {
+    "name": "ng_man",
+    "r": 111,
+    "g": 144,
+    "b": 77
+  },
+  "ng_woman": {
+    "name": "ng_woman",
+    "r": 133,
+    "g": 82,
+    "b": 108
+  },
+  "nicaragua": {
+    "name": "nicaragua",
+    "r": 137,
+    "g": 163,
+    "b": 216
+  },
+  "niger": {
+    "name": "niger",
+    "r": 172,
+    "g": 165,
+    "b": 121
+  },
+  "nigeria": {
+    "name": "nigeria",
+    "r": 95,
+    "g": 163,
+    "b": 136
+  },
+  "night_with_stars": {
+    "name": "night_with_stars",
+    "r": 53,
+    "g": 79,
+    "b": 68
+  },
+  "nine": {
+    "name": "nine",
+    "r": 124,
+    "g": 200,
+    "b": 234
+  },
+  "niue": {
+    "name": "niue",
+    "r": 201,
+    "g": 167,
+    "b": 61
+  },
+  "no_bell": {
+    "name": "no_bell",
+    "r": 174,
+    "g": 86,
+    "b": 50
+  },
+  "no_bicycles": {
+    "name": "no_bicycles",
+    "r": 152,
+    "g": 77,
+    "b": 77
+  },
+  "no_entry": {
+    "name": "no_entry",
+    "r": 233,
+    "g": 73,
+    "b": 73
+  },
+  "no_entry_sign": {
+    "name": "no_entry_sign",
+    "r": 237,
+    "g": 154,
+    "b": 154
+  },
+  "no_good": {
+    "name": "no_good",
+    "r": 132,
+    "g": 81,
+    "b": 108
+  },
+  "no_good_man": {
+    "name": "no_good_man",
+    "r": 111,
+    "g": 144,
+    "b": 77
+  },
+  "no_good_woman": {
+    "name": "no_good_woman",
+    "r": 133,
+    "g": 82,
+    "b": 108
+  },
+  "no_mobile_phones": {
+    "name": "no_mobile_phones",
+    "r": 148,
+    "g": 73,
+    "b": 73
+  },
+  "no_mouth": {
+    "name": "no_mouth",
+    "r": 240,
+    "g": 192,
+    "b": 39
+  },
+  "no_pedestrians": {
+    "name": "no_pedestrians",
+    "r": 149,
+    "g": 75,
+    "b": 75
+  },
+  "no_smoking": {
+    "name": "no_smoking",
+    "r": 145,
+    "g": 75,
+    "b": 75
+  },
+  "non-potable_water": {
+    "name": "non-potable_water",
+    "r": 157,
+    "g": 82,
+    "b": 82
+  },
+  "norfolk_island": {
+    "name": "norfolk_island",
+    "r": 105,
+    "g": 157,
+    "b": 125
+  },
+  "north_korea": {
+    "name": "north_korea",
+    "r": 165,
+    "g": 90,
+    "b": 110
+  },
+  "northern_mariana_islands": {
+    "name": "northern_mariana_islands",
+    "r": 60,
+    "g": 122,
+    "b": 163
+  },
+  "norway": {
+    "name": "norway",
+    "r": 178,
+    "g": 84,
+    "b": 89
+  },
+  "nose": {
+    "name": "nose",
+    "r": 247,
+    "g": 188,
+    "b": 27
+  },
+  "notebook": {
+    "name": "notebook",
+    "r": 154,
+    "g": 154,
+    "b": 154
+  },
+  "notebook_with_decorative_cover": {
+    "name": "notebook_with_decorative_cover",
+    "r": 138,
+    "g": 154,
+    "b": 161
+  },
+  "notes": {
+    "name": "notes",
+    "r": 45,
+    "g": 167,
+    "b": 228
+  },
+  "nut_and_bolt": {
+    "name": "nut_and_bolt",
+    "r": 136,
+    "g": 136,
+    "b": 136
+  },
+  "o": {
+    "name": "o",
+    "r": 225,
+    "g": 43,
+    "b": 43
+  },
+  "o2": {
+    "name": "o2",
+    "r": 226,
+    "g": 111,
+    "b": 110
+  },
+  "ocean": {
+    "name": "ocean",
+    "r": 97,
+    "g": 191,
+    "b": 234
+  },
+  "octocat": {
+    "name": "octocat",
+    "r": 112,
+    "g": 104,
+    "b": 98
+  },
+  "octopus": {
+    "name": "octopus",
+    "r": 241,
+    "g": 93,
+    "b": 93
+  },
+  "oden": {
+    "name": "oden",
+    "r": 203,
+    "g": 168,
+    "b": 111
+  },
+  "office": {
+    "name": "office",
+    "r": 173,
+    "g": 200,
+    "b": 211
+  },
+  "office_worker": {
+    "name": "office_worker",
+    "r": 152,
+    "g": 134,
+    "b": 94
+  },
+  "oil_drum": {
+    "name": "oil_drum",
+    "r": 29,
+    "g": 96,
+    "b": 175
+  },
+  "ok": {
+    "name": "ok",
+    "r": 62,
+    "g": 171,
+    "b": 225
+  },
+  "ok_hand": {
+    "name": "ok_hand",
+    "r": 249,
+    "g": 180,
+    "b": 9
+  },
+  "ok_man": {
+    "name": "ok_man",
+    "r": 95,
+    "g": 158,
+    "b": 92
+  },
+  "ok_person": {
+    "name": "ok_person",
+    "r": 131,
+    "g": 72,
+    "b": 137
+  },
+  "ok_woman": {
+    "name": "ok_woman",
+    "r": 132,
+    "g": 73,
+    "b": 136
+  },
+  "old_key": {
+    "name": "old_key",
+    "r": 125,
+    "g": 125,
+    "b": 125
+  },
+  "older_adult": {
+    "name": "older_adult",
+    "r": 200,
+    "g": 171,
+    "b": 96
+  },
+  "older_man": {
+    "name": "older_man",
+    "r": 233,
+    "g": 180,
+    "b": 40
+  },
+  "older_woman": {
+    "name": "older_woman",
+    "r": 209,
+    "g": 171,
+    "b": 75
+  },
+  "om": {
+    "name": "om",
+    "r": 164,
+    "g": 128,
+    "b": 245
+  },
+  "oman": {
+    "name": "oman",
+    "r": 176,
+    "g": 125,
+    "b": 106
+  },
+  "on": {
+    "name": "on",
+    "r": 84,
+    "g": 185,
+    "b": 238
+  },
+  "oncoming_automobile": {
+    "name": "oncoming_automobile",
+    "r": 164,
+    "g": 168,
+    "b": 164
+  },
+  "oncoming_bus": {
+    "name": "oncoming_bus",
+    "r": 143,
+    "g": 173,
+    "b": 192
+  },
+  "oncoming_police_car": {
+    "name": "oncoming_police_car",
+    "r": 124,
+    "g": 125,
+    "b": 122
+  },
+  "oncoming_taxi": {
+    "name": "oncoming_taxi",
+    "r": 189,
+    "g": 168,
+    "b": 77
+  },
+  "one": {
+    "name": "one",
+    "r": 119,
+    "g": 199,
+    "b": 235
+  },
+  "one_piece_swimsuit": {
+    "name": "one_piece_swimsuit",
+    "r": 39,
+    "g": 122,
+    "b": 147
+  },
+  "onion": {
+    "name": "onion",
+    "r": 244,
+    "g": 185,
+    "b": 87
+  },
+  "open_book": {
+    "name": "open_book",
+    "r": 180,
+    "g": 170,
+    "b": 169
+  },
+  "open_file_folder": {
+    "name": "open_file_folder",
+    "r": 241,
+    "g": 198,
+    "b": 52
+  },
+  "open_hands": {
+    "name": "open_hands",
+    "r": 250,
+    "g": 186,
+    "b": 18
+  },
+  "open_mouth": {
+    "name": "open_mouth",
+    "r": 222,
+    "g": 178,
+    "b": 38
+  },
+  "open_umbrella": {
+    "name": "open_umbrella",
+    "r": 154,
+    "g": 80,
+    "b": 167
+  },
+  "ophiuchus": {
+    "name": "ophiuchus",
+    "r": 51,
+    "g": 183,
+    "b": 199
+  },
+  "orange": {
+    "name": "orange",
+    "r": 220,
+    "g": 157,
+    "b": 33
+  },
+  "orange_book": {
+    "name": "orange_book",
+    "r": 220,
+    "g": 125,
+    "b": 23
+  },
+  "orange_circle": {
+    "name": "orange_circle",
+    "r": 240,
+    "g": 132,
+    "b": 32
+  },
+  "orange_heart": {
+    "name": "orange_heart",
+    "r": 242,
+    "g": 133,
+    "b": 9
+  },
+  "orange_square": {
+    "name": "orange_square",
+    "r": 241,
+    "g": 135,
+    "b": 32
+  },
+  "orangutan": {
+    "name": "orangutan",
+    "r": 190,
+    "g": 83,
+    "b": 68
+  },
+  "orthodox_cross": {
+    "name": "orthodox_cross",
+    "r": 165,
+    "g": 129,
+    "b": 247
+  },
+  "otter": {
+    "name": "otter",
+    "r": 131,
+    "g": 88,
+    "b": 72
+  },
+  "outbox_tray": {
+    "name": "outbox_tray",
+    "r": 186,
+    "g": 170,
+    "b": 133
+  },
+  "owl": {
+    "name": "owl",
+    "r": 172,
+    "g": 143,
+    "b": 113
+  },
+  "ox": {
+    "name": "ox",
+    "r": 166,
+    "g": 129,
+    "b": 92
+  },
+  "oyster": {
+    "name": "oyster",
+    "r": 204,
+    "g": 182,
+    "b": 157
+  },
+  "package": {
+    "name": "package",
+    "r": 238,
+    "g": 178,
+    "b": 80
+  },
+  "page_facing_up": {
+    "name": "page_facing_up",
+    "r": 209,
+    "g": 209,
+    "b": 209
+  },
+  "page_with_curl": {
+    "name": "page_with_curl",
+    "r": 209,
+    "g": 209,
+    "b": 209
+  },
+  "pager": {
+    "name": "pager",
+    "r": 83,
+    "g": 94,
+    "b": 73
+  },
+  "paintbrush": {
+    "name": "paintbrush",
+    "r": 101,
+    "g": 129,
+    "b": 167
+  },
+  "pakistan": {
+    "name": "pakistan",
+    "r": 87,
+    "g": 142,
+    "b": 87
+  },
+  "palau": {
+    "name": "palau",
+    "r": 69,
+    "g": 174,
+    "b": 164
+  },
+  "palestinian_territories": {
+    "name": "palestinian_territories",
+    "r": 118,
+    "g": 116,
+    "b": 101
+  },
+  "palm_tree": {
+    "name": "palm_tree",
+    "r": 123,
+    "g": 154,
+    "b": 78
+  },
+  "palms_up_together": {
+    "name": "palms_up_together",
+    "r": 251,
+    "g": 189,
+    "b": 23
+  },
+  "panama": {
+    "name": "panama",
+    "r": 162,
+    "g": 142,
+    "b": 168
+  },
+  "pancakes": {
+    "name": "pancakes",
+    "r": 210,
+    "g": 158,
+    "b": 102
+  },
+  "panda_face": {
+    "name": "panda_face",
+    "r": 176,
+    "g": 176,
+    "b": 176
+  },
+  "paperclip": {
+    "name": "paperclip",
+    "r": 150,
+    "g": 150,
+    "b": 150
+  },
+  "paperclips": {
+    "name": "paperclips",
+    "r": 138,
+    "g": 138,
+    "b": 138
+  },
+  "papua_new_guinea": {
+    "name": "papua_new_guinea",
+    "r": 125,
+    "g": 56,
+    "b": 48
+  },
+  "parachute": {
+    "name": "parachute",
+    "r": 146,
+    "g": 127,
+    "b": 90
+  },
+  "paraguay": {
+    "name": "paraguay",
+    "r": 142,
+    "g": 112,
+    "b": 146
+  },
+  "parasol_on_ground": {
+    "name": "parasol_on_ground",
+    "r": 165,
+    "g": 180,
+    "b": 176
+  },
+  "parking": {
+    "name": "parking",
+    "r": 68,
+    "g": 174,
+    "b": 227
+  },
+  "parrot": {
+    "name": "parrot",
+    "r": 161,
+    "g": 64,
+    "b": 61
+  },
+  "part_alternation_mark": {
+    "name": "part_alternation_mark",
+    "r": 240,
+    "g": 199,
+    "b": 51
+  },
+  "partly_sunny": {
+    "name": "partly_sunny",
+    "r": 204,
+    "g": 206,
+    "b": 182
+  },
+  "partying_face": {
+    "name": "partying_face",
+    "r": 218,
+    "g": 162,
+    "b": 60
+  },
+  "passenger_ship": {
+    "name": "passenger_ship",
+    "r": 95,
+    "g": 171,
+    "b": 209
+  },
+  "passport_control": {
+    "name": "passport_control",
+    "r": 132,
+    "g": 167,
+    "b": 244
+  },
+  "pause_button": {
+    "name": "pause_button",
+    "r": 248,
+    "g": 151,
+    "b": 60
+  },
+  "paw_prints": {
+    "name": "paw_prints",
+    "r": 196,
+    "g": 39,
+    "b": 37
+  },
+  "peace_symbol": {
+    "name": "peace_symbol",
+    "r": 173,
+    "g": 141,
+    "b": 246
+  },
+  "peach": {
+    "name": "peach",
+    "r": 232,
+    "g": 158,
+    "b": 130
+  },
+  "peacock": {
+    "name": "peacock",
+    "r": 23,
+    "g": 160,
+    "b": 155
+  },
+  "peanuts": {
+    "name": "peanuts",
+    "r": 215,
+    "g": 160,
+    "b": 69
+  },
+  "pear": {
+    "name": "pear",
+    "r": 189,
+    "g": 203,
+    "b": 70
+  },
+  "pen": {
+    "name": "pen",
+    "r": 49,
+    "g": 159,
+    "b": 212
+  },
+  "pencil": {
+    "name": "pencil",
+    "r": 224,
+    "g": 208,
+    "b": 186
+  },
+  "pencil2": {
+    "name": "pencil2",
+    "r": 229,
+    "g": 162,
+    "b": 60
+  },
+  "penguin": {
+    "name": "penguin",
+    "r": 98,
+    "g": 96,
+    "b": 87
+  },
+  "pensive": {
+    "name": "pensive",
+    "r": 237,
+    "g": 188,
+    "b": 38
+  },
+  "people_holding_hands": {
+    "name": "people_holding_hands",
+    "r": 139,
+    "g": 114,
+    "b": 68
+  },
+  "performing_arts": {
+    "name": "performing_arts",
+    "r": 129,
+    "g": 121,
+    "b": 180
+  },
+  "persevere": {
+    "name": "persevere",
+    "r": 227,
+    "g": 181,
+    "b": 39
+  },
+  "person_bald": {
+    "name": "person_bald",
+    "r": 236,
+    "g": 156,
+    "b": 28
+  },
+  "person_curly_hair": {
+    "name": "person_curly_hair",
+    "r": 177,
+    "g": 113,
+    "b": 35
+  },
+  "person_fencing": {
+    "name": "person_fencing",
+    "r": 171,
+    "g": 180,
+    "b": 179
+  },
+  "person_in_manual_wheelchair": {
+    "name": "person_in_manual_wheelchair",
+    "r": 135,
+    "g": 93,
+    "b": 66
+  },
+  "person_in_motorized_wheelchair": {
+    "name": "person_in_motorized_wheelchair",
+    "r": 114,
+    "g": 89,
+    "b": 73
+  },
+  "person_red_hair": {
+    "name": "person_red_hair",
+    "r": 229,
+    "g": 118,
+    "b": 20
+  },
+  "person_white_hair": {
+    "name": "person_white_hair",
+    "r": 225,
+    "g": 175,
+    "b": 106
+  },
+  "person_with_probing_cane": {
+    "name": "person_with_probing_cane",
+    "r": 137,
+    "g": 104,
+    "b": 73
+  },
+  "person_with_turban": {
+    "name": "person_with_turban",
+    "r": 212,
+    "g": 191,
+    "b": 141
+  },
+  "peru": {
+    "name": "peru",
+    "r": 204,
+    "g": 111,
+    "b": 121
+  },
+  "petri_dish": {
+    "name": "petri_dish",
+    "r": 187,
+    "g": 220,
+    "b": 186
+  },
+  "philippines": {
+    "name": "philippines",
+    "r": 134,
+    "g": 91,
+    "b": 123
+  },
+  "phone": {
+    "name": "phone",
+    "r": 95,
+    "g": 95,
+    "b": 95
+  },
+  "pick": {
+    "name": "pick",
+    "r": 126,
+    "g": 110,
+    "b": 104
+  },
+  "pie": {
+    "name": "pie",
+    "r": 198,
+    "g": 128,
+    "b": 70
+  },
+  "pig": {
+    "name": "pig",
+    "r": 233,
+    "g": 151,
+    "b": 151
+  },
+  "pig2": {
+    "name": "pig2",
+    "r": 238,
+    "g": 154,
+    "b": 154
+  },
+  "pig_nose": {
+    "name": "pig_nose",
+    "r": 210,
+    "g": 137,
+    "b": 137
+  },
+  "pill": {
+    "name": "pill",
+    "r": 229,
+    "g": 133,
+    "b": 54
+  },
+  "pilot": {
+    "name": "pilot",
+    "r": 117,
+    "g": 94,
+    "b": 48
+  },
+  "pinching_hand": {
+    "name": "pinching_hand",
+    "r": 249,
+    "g": 188,
+    "b": 23
+  },
+  "pineapple": {
+    "name": "pineapple",
+    "r": 176,
+    "g": 154,
+    "b": 60
+  },
+  "ping_pong": {
+    "name": "ping_pong",
+    "r": 226,
+    "g": 92,
+    "b": 86
+  },
+  "pirate_flag": {
+    "name": "pirate_flag",
+    "r": 95,
+    "g": 95,
+    "b": 95
+  },
+  "pisces": {
+    "name": "pisces",
+    "r": 217,
+    "g": 77,
+    "b": 128
+  },
+  "pitcairn_islands": {
+    "name": "pitcairn_islands",
+    "r": 71,
+    "g": 83,
+    "b": 118
+  },
+  "pizza": {
+    "name": "pizza",
+    "r": 225,
+    "g": 152,
+    "b": 72
+  },
+  "place_of_worship": {
+    "name": "place_of_worship",
+    "r": 165,
+    "g": 129,
+    "b": 247
+  },
+  "plate_with_cutlery": {
+    "name": "plate_with_cutlery",
+    "r": 220,
+    "g": 220,
+    "b": 220
+  },
+  "play_or_pause_button": {
+    "name": "play_or_pause_button",
+    "r": 247,
+    "g": 160,
+    "b": 79
+  },
+  "pleading_face": {
+    "name": "pleading_face",
+    "r": 228,
+    "g": 175,
+    "b": 52
+  },
+  "point_down": {
+    "name": "point_down",
+    "r": 251,
+    "g": 190,
+    "b": 24
+  },
+  "point_left": {
+    "name": "point_left",
+    "r": 251,
+    "g": 190,
+    "b": 24
+  },
+  "point_right": {
+    "name": "point_right",
+    "r": 251,
+    "g": 190,
+    "b": 24
+  },
+  "point_up": {
+    "name": "point_up",
+    "r": 250,
+    "g": 186,
+    "b": 18
+  },
+  "point_up_2": {
+    "name": "point_up_2",
+    "r": 251,
+    "g": 185,
+    "b": 15
+  },
+  "poland": {
+    "name": "poland",
+    "r": 212,
+    "g": 149,
+    "b": 144
+  },
+  "police_car": {
+    "name": "police_car",
+    "r": 117,
+    "g": 116,
+    "b": 116
+  },
+  "police_officer": {
+    "name": "police_officer",
+    "r": 117,
+    "g": 115,
+    "b": 113
+  },
+  "policeman": {
+    "name": "policeman",
+    "r": 119,
+    "g": 116,
+    "b": 112
+  },
+  "policewoman": {
+    "name": "policewoman",
+    "r": 110,
+    "g": 107,
+    "b": 109
+  },
+  "poodle": {
+    "name": "poodle",
+    "r": 211,
+    "g": 208,
+    "b": 206
+  },
+  "poop": {
+    "name": "poop",
+    "r": 144,
+    "g": 105,
+    "b": 91
+  },
+  "popcorn": {
+    "name": "popcorn",
+    "r": 219,
+    "g": 183,
+    "b": 164
+  },
+  "portugal": {
+    "name": "portugal",
+    "r": 152,
+    "g": 65,
+    "b": 30
+  },
+  "post_office": {
+    "name": "post_office",
+    "r": 163,
+    "g": 134,
+    "b": 129
+  },
+  "postal_horn": {
+    "name": "postal_horn",
+    "r": 238,
+    "g": 174,
+    "b": 32
+  },
+  "postbox": {
+    "name": "postbox",
+    "r": 218,
+    "g": 98,
+    "b": 68
+  },
+  "potable_water": {
+    "name": "potable_water",
+    "r": 122,
+    "g": 160,
+    "b": 247
+  },
+  "potato": {
+    "name": "potato",
+    "r": 184,
+    "g": 142,
+    "b": 61
+  },
+  "pouch": {
+    "name": "pouch",
+    "r": 245,
+    "g": 199,
+    "b": 55
+  },
+  "poultry_leg": {
+    "name": "poultry_leg",
+    "r": 203,
+    "g": 93,
+    "b": 38
+  },
+  "pound": {
+    "name": "pound",
+    "r": 135,
+    "g": 103,
+    "b": 180
+  },
+  "pout": {
+    "name": "pout",
+    "r": 208,
+    "g": 60,
+    "b": 71
+  },
+  "pouting_cat": {
+    "name": "pouting_cat",
+    "r": 218,
+    "g": 163,
+    "b": 38
+  },
+  "pouting_face": {
+    "name": "pouting_face",
+    "r": 133,
+    "g": 85,
+    "b": 88
+  },
+  "pouting_man": {
+    "name": "pouting_man",
+    "r": 127,
+    "g": 141,
+    "b": 67
+  },
+  "pouting_woman": {
+    "name": "pouting_woman",
+    "r": 135,
+    "g": 87,
+    "b": 87
+  },
+  "pray": {
+    "name": "pray",
+    "r": 159,
+    "g": 174,
+    "b": 127
+  },
+  "prayer_beads": {
+    "name": "prayer_beads",
+    "r": 195,
+    "g": 64,
+    "b": 41
+  },
+  "pregnant_woman": {
+    "name": "pregnant_woman",
+    "r": 151,
+    "g": 66,
+    "b": 111
+  },
+  "pretzel": {
+    "name": "pretzel",
+    "r": 195,
+    "g": 109,
+    "b": 54
+  },
+  "previous_track_button": {
+    "name": "previous_track_button",
+    "r": 247,
+    "g": 164,
+    "b": 85
+  },
+  "prince": {
+    "name": "prince",
+    "r": 184,
+    "g": 158,
+    "b": 57
+  },
+  "princess": {
+    "name": "princess",
+    "r": 167,
+    "g": 146,
+    "b": 84
+  },
+  "printer": {
+    "name": "printer",
+    "r": 173,
+    "g": 173,
+    "b": 173
+  },
+  "probing_cane": {
+    "name": "probing_cane",
+    "r": 143,
+    "g": 109,
+    "b": 103
+  },
+  "puerto_rico": {
+    "name": "puerto_rico",
+    "r": 153,
+    "g": 91,
+    "b": 117
+  },
+  "punch": {
+    "name": "punch",
+    "r": 251,
+    "g": 190,
+    "b": 23
+  },
+  "purple_circle": {
+    "name": "purple_circle",
+    "r": 124,
+    "g": 54,
+    "b": 144
+  },
+  "purple_heart": {
+    "name": "purple_heart",
+    "r": 130,
+    "g": 34,
+    "b": 163
+  },
+  "purple_square": {
+    "name": "purple_square",
+    "r": 126,
+    "g": 54,
+    "b": 146
+  },
+  "purse": {
+    "name": "purse",
+    "r": 219,
+    "g": 75,
+    "b": 48
+  },
+  "pushpin": {
+    "name": "pushpin",
+    "r": 198,
+    "g": 56,
+    "b": 53
+  },
+  "put_litter_in_its_place": {
+    "name": "put_litter_in_its_place",
+    "r": 121,
+    "g": 160,
+    "b": 246
+  },
+  "qatar": {
+    "name": "qatar",
+    "r": 154,
+    "g": 100,
+    "b": 116
+  },
+  "question": {
+    "name": "question",
+    "r": 229,
+    "g": 61,
+    "b": 61
+  },
+  "rabbit": {
+    "name": "rabbit",
+    "r": 219,
+    "g": 205,
+    "b": 209
+  },
+  "rabbit2": {
+    "name": "rabbit2",
+    "r": 222,
+    "g": 215,
+    "b": 217
+  },
+  "raccoon": {
+    "name": "raccoon",
+    "r": 156,
+    "g": 155,
+    "b": 153
+  },
+  "racehorse": {
+    "name": "racehorse",
+    "r": 195,
+    "g": 132,
+    "b": 74
+  },
+  "racing_car": {
+    "name": "racing_car",
+    "r": 155,
+    "g": 83,
+    "b": 86
+  },
+  "radio": {
+    "name": "radio",
+    "r": 191,
+    "g": 167,
+    "b": 63
+  },
+  "radio_button": {
+    "name": "radio_button",
+    "r": 81,
+    "g": 189,
+    "b": 239
+  },
+  "radioactive": {
+    "name": "radioactive",
+    "r": 191,
+    "g": 165,
+    "b": 45
+  },
+  "rage": {
+    "name": "rage",
+    "r": 208,
+    "g": 60,
+    "b": 71
+  },
+  "rage1": {
+    "name": "rage1",
+    "r": 153,
+    "g": 94,
+    "b": 54
+  },
+  "rage2": {
+    "name": "rage2",
+    "r": 150,
+    "g": 91,
+    "b": 51
+  },
+  "rage3": {
+    "name": "rage3",
+    "r": 147,
+    "g": 87,
+    "b": 48
+  },
+  "rage4": {
+    "name": "rage4",
+    "r": 145,
+    "g": 84,
+    "b": 47
+  },
+  "railway_car": {
+    "name": "railway_car",
+    "r": 153,
+    "g": 165,
+    "b": 97
+  },
+  "railway_track": {
+    "name": "railway_track",
+    "r": 146,
+    "g": 163,
+    "b": 134
+  },
+  "rainbow": {
+    "name": "rainbow",
+    "r": 193,
+    "g": 143,
+    "b": 78
+  },
+  "rainbow_flag": {
+    "name": "rainbow_flag",
+    "r": 148,
+    "g": 102,
+    "b": 70
+  },
+  "raised_back_of_hand": {
+    "name": "raised_back_of_hand",
+    "r": 249,
+    "g": 184,
+    "b": 15
+  },
+  "raised_eyebrow": {
+    "name": "raised_eyebrow",
+    "r": 236,
+    "g": 187,
+    "b": 37
+  },
+  "raised_hand": {
+    "name": "raised_hand",
+    "r": 249,
+    "g": 184,
+    "b": 16
+  },
+  "raised_hand_with_fingers_splayed": {
+    "name": "raised_hand_with_fingers_splayed",
+    "r": 249,
+    "g": 185,
+    "b": 17
+  },
+  "raised_hands": {
+    "name": "raised_hands",
+    "r": 241,
+    "g": 178,
+    "b": 18
+  },
+  "raising_hand": {
+    "name": "raising_hand",
+    "r": 139,
+    "g": 85,
+    "b": 107
+  },
+  "raising_hand_man": {
+    "name": "raising_hand_man",
+    "r": 120,
+    "g": 152,
+    "b": 75
+  },
+  "raising_hand_woman": {
+    "name": "raising_hand_woman",
+    "r": 141,
+    "g": 87,
+    "b": 105
+  },
+  "ram": {
+    "name": "ram",
+    "r": 206,
+    "g": 187,
+    "b": 172
+  },
+  "ramen": {
+    "name": "ramen",
+    "r": 198,
+    "g": 171,
+    "b": 147
+  },
+  "rat": {
+    "name": "rat",
+    "r": 155,
+    "g": 164,
+    "b": 176
+  },
+  "razor": {
+    "name": "razor",
+    "r": 43,
+    "g": 128,
+    "b": 124
+  },
+  "receipt": {
+    "name": "receipt",
+    "r": 206,
+    "g": 209,
+    "b": 210
+  },
+  "record_button": {
+    "name": "record_button",
+    "r": 249,
+    "g": 157,
+    "b": 70
+  },
+  "recycle": {
+    "name": "recycle",
+    "r": 87,
+    "g": 153,
+    "b": 62
+  },
+  "red_car": {
+    "name": "red_car",
+    "r": 171,
+    "g": 172,
+    "b": 171
+  },
+  "red_circle": {
+    "name": "red_circle",
+    "r": 222,
+    "g": 66,
+    "b": 64
+  },
+  "red_envelope": {
+    "name": "red_envelope",
+    "r": 216,
+    "g": 42,
+    "b": 16
+  },
+  "red_haired_man": {
+    "name": "red_haired_man",
+    "r": 165,
+    "g": 149,
+    "b": 57
+  },
+  "red_haired_woman": {
+    "name": "red_haired_woman",
+    "r": 192,
+    "g": 89,
+    "b": 71
+  },
+  "red_square": {
+    "name": "red_square",
+    "r": 204,
+    "g": 47,
+    "b": 45
+  },
+  "registered": {
+    "name": "registered",
+    "r": 87,
+    "g": 87,
+    "b": 87
+  },
+  "relaxed": {
+    "name": "relaxed",
+    "r": 229,
+    "g": 180,
+    "b": 41
+  },
+  "relieved": {
+    "name": "relieved",
+    "r": 226,
+    "g": 180,
+    "b": 38
+  },
+  "reminder_ribbon": {
+    "name": "reminder_ribbon",
+    "r": 236,
+    "g": 209,
+    "b": 69
+  },
+  "repeat": {
+    "name": "repeat",
+    "r": 245,
+    "g": 171,
+    "b": 102
+  },
+  "repeat_one": {
+    "name": "repeat_one",
+    "r": 245,
+    "g": 170,
+    "b": 100
+  },
+  "rescue_worker_helmet": {
+    "name": "rescue_worker_helmet",
+    "r": 197,
+    "g": 83,
+    "b": 79
+  },
+  "restroom": {
+    "name": "restroom",
+    "r": 144,
+    "g": 175,
+    "b": 245
+  },
+  "reunion": {
+    "name": "reunion",
+    "r": 99,
+    "g": 47,
+    "b": 154
+  },
+  "revolving_hearts": {
+    "name": "revolving_hearts",
+    "r": 210,
+    "g": 69,
+    "b": 68
+  },
+  "rewind": {
+    "name": "rewind",
+    "r": 248,
+    "g": 158,
+    "b": 74
+  },
+  "rhinoceros": {
+    "name": "rhinoceros",
+    "r": 172,
+    "g": 174,
+    "b": 176
+  },
+  "ribbon": {
+    "name": "ribbon",
+    "r": 217,
+    "g": 56,
+    "b": 51
+  },
+  "rice": {
+    "name": "rice",
+    "r": 218,
+    "g": 220,
+    "b": 220
+  },
+  "rice_ball": {
+    "name": "rice_ball",
+    "r": 179,
+    "g": 185,
+    "b": 184
+  },
+  "rice_cracker": {
+    "name": "rice_cracker",
+    "r": 188,
+    "g": 128,
+    "b": 47
+  },
+  "rice_scene": {
+    "name": "rice_scene",
+    "r": 205,
+    "g": 158,
+    "b": 97
+  },
+  "right_anger_bubble": {
+    "name": "right_anger_bubble",
+    "r": 236,
+    "g": 236,
+    "b": 236
+  },
+  "ring": {
+    "name": "ring",
+    "r": 116,
+    "g": 175,
+    "b": 203
+  },
+  "ringed_planet": {
+    "name": "ringed_planet",
+    "r": 169,
+    "g": 157,
+    "b": 131
+  },
+  "robot": {
+    "name": "robot",
+    "r": 153,
+    "g": 150,
+    "b": 157
+  },
+  "rocket": {
+    "name": "rocket",
+    "r": 163,
+    "g": 150,
+    "b": 145
+  },
+  "rofl": {
+    "name": "rofl",
+    "r": 191,
+    "g": 153,
+    "b": 69
+  },
+  "roll_eyes": {
+    "name": "roll_eyes",
+    "r": 237,
+    "g": 187,
+    "b": 71
+  },
+  "roll_of_paper": {
+    "name": "roll_of_paper",
+    "r": 211,
+    "g": 211,
+    "b": 211
+  },
+  "roller_coaster": {
+    "name": "roller_coaster",
+    "r": 168,
+    "g": 166,
+    "b": 177
+  },
+  "romania": {
+    "name": "romania",
+    "r": 147,
+    "g": 98,
+    "b": 71
+  },
+  "rooster": {
+    "name": "rooster",
+    "r": 101,
+    "g": 64,
+    "b": 36
+  },
+  "rose": {
+    "name": "rose",
+    "r": 186,
+    "g": 56,
+    "b": 30
+  },
+  "rosette": {
+    "name": "rosette",
+    "r": 238,
+    "g": 136,
+    "b": 75
+  },
+  "rotating_light": {
+    "name": "rotating_light",
+    "r": 191,
+    "g": 78,
+    "b": 75
+  },
+  "round_pushpin": {
+    "name": "round_pushpin",
+    "r": 195,
+    "g": 64,
+    "b": 61
+  },
+  "rowboat": {
+    "name": "rowboat",
+    "r": 115,
+    "g": 145,
+    "b": 120
+  },
+  "rowing_man": {
+    "name": "rowing_man",
+    "r": 120,
+    "g": 145,
+    "b": 117
+  },
+  "rowing_woman": {
+    "name": "rowing_woman",
+    "r": 124,
+    "g": 130,
+    "b": 120
+  },
+  "ru": {
+    "name": "ru",
+    "r": 139,
+    "g": 114,
+    "b": 143
+  },
+  "rugby_football": {
+    "name": "rugby_football",
+    "r": 239,
+    "g": 144,
+    "b": 34
+  },
+  "runner": {
+    "name": "runner",
+    "r": 102,
+    "g": 117,
+    "b": 78
+  },
+  "running": {
+    "name": "running",
+    "r": 102,
+    "g": 117,
+    "b": 78
+  },
+  "running_man": {
+    "name": "running_man",
+    "r": 105,
+    "g": 121,
+    "b": 80
+  },
+  "running_shirt_with_sash": {
+    "name": "running_shirt_with_sash",
+    "r": 243,
+    "g": 153,
+    "b": 59
+  },
+  "running_woman": {
+    "name": "running_woman",
+    "r": 116,
+    "g": 89,
+    "b": 91
+  },
+  "rwanda": {
+    "name": "rwanda",
+    "r": 89,
+    "g": 146,
+    "b": 118
+  },
+  "sa": {
+    "name": "sa",
+    "r": 247,
+    "g": 158,
+    "b": 72
+  },
+  "safety_pin": {
+    "name": "safety_pin",
+    "r": 136,
+    "g": 136,
+    "b": 136
+  },
+  "safety_vest": {
+    "name": "safety_vest",
+    "r": 212,
+    "g": 133,
+    "b": 71
+  },
+  "sagittarius": {
+    "name": "sagittarius",
+    "r": 50,
+    "g": 116,
+    "b": 193
+  },
+  "sailboat": {
+    "name": "sailboat",
+    "r": 111,
+    "g": 160,
+    "b": 167
+  },
+  "sake": {
+    "name": "sake",
+    "r": 216,
+    "g": 209,
+    "b": 193
+  },
+  "salt": {
+    "name": "salt",
+    "r": 210,
+    "g": 222,
+    "b": 228
+  },
+  "samoa": {
+    "name": "samoa",
+    "r": 173,
+    "g": 62,
+    "b": 80
+  },
+  "san_marino": {
+    "name": "san_marino",
+    "r": 115,
+    "g": 162,
+    "b": 187
+  },
+  "sandal": {
+    "name": "sandal",
+    "r": 142,
+    "g": 114,
+    "b": 103
+  },
+  "sandwich": {
+    "name": "sandwich",
+    "r": 223,
+    "g": 169,
+    "b": 97
+  },
+  "santa": {
+    "name": "santa",
+    "r": 226,
+    "g": 167,
+    "b": 141
+  },
+  "sao_tome_principe": {
+    "name": "sao_tome_principe",
+    "r": 118,
+    "g": 148,
+    "b": 47
+  },
+  "sari": {
+    "name": "sari",
+    "r": 126,
+    "g": 166,
+    "b": 129
+  },
+  "sassy_man": {
+    "name": "sassy_man",
+    "r": 120,
+    "g": 145,
+    "b": 72
+  },
+  "sassy_woman": {
+    "name": "sassy_woman",
+    "r": 135,
+    "g": 85,
+    "b": 95
+  },
+  "satellite": {
+    "name": "satellite",
+    "r": 131,
+    "g": 142,
+    "b": 199
+  },
+  "satisfied": {
+    "name": "satisfied",
+    "r": 207,
+    "g": 163,
+    "b": 49
+  },
+  "saudi_arabia": {
+    "name": "saudi_arabia",
+    "r": 40,
+    "g": 114,
+    "b": 78
+  },
+  "sauna_man": {
+    "name": "sauna_man",
+    "r": 176,
+    "g": 187,
+    "b": 163
+  },
+  "sauna_person": {
+    "name": "sauna_person",
+    "r": 171,
+    "g": 178,
+    "b": 155
+  },
+  "sauna_woman": {
+    "name": "sauna_woman",
+    "r": 168,
+    "g": 172,
+    "b": 141
+  },
+  "sauropod": {
+    "name": "sauropod",
+    "r": 97,
+    "g": 148,
+    "b": 82
+  },
+  "saxophone": {
+    "name": "saxophone",
+    "r": 238,
+    "g": 180,
+    "b": 23
+  },
+  "scarf": {
+    "name": "scarf",
+    "r": 141,
+    "g": 176,
+    "b": 33
+  },
+  "school": {
+    "name": "school",
+    "r": 209,
+    "g": 176,
+    "b": 112
+  },
+  "school_satchel": {
+    "name": "school_satchel",
+    "r": 73,
+    "g": 151,
+    "b": 188
+  },
+  "scientist": {
+    "name": "scientist",
+    "r": 160,
+    "g": 143,
+    "b": 116
+  },
+  "scissors": {
+    "name": "scissors",
+    "r": 203,
+    "g": 136,
+    "b": 136
+  },
+  "scorpion": {
+    "name": "scorpion",
+    "r": 76,
+    "g": 52,
+    "b": 46
+  },
+  "scorpius": {
+    "name": "scorpius",
+    "r": 63,
+    "g": 162,
+    "b": 151
+  },
+  "scotland": {
+    "name": "scotland",
+    "r": 105,
+    "g": 164,
+    "b": 216
+  },
+  "scream": {
+    "name": "scream",
+    "r": 131,
+    "g": 187,
+    "b": 160
+  },
+  "scream_cat": {
+    "name": "scream_cat",
+    "r": 226,
+    "g": 170,
+    "b": 48
+  },
+  "scroll": {
+    "name": "scroll",
+    "r": 173,
+    "g": 149,
+    "b": 136
+  },
+  "seat": {
+    "name": "seat",
+    "r": 50,
+    "g": 139,
+    "b": 196
+  },
+  "secret": {
+    "name": "secret",
+    "r": 222,
+    "g": 111,
+    "b": 110
+  },
+  "see_no_evil": {
+    "name": "see_no_evil",
+    "r": 186,
+    "g": 136,
+    "b": 100
+  },
+  "seedling": {
+    "name": "seedling",
+    "r": 121,
+    "g": 155,
+    "b": 75
+  },
+  "selfie": {
+    "name": "selfie",
+    "r": 118,
+    "g": 170,
+    "b": 190
+  },
+  "senegal": {
+    "name": "senegal",
+    "r": 146,
+    "g": 128,
+    "b": 67
+  },
+  "serbia": {
+    "name": "serbia",
+    "r": 163,
+    "g": 117,
+    "b": 131
+  },
+  "service_dog": {
+    "name": "service_dog",
+    "r": 175,
+    "g": 118,
+    "b": 59
+  },
+  "seven": {
+    "name": "seven",
+    "r": 120,
+    "g": 199,
+    "b": 234
+  },
+  "seychelles": {
+    "name": "seychelles",
+    "r": 153,
+    "g": 119,
+    "b": 102
+  },
+  "shallow_pan_of_food": {
+    "name": "shallow_pan_of_food",
+    "r": 180,
+    "g": 116,
+    "b": 33
+  },
+  "shamrock": {
+    "name": "shamrock",
+    "r": 128,
+    "g": 178,
+    "b": 79
+  },
+  "shark": {
+    "name": "shark",
+    "r": 95,
+    "g": 159,
+    "b": 195
+  },
+  "shaved_ice": {
+    "name": "shaved_ice",
+    "r": 155,
+    "g": 173,
+    "b": 198
+  },
+  "sheep": {
+    "name": "sheep",
+    "r": 221,
+    "g": 216,
+    "b": 211
+  },
+  "shell": {
+    "name": "shell",
+    "r": 163,
+    "g": 146,
+    "b": 132
+  },
+  "shield": {
+    "name": "shield",
+    "r": 242,
+    "g": 179,
+    "b": 90
+  },
+  "shinto_shrine": {
+    "name": "shinto_shrine",
+    "r": 152,
+    "g": 71,
+    "b": 46
+  },
+  "ship": {
+    "name": "ship",
+    "r": 89,
+    "g": 141,
+    "b": 171
+  },
+  "shipit": {
+    "name": "shipit",
+    "r": 108,
+    "g": 101,
+    "b": 94
+  },
+  "shirt": {
+    "name": "shirt",
+    "r": 99,
+    "g": 181,
+    "b": 103
+  },
+  "shit": {
+    "name": "shit",
+    "r": 144,
+    "g": 105,
+    "b": 91
+  },
+  "shoe": {
+    "name": "shoe",
+    "r": 143,
+    "g": 83,
+    "b": 60
+  },
+  "shopping": {
+    "name": "shopping",
+    "r": 210,
+    "g": 162,
+    "b": 151
+  },
+  "shopping_cart": {
+    "name": "shopping_cart",
+    "r": 202,
+    "g": 137,
+    "b": 52
+  },
+  "shorts": {
+    "name": "shorts",
+    "r": 44,
+    "g": 128,
+    "b": 186
+  },
+  "shower": {
+    "name": "shower",
+    "r": 135,
+    "g": 175,
+    "b": 193
+  },
+  "shrimp": {
+    "name": "shrimp",
+    "r": 199,
+    "g": 40,
+    "b": 31
+  },
+  "shrug": {
+    "name": "shrug",
+    "r": 194,
+    "g": 117,
+    "b": 33
+  },
+  "shushing_face": {
+    "name": "shushing_face",
+    "r": 239,
+    "g": 192,
+    "b": 40
+  },
+  "sierra_leone": {
+    "name": "sierra_leone",
+    "r": 98,
+    "g": 167,
+    "b": 157
+  },
+  "signal_strength": {
+    "name": "signal_strength",
+    "r": 246,
+    "g": 158,
+    "b": 75
+  },
+  "singapore": {
+    "name": "singapore",
+    "r": 217,
+    "g": 146,
+    "b": 150
+  },
+  "singer": {
+    "name": "singer",
+    "r": 151,
+    "g": 99,
+    "b": 38
+  },
+  "sint_maarten": {
+    "name": "sint_maarten",
+    "r": 132,
+    "g": 70,
+    "b": 107
+  },
+  "six": {
+    "name": "six",
+    "r": 124,
+    "g": 200,
+    "b": 234
+  },
+  "six_pointed_star": {
+    "name": "six_pointed_star",
+    "r": 166,
+    "g": 132,
+    "b": 245
+  },
+  "skateboard": {
+    "name": "skateboard",
+    "r": 99,
+    "g": 90,
+    "b": 85
+  },
+  "ski": {
+    "name": "ski",
+    "r": 71,
+    "g": 145,
+    "b": 176
+  },
+  "skier": {
+    "name": "skier",
+    "r": 178,
+    "g": 201,
+    "b": 189
+  },
+  "skull": {
+    "name": "skull",
+    "r": 183,
+    "g": 183,
+    "b": 183
+  },
+  "skull_and_crossbones": {
+    "name": "skull_and_crossbones",
+    "r": 177,
+    "g": 177,
+    "b": 177
+  },
+  "skunk": {
+    "name": "skunk",
+    "r": 91,
+    "g": 91,
+    "b": 91
+  },
+  "sled": {
+    "name": "sled",
+    "r": 232,
+    "g": 146,
+    "b": 38
+  },
+  "sleeping": {
+    "name": "sleeping",
+    "r": 232,
+    "g": 181,
+    "b": 45
+  },
+  "sleeping_bed": {
+    "name": "sleeping_bed",
+    "r": 145,
+    "g": 160,
+    "b": 82
+  },
+  "sleepy": {
+    "name": "sleepy",
+    "r": 215,
+    "g": 177,
+    "b": 62
+  },
+  "slightly_frowning_face": {
+    "name": "slightly_frowning_face",
+    "r": 233,
+    "g": 185,
+    "b": 39
+  },
+  "slightly_smiling_face": {
+    "name": "slightly_smiling_face",
+    "r": 232,
+    "g": 186,
+    "b": 39
+  },
+  "slot_machine": {
+    "name": "slot_machine",
+    "r": 176,
+    "g": 162,
+    "b": 155
+  },
+  "sloth": {
+    "name": "sloth",
+    "r": 153,
+    "g": 130,
+    "b": 118
+  },
+  "slovakia": {
+    "name": "slovakia",
+    "r": 148,
+    "g": 106,
+    "b": 139
+  },
+  "slovenia": {
+    "name": "slovenia",
+    "r": 152,
+    "g": 96,
+    "b": 145
+  },
+  "small_airplane": {
+    "name": "small_airplane",
+    "r": 210,
+    "g": 137,
+    "b": 58
+  },
+  "small_blue_diamond": {
+    "name": "small_blue_diamond",
+    "r": 85,
+    "g": 133,
+    "b": 240
+  },
+  "small_orange_diamond": {
+    "name": "small_orange_diamond",
+    "r": 238,
+    "g": 148,
+    "b": 31
+  },
+  "small_red_triangle": {
+    "name": "small_red_triangle",
+    "r": 212,
+    "g": 62,
+    "b": 60
+  },
+  "small_red_triangle_down": {
+    "name": "small_red_triangle_down",
+    "r": 219,
+    "g": 70,
+    "b": 68
+  },
+  "smile": {
+    "name": "smile",
+    "r": 212,
+    "g": 167,
+    "b": 49
+  },
+  "smile_cat": {
+    "name": "smile_cat",
+    "r": 215,
+    "g": 162,
+    "b": 41
+  },
+  "smiley": {
+    "name": "smiley",
+    "r": 209,
+    "g": 164,
+    "b": 49
+  },
+  "smiley_cat": {
+    "name": "smiley_cat",
+    "r": 213,
+    "g": 160,
+    "b": 41
+  },
+  "smiling_face_with_three_hearts": {
+    "name": "smiling_face_with_three_hearts",
+    "r": 215,
+    "g": 129,
+    "b": 61
+  },
+  "smiling_imp": {
+    "name": "smiling_imp",
+    "r": 155,
+    "g": 26,
+    "b": 171
+  },
+  "smirk": {
+    "name": "smirk",
+    "r": 234,
+    "g": 186,
+    "b": 38
+  },
+  "smirk_cat": {
+    "name": "smirk_cat",
+    "r": 223,
+    "g": 167,
+    "b": 38
+  },
+  "smoking": {
+    "name": "smoking",
+    "r": 214,
+    "g": 191,
+    "b": 159
+  },
+  "snail": {
+    "name": "snail",
+    "r": 155,
+    "g": 120,
+    "b": 88
+  },
+  "snake": {
+    "name": "snake",
+    "r": 82,
+    "g": 164,
+    "b": 71
+  },
+  "sneezing_face": {
+    "name": "sneezing_face",
+    "r": 213,
+    "g": 180,
+    "b": 94
+  },
+  "snowboarder": {
+    "name": "snowboarder",
+    "r": 160,
+    "g": 188,
+    "b": 175
+  },
+  "snowflake": {
+    "name": "snowflake",
+    "r": 178,
+    "g": 211,
+    "b": 238
+  },
+  "snowman": {
+    "name": "snowman",
+    "r": 182,
+    "g": 168,
+    "b": 161
+  },
+  "snowman_with_snow": {
+    "name": "snowman_with_snow",
+    "r": 181,
+    "g": 173,
+    "b": 170
+  },
+  "soap": {
+    "name": "soap",
+    "r": 232,
+    "g": 184,
+    "b": 215
+  },
+  "sob": {
+    "name": "sob",
+    "r": 172,
+    "g": 133,
+    "b": 89
+  },
+  "soccer": {
+    "name": "soccer",
+    "r": 155,
+    "g": 155,
+    "b": 155
+  },
+  "socks": {
+    "name": "socks",
+    "r": 242,
+    "g": 155,
+    "b": 5
+  },
+  "softball": {
+    "name": "softball",
+    "r": 196,
+    "g": 211,
+    "b": 42
+  },
+  "solomon_islands": {
+    "name": "solomon_islands",
+    "r": 68,
+    "g": 115,
+    "b": 106
+  },
+  "somalia": {
+    "name": "somalia",
+    "r": 80,
+    "g": 134,
+    "b": 198
+  },
+  "soon": {
+    "name": "soon",
+    "r": 83,
+    "g": 184,
+    "b": 238
+  },
+  "sos": {
+    "name": "sos",
+    "r": 223,
+    "g": 101,
+    "b": 99
+  },
+  "sound": {
+    "name": "sound",
+    "r": 126,
+    "g": 172,
+    "b": 203
+  },
+  "south_africa": {
+    "name": "south_africa",
+    "r": 94,
+    "g": 108,
+    "b": 101
+  },
+  "south_georgia_south_sandwich_islands": {
+    "name": "south_georgia_south_sandwich_islands",
+    "r": 69,
+    "g": 77,
+    "b": 119
+  },
+  "south_sudan": {
+    "name": "south_sudan",
+    "r": 78,
+    "g": 82,
+    "b": 84
+  },
+  "space_invader": {
+    "name": "space_invader",
+    "r": 160,
+    "g": 24,
+    "b": 186
+  },
+  "spades": {
+    "name": "spades",
+    "r": 64,
+    "g": 64,
+    "b": 64
+  },
+  "spaghetti": {
+    "name": "spaghetti",
+    "r": 218,
+    "g": 163,
+    "b": 91
+  },
+  "sparkle": {
+    "name": "sparkle",
+    "r": 221,
+    "g": 102,
+    "b": 143
+  },
+  "sparkler": {
+    "name": "sparkler",
+    "r": 79,
+    "g": 128,
+    "b": 175
+  },
+  "sparkles": {
+    "name": "sparkles",
+    "r": 231,
+    "g": 211,
+    "b": 45
+  },
+  "sparkling_heart": {
+    "name": "sparkling_heart",
+    "r": 209,
+    "g": 77,
+    "b": 76
+  },
+  "speak_no_evil": {
+    "name": "speak_no_evil",
+    "r": 193,
+    "g": 142,
+    "b": 104
+  },
+  "speaker": {
+    "name": "speaker",
+    "r": 101,
+    "g": 176,
+    "b": 238
+  },
+  "speaking_head": {
+    "name": "speaking_head",
+    "r": 41,
+    "g": 121,
+    "b": 196
+  },
+  "speech_balloon": {
+    "name": "speech_balloon",
+    "r": 224,
+    "g": 230,
+    "b": 236
+  },
+  "speedboat": {
+    "name": "speedboat",
+    "r": 104,
+    "g": 166,
+    "b": 185
+  },
+  "spider": {
+    "name": "spider",
+    "r": 66,
+    "g": 66,
+    "b": 66
+  },
+  "spider_web": {
+    "name": "spider_web",
+    "r": 138,
+    "g": 138,
+    "b": 138
+  },
+  "spiral_calendar": {
+    "name": "spiral_calendar",
+    "r": 143,
+    "g": 177,
+    "b": 207
+  },
+  "spiral_notepad": {
+    "name": "spiral_notepad",
+    "r": 192,
+    "g": 192,
+    "b": 193
+  },
+  "sponge": {
+    "name": "sponge",
+    "r": 232,
+    "g": 192,
+    "b": 26
+  },
+  "spoon": {
+    "name": "spoon",
+    "r": 214,
+    "g": 214,
+    "b": 214
+  },
+  "squid": {
+    "name": "squid",
+    "r": 227,
+    "g": 117,
+    "b": 115
+  },
+  "sri_lanka": {
+    "name": "sri_lanka",
+    "r": 173,
+    "g": 110,
+    "b": 69
+  },
+  "st_barthelemy": {
+    "name": "st_barthelemy",
+    "r": 205,
+    "g": 200,
+    "b": 195
+  },
+  "st_helena": {
+    "name": "st_helena",
+    "r": 69,
+    "g": 81,
+    "b": 122
+  },
+  "st_kitts_nevis": {
+    "name": "st_kitts_nevis",
+    "r": 95,
+    "g": 88,
+    "b": 56
+  },
+  "st_lucia": {
+    "name": "st_lucia",
+    "r": 111,
+    "g": 177,
+    "b": 196
+  },
+  "st_martin": {
+    "name": "st_martin",
+    "r": 158,
+    "g": 109,
+    "b": 149
+  },
+  "st_pierre_miquelon": {
+    "name": "st_pierre_miquelon",
+    "r": 107,
+    "g": 141,
+    "b": 137
+  },
+  "st_vincent_grenadines": {
+    "name": "st_vincent_grenadines",
+    "r": 121,
+    "g": 160,
+    "b": 102
+  },
+  "stadium": {
+    "name": "stadium",
+    "r": 196,
+    "g": 153,
+    "b": 101
+  },
+  "standing_man": {
+    "name": "standing_man",
+    "r": 120,
+    "g": 133,
+    "b": 75
+  },
+  "standing_person": {
+    "name": "standing_person",
+    "r": 167,
+    "g": 107,
+    "b": 41
+  },
+  "standing_woman": {
+    "name": "standing_woman",
+    "r": 142,
+    "g": 87,
+    "b": 90
+  },
+  "star": {
+    "name": "star",
+    "r": 240,
+    "g": 199,
+    "b": 51
+  },
+  "star2": {
+    "name": "star2",
+    "r": 242,
+    "g": 198,
+    "b": 44
+  },
+  "star_and_crescent": {
+    "name": "star_and_crescent",
+    "r": 167,
+    "g": 132,
+    "b": 247
+  },
+  "star_of_david": {
+    "name": "star_of_david",
+    "r": 166,
+    "g": 131,
+    "b": 246
+  },
+  "star_struck": {
+    "name": "star_struck",
+    "r": 207,
+    "g": 123,
+    "b": 64
+  },
+  "stars": {
+    "name": "stars",
+    "r": 235,
+    "g": 195,
+    "b": 51
+  },
+  "station": {
+    "name": "station",
+    "r": 146,
+    "g": 158,
+    "b": 116
+  },
+  "statue_of_liberty": {
+    "name": "statue_of_liberty",
+    "r": 124,
+    "g": 185,
+    "b": 173
+  },
+  "steam_locomotive": {
+    "name": "steam_locomotive",
+    "r": 166,
+    "g": 96,
+    "b": 73
+  },
+  "stethoscope": {
+    "name": "stethoscope",
+    "r": 83,
+    "g": 83,
+    "b": 83
+  },
+  "stew": {
+    "name": "stew",
+    "r": 186,
+    "g": 98,
+    "b": 75
+  },
+  "stop_button": {
+    "name": "stop_button",
+    "r": 248,
+    "g": 162,
+    "b": 80
+  },
+  "stop_sign": {
+    "name": "stop_sign",
+    "r": 207,
+    "g": 49,
+    "b": 47
+  },
+  "stopwatch": {
+    "name": "stopwatch",
+    "r": 158,
+    "g": 159,
+    "b": 161
+  },
+  "straight_ruler": {
+    "name": "straight_ruler",
+    "r": 178,
+    "g": 187,
+    "b": 191
+  },
+  "strawberry": {
+    "name": "strawberry",
+    "r": 194,
+    "g": 102,
+    "b": 68
+  },
+  "stuck_out_tongue": {
+    "name": "stuck_out_tongue",
+    "r": 218,
+    "g": 165,
+    "b": 47
+  },
+  "stuck_out_tongue_closed_eyes": {
+    "name": "stuck_out_tongue_closed_eyes",
+    "r": 213,
+    "g": 161,
+    "b": 47
+  },
+  "stuck_out_tongue_winking_eye": {
+    "name": "stuck_out_tongue_winking_eye",
+    "r": 218,
+    "g": 165,
+    "b": 59
+  },
+  "student": {
+    "name": "student",
+    "r": 117,
+    "g": 93,
+    "b": 44
+  },
+  "studio_microphone": {
+    "name": "studio_microphone",
+    "r": 129,
+    "g": 138,
+    "b": 142
+  },
+  "stuffed_flatbread": {
+    "name": "stuffed_flatbread",
+    "r": 195,
+    "g": 172,
+    "b": 122
+  },
+  "sudan": {
+    "name": "sudan",
+    "r": 121,
+    "g": 96,
+    "b": 93
+  },
+  "sun_behind_large_cloud": {
+    "name": "sun_behind_large_cloud",
+    "r": 198,
+    "g": 211,
+    "b": 208
+  },
+  "sun_behind_rain_cloud": {
+    "name": "sun_behind_rain_cloud",
+    "r": 180,
+    "g": 203,
+    "b": 210
+  },
+  "sun_behind_small_cloud": {
+    "name": "sun_behind_small_cloud",
+    "r": 219,
+    "g": 196,
+    "b": 125
+  },
+  "sun_with_face": {
+    "name": "sun_with_face",
+    "r": 236,
+    "g": 173,
+    "b": 34
+  },
+  "sunflower": {
+    "name": "sunflower",
+    "r": 184,
+    "g": 168,
+    "b": 58
+  },
+  "sunglasses": {
+    "name": "sunglasses",
+    "r": 158,
+    "g": 121,
+    "b": 25
+  },
+  "sunny": {
+    "name": "sunny",
+    "r": 253,
+    "g": 201,
+    "b": 44
+  },
+  "sunrise": {
+    "name": "sunrise",
+    "r": 174,
+    "g": 193,
+    "b": 141
+  },
+  "sunrise_over_mountains": {
+    "name": "sunrise_over_mountains",
+    "r": 147,
+    "g": 168,
+    "b": 57
+  },
+  "superhero": {
+    "name": "superhero",
+    "r": 147,
+    "g": 84,
+    "b": 85
+  },
+  "superhero_man": {
+    "name": "superhero_man",
+    "r": 133,
+    "g": 77,
+    "b": 101
+  },
+  "superhero_woman": {
+    "name": "superhero_woman",
+    "r": 131,
+    "g": 76,
+    "b": 100
+  },
+  "supervillain": {
+    "name": "supervillain",
+    "r": 56,
+    "g": 57,
+    "b": 96
+  },
+  "supervillain_man": {
+    "name": "supervillain_man",
+    "r": 60,
+    "g": 61,
+    "b": 103
+  },
+  "supervillain_woman": {
+    "name": "supervillain_woman",
+    "r": 59,
+    "g": 60,
+    "b": 102
+  },
+  "surfer": {
+    "name": "surfer",
+    "r": 102,
+    "g": 162,
+    "b": 141
+  },
+  "surfing_man": {
+    "name": "surfing_man",
+    "r": 108,
+    "g": 165,
+    "b": 139
+  },
+  "surfing_woman": {
+    "name": "surfing_woman",
+    "r": 111,
+    "g": 148,
+    "b": 142
+  },
+  "suriname": {
+    "name": "suriname",
+    "r": 157,
+    "g": 108,
+    "b": 100
+  },
+  "sushi": {
+    "name": "sushi",
+    "r": 225,
+    "g": 120,
+    "b": 110
+  },
+  "suspect": {
+    "name": "suspect",
+    "r": 162,
+    "g": 99,
+    "b": 55
+  },
+  "suspension_railway": {
+    "name": "suspension_railway",
+    "r": 163,
+    "g": 135,
+    "b": 149
+  },
+  "svalbard_jan_mayen": {
+    "name": "svalbard_jan_mayen",
+    "r": 185,
+    "g": 79,
+    "b": 93
+  },
+  "swan": {
+    "name": "swan",
+    "r": 215,
+    "g": 232,
+    "b": 243
+  },
+  "swaziland": {
+    "name": "swaziland",
+    "r": 134,
+    "g": 92,
+    "b": 82
+  },
+  "sweat": {
+    "name": "sweat",
+    "r": 214,
+    "g": 157,
+    "b": 54
+  },
+  "sweat_drops": {
+    "name": "sweat_drops",
+    "r": 92,
+    "g": 173,
+    "b": 237
+  },
+  "sweat_smile": {
+    "name": "sweat_smile",
+    "r": 198,
+    "g": 158,
+    "b": 63
+  },
+  "sweden": {
+    "name": "sweden",
+    "r": 90,
+    "g": 126,
+    "b": 110
+  },
+  "sweet_potato": {
+    "name": "sweet_potato",
+    "r": 241,
+    "g": 158,
+    "b": 42
+  },
+  "swim_brief": {
+    "name": "swim_brief",
+    "r": 118,
+    "g": 187,
+    "b": 224
+  },
+  "swimmer": {
+    "name": "swimmer",
+    "r": 111,
+    "g": 168,
+    "b": 150
+  },
+  "swimming_man": {
+    "name": "swimming_man",
+    "r": 112,
+    "g": 169,
+    "b": 150
+  },
+  "swimming_woman": {
+    "name": "swimming_woman",
+    "r": 86,
+    "g": 147,
+    "b": 188
+  },
+  "switzerland": {
+    "name": "switzerland",
+    "r": 223,
+    "g": 59,
+    "b": 59
+  },
+  "symbols": {
+    "name": "symbols",
+    "r": 46,
+    "g": 165,
+    "b": 224
+  },
+  "synagogue": {
+    "name": "synagogue",
+    "r": 160,
+    "g": 193,
+    "b": 190
+  },
+  "syria": {
+    "name": "syria",
+    "r": 144,
+    "g": 101,
+    "b": 105
+  },
+  "syringe": {
+    "name": "syringe",
+    "r": 187,
+    "g": 152,
+    "b": 164
+  },
+  "t-rex": {
+    "name": "t-rex",
+    "r": 110,
+    "g": 159,
+    "b": 29
+  },
+  "taco": {
+    "name": "taco",
+    "r": 210,
+    "g": 168,
+    "b": 55
+  },
+  "tada": {
+    "name": "tada",
+    "r": 179,
+    "g": 123,
+    "b": 69
+  },
+  "taiwan": {
+    "name": "taiwan",
+    "r": 175,
+    "g": 67,
+    "b": 106
+  },
+  "tajikistan": {
+    "name": "tajikistan",
+    "r": 182,
+    "g": 156,
+    "b": 130
+  },
+  "takeout_box": {
+    "name": "takeout_box",
+    "r": 220,
+    "g": 196,
+    "b": 196
+  },
+  "tanabata_tree": {
+    "name": "tanabata_tree",
+    "r": 138,
+    "g": 169,
+    "b": 90
+  },
+  "tangerine": {
+    "name": "tangerine",
+    "r": 220,
+    "g": 157,
+    "b": 33
+  },
+  "tanzania": {
+    "name": "tanzania",
+    "r": 56,
+    "g": 118,
+    "b": 86
+  },
+  "taurus": {
+    "name": "taurus",
+    "r": 237,
+    "g": 118,
+    "b": 80
+  },
+  "taxi": {
+    "name": "taxi",
+    "r": 197,
+    "g": 179,
+    "b": 82
+  },
+  "tea": {
+    "name": "tea",
+    "r": 159,
+    "g": 150,
+    "b": 123
+  },
+  "teacher": {
+    "name": "teacher",
+    "r": 135,
+    "g": 111,
+    "b": 64
+  },
+  "technologist": {
+    "name": "technologist",
+    "r": 86,
+    "g": 126,
+    "b": 99
+  },
+  "teddy_bear": {
+    "name": "teddy_bear",
+    "r": 202,
+    "g": 127,
+    "b": 63
+  },
+  "telephone": {
+    "name": "telephone",
+    "r": 95,
+    "g": 95,
+    "b": 95
+  },
+  "telephone_receiver": {
+    "name": "telephone_receiver",
+    "r": 74,
+    "g": 74,
+    "b": 74
+  },
+  "telescope": {
+    "name": "telescope",
+    "r": 213,
+    "g": 139,
+    "b": 130
+  },
+  "tennis": {
+    "name": "tennis",
+    "r": 129,
+    "g": 146,
+    "b": 159
+  },
+  "tent": {
+    "name": "tent",
+    "r": 238,
+    "g": 140,
+    "b": 4
+  },
+  "test_tube": {
+    "name": "test_tube",
+    "r": 161,
+    "g": 205,
+    "b": 133
+  },
+  "thailand": {
+    "name": "thailand",
+    "r": 150,
+    "g": 110,
+    "b": 135
+  },
+  "thermometer": {
+    "name": "thermometer",
+    "r": 211,
+    "g": 157,
+    "b": 160
+  },
+  "thinking": {
+    "name": "thinking",
+    "r": 236,
+    "g": 184,
+    "b": 36
+  },
+  "thought_balloon": {
+    "name": "thought_balloon",
+    "r": 237,
+    "g": 237,
+    "b": 237
+  },
+  "thread": {
+    "name": "thread",
+    "r": 213,
+    "g": 119,
+    "b": 99
+  },
+  "three": {
+    "name": "three",
+    "r": 123,
+    "g": 200,
+    "b": 234
+  },
+  "thumbsdown": {
+    "name": "thumbsdown",
+    "r": 250,
+    "g": 188,
+    "b": 21
+  },
+  "thumbsup": {
+    "name": "thumbsup",
+    "r": 250,
+    "g": 188,
+    "b": 21
+  },
+  "ticket": {
+    "name": "ticket",
+    "r": 222,
+    "g": 58,
+    "b": 115
+  },
+  "tickets": {
+    "name": "tickets",
+    "r": 40,
+    "g": 186,
+    "b": 205
+  },
+  "tiger": {
+    "name": "tiger",
+    "r": 220,
+    "g": 168,
+    "b": 55
+  },
+  "tiger2": {
+    "name": "tiger2",
+    "r": 226,
+    "g": 169,
+    "b": 56
+  },
+  "timer_clock": {
+    "name": "timer_clock",
+    "r": 142,
+    "g": 187,
+    "b": 224
+  },
+  "timor_leste": {
+    "name": "timor_leste",
+    "r": 180,
+    "g": 77,
+    "b": 61
+  },
+  "tipping_hand_man": {
+    "name": "tipping_hand_man",
+    "r": 120,
+    "g": 145,
+    "b": 72
+  },
+  "tipping_hand_person": {
+    "name": "tipping_hand_person",
+    "r": 133,
+    "g": 83,
+    "b": 97
+  },
+  "tipping_hand_woman": {
+    "name": "tipping_hand_woman",
+    "r": 135,
+    "g": 85,
+    "b": 95
+  },
+  "tired_face": {
+    "name": "tired_face",
+    "r": 204,
+    "g": 146,
+    "b": 37
+  },
+  "tm": {
+    "name": "tm",
+    "r": 87,
+    "g": 87,
+    "b": 87
+  },
+  "togo": {
+    "name": "togo",
+    "r": 126,
+    "g": 122,
+    "b": 66
+  },
+  "toilet": {
+    "name": "toilet",
+    "r": 208,
+    "g": 210,
+    "b": 211
+  },
+  "tokelau": {
+    "name": "tokelau",
+    "r": 82,
+    "g": 93,
+    "b": 105
+  },
+  "tokyo_tower": {
+    "name": "tokyo_tower",
+    "r": 215,
+    "g": 101,
+    "b": 100
+  },
+  "tomato": {
+    "name": "tomato",
+    "r": 207,
+    "g": 60,
+    "b": 48
+  },
+  "tonga": {
+    "name": "tonga",
+    "r": 186,
+    "g": 69,
+    "b": 69
+  },
+  "tongue": {
+    "name": "tongue",
+    "r": 203,
+    "g": 72,
+    "b": 117
+  },
+  "toolbox": {
+    "name": "toolbox",
+    "r": 173,
+    "g": 49,
+    "b": 52
+  },
+  "tooth": {
+    "name": "tooth",
+    "r": 225,
+    "g": 232,
+    "b": 244
+  },
+  "top": {
+    "name": "top",
+    "r": 69,
+    "g": 180,
+    "b": 239
+  },
+  "tophat": {
+    "name": "tophat",
+    "r": 61,
+    "g": 77,
+    "b": 92
+  },
+  "tornado": {
+    "name": "tornado",
+    "r": 151,
+    "g": 168,
+    "b": 176
+  },
+  "tr": {
+    "name": "tr",
+    "r": 210,
+    "g": 71,
+    "b": 79
+  },
+  "trackball": {
+    "name": "trackball",
+    "r": 112,
+    "g": 86,
+    "b": 85
+  },
+  "tractor": {
+    "name": "tractor",
+    "r": 131,
+    "g": 102,
+    "b": 55
+  },
+  "traffic_light": {
+    "name": "traffic_light",
+    "r": 101,
+    "g": 89,
+    "b": 65
+  },
+  "train": {
+    "name": "train",
+    "r": 164,
+    "g": 171,
+    "b": 130
+  },
+  "train2": {
+    "name": "train2",
+    "r": 143,
+    "g": 184,
+    "b": 201
+  },
+  "tram": {
+    "name": "tram",
+    "r": 154,
+    "g": 166,
+    "b": 115
+  },
+  "triangular_flag_on_post": {
+    "name": "triangular_flag_on_post",
+    "r": 219,
+    "g": 83,
+    "b": 62
+  },
+  "triangular_ruler": {
+    "name": "triangular_ruler",
+    "r": 179,
+    "g": 188,
+    "b": 192
+  },
+  "trident": {
+    "name": "trident",
+    "r": 233,
+    "g": 186,
+    "b": 49
+  },
+  "trinidad_tobago": {
+    "name": "trinidad_tobago",
+    "r": 154,
+    "g": 54,
+    "b": 64
+  },
+  "tristan_da_cunha": {
+    "name": "tristan_da_cunha",
+    "r": 60,
+    "g": 68,
+    "b": 128
+  },
+  "triumph": {
+    "name": "triumph",
+    "r": 236,
+    "g": 190,
+    "b": 78
+  },
+  "trolleybus": {
+    "name": "trolleybus",
+    "r": 144,
+    "g": 180,
+    "b": 154
+  },
+  "trollface": {
+    "name": "trollface",
+    "r": 155,
+    "g": 155,
+    "b": 155
+  },
+  "trophy": {
+    "name": "trophy",
+    "r": 200,
+    "g": 156,
+    "b": 54
+  },
+  "tropical_drink": {
+    "name": "tropical_drink",
+    "r": 225,
+    "g": 157,
+    "b": 96
+  },
+  "tropical_fish": {
+    "name": "tropical_fish",
+    "r": 198,
+    "g": 161,
+    "b": 28
+  },
+  "truck": {
+    "name": "truck",
+    "r": 147,
+    "g": 144,
+    "b": 121
+  },
+  "trumpet": {
+    "name": "trumpet",
+    "r": 229,
+    "g": 178,
+    "b": 44
+  },
+  "tshirt": {
+    "name": "tshirt",
+    "r": 99,
+    "g": 181,
+    "b": 103
+  },
+  "tulip": {
+    "name": "tulip",
+    "r": 166,
+    "g": 105,
+    "b": 92
+  },
+  "tumbler_glass": {
+    "name": "tumbler_glass",
+    "r": 208,
+    "g": 190,
+    "b": 168
+  },
+  "tunisia": {
+    "name": "tunisia",
+    "r": 207,
+    "g": 46,
+    "b": 59
+  },
+  "turkey": {
+    "name": "turkey",
+    "r": 138,
+    "g": 91,
+    "b": 70
+  },
+  "turkmenistan": {
+    "name": "turkmenistan",
+    "r": 50,
+    "g": 103,
+    "b": 84
+  },
+  "turks_caicos_islands": {
+    "name": "turks_caicos_islands",
+    "r": 89,
+    "g": 54,
+    "b": 96
+  },
+  "turtle": {
+    "name": "turtle",
+    "r": 89,
+    "g": 148,
+    "b": 58
+  },
+  "tuvalu": {
+    "name": "tuvalu",
+    "r": 121,
+    "g": 125,
+    "b": 141
+  },
+  "tv": {
+    "name": "tv",
+    "r": 175,
+    "g": 146,
+    "b": 141
+  },
+  "twisted_rightwards_arrows": {
+    "name": "twisted_rightwards_arrows",
+    "r": 246,
+    "g": 167,
+    "b": 93
+  },
+  "two": {
+    "name": "two",
+    "r": 123,
+    "g": 200,
+    "b": 234
+  },
+  "two_hearts": {
+    "name": "two_hearts",
+    "r": 206,
+    "g": 49,
+    "b": 47
+  },
+  "two_men_holding_hands": {
+    "name": "two_men_holding_hands",
+    "r": 111,
+    "g": 126,
+    "b": 74
+  },
+  "two_women_holding_hands": {
+    "name": "two_women_holding_hands",
+    "r": 136,
+    "g": 86,
+    "b": 96
+  },
+  "u5272": {
+    "name": "u5272",
+    "r": 232,
+    "g": 115,
+    "b": 154
+  },
+  "u5408": {
+    "name": "u5408",
+    "r": 237,
+    "g": 122,
+    "b": 86
+  },
+  "u55b6": {
+    "name": "u55b6",
+    "r": 245,
+    "g": 160,
+    "b": 80
+  },
+  "u6307": {
+    "name": "u6307",
+    "r": 198,
+    "g": 205,
+    "b": 95
+  },
+  "u6708": {
+    "name": "u6708",
+    "r": 209,
+    "g": 178,
+    "b": 39
+  },
+  "u6709": {
+    "name": "u6709",
+    "r": 87,
+    "g": 191,
+    "b": 238
+  },
+  "u6e80": {
+    "name": "u6e80",
+    "r": 223,
+    "g": 108,
+    "b": 107
+  },
+  "u7121": {
+    "name": "u7121",
+    "r": 151,
+    "g": 151,
+    "b": 151
+  },
+  "u7533": {
+    "name": "u7533",
+    "r": 246,
+    "g": 162,
+    "b": 83
+  },
+  "u7981": {
+    "name": "u7981",
+    "r": 222,
+    "g": 105,
+    "b": 104
+  },
+  "u7a7a": {
+    "name": "u7a7a",
+    "r": 124,
+    "g": 135,
+    "b": 198
+  },
+  "uganda": {
+    "name": "uganda",
+    "r": 151,
+    "g": 105,
+    "b": 33
+  },
+  "uk": {
+    "name": "uk",
+    "r": 157,
+    "g": 95,
+    "b": 121
+  },
+  "ukraine": {
+    "name": "ukraine",
+    "r": 143,
+    "g": 156,
+    "b": 109
+  },
+  "umbrella": {
+    "name": "umbrella",
+    "r": 147,
+    "g": 100,
+    "b": 176
+  },
+  "unamused": {
+    "name": "unamused",
+    "r": 230,
+    "g": 183,
+    "b": 38
+  },
+  "underage": {
+    "name": "underage",
+    "r": 158,
+    "g": 84,
+    "b": 84
+  },
+  "unicorn": {
+    "name": "unicorn",
+    "r": 215,
+    "g": 155,
+    "b": 198
+  },
+  "united_arab_emirates": {
+    "name": "united_arab_emirates",
+    "r": 122,
+    "g": 100,
+    "b": 86
+  },
+  "united_nations": {
+    "name": "united_nations",
+    "r": 25,
+    "g": 132,
+    "b": 202
+  },
+  "unlock": {
+    "name": "unlock",
+    "r": 232,
+    "g": 174,
+    "b": 45
+  },
+  "up": {
+    "name": "up",
+    "r": 66,
+    "g": 172,
+    "b": 225
+  },
+  "upside_down_face": {
+    "name": "upside_down_face",
+    "r": 232,
+    "g": 186,
+    "b": 39
+  },
+  "uruguay": {
+    "name": "uruguay",
+    "r": 152,
+    "g": 160,
+    "b": 183
+  },
+  "us": {
+    "name": "us",
+    "r": 175,
+    "g": 118,
+    "b": 138
+  },
+  "us_outlying_islands": {
+    "name": "us_outlying_islands",
+    "r": 181,
+    "g": 124,
+    "b": 140
+  },
+  "us_virgin_islands": {
+    "name": "us_virgin_islands",
+    "r": 181,
+    "g": 180,
+    "b": 154
+  },
+  "uzbekistan": {
+    "name": "uzbekistan",
+    "r": 109,
+    "g": 175,
+    "b": 152
+  },
+  "v": {
+    "name": "v",
+    "r": 249,
+    "g": 183,
+    "b": 15
+  },
+  "vampire": {
+    "name": "vampire",
+    "r": 138,
+    "g": 85,
+    "b": 33
+  },
+  "vampire_man": {
+    "name": "vampire_man",
+    "r": 162,
+    "g": 101,
+    "b": 50
+  },
+  "vampire_woman": {
+    "name": "vampire_woman",
+    "r": 140,
+    "g": 95,
+    "b": 36
+  },
+  "vanuatu": {
+    "name": "vanuatu",
+    "r": 99,
+    "g": 84,
+    "b": 55
+  },
+  "vatican_city": {
+    "name": "vatican_city",
+    "r": 217,
+    "g": 200,
+    "b": 128
+  },
+  "venezuela": {
+    "name": "venezuela",
+    "r": 137,
+    "g": 99,
+    "b": 85
+  },
+  "vertical_traffic_light": {
+    "name": "vertical_traffic_light",
+    "r": 99,
+    "g": 87,
+    "b": 65
+  },
+  "vhs": {
+    "name": "vhs",
+    "r": 99,
+    "g": 98,
+    "b": 100
+  },
+  "vibration_mode": {
+    "name": "vibration_mode",
+    "r": 93,
+    "g": 123,
+    "b": 127
+  },
+  "video_camera": {
+    "name": "video_camera",
+    "r": 126,
+    "g": 193,
+    "b": 241
+  },
+  "video_game": {
+    "name": "video_game",
+    "r": 93,
+    "g": 93,
+    "b": 91
+  },
+  "vietnam": {
+    "name": "vietnam",
+    "r": 190,
+    "g": 57,
+    "b": 52
+  },
+  "violin": {
+    "name": "violin",
+    "r": 162,
+    "g": 71,
+    "b": 40
+  },
+  "virgo": {
+    "name": "virgo",
+    "r": 156,
+    "g": 193,
+    "b": 117
+  },
+  "volcano": {
+    "name": "volcano",
+    "r": 177,
+    "g": 117,
+    "b": 78
+  },
+  "volleyball": {
+    "name": "volleyball",
+    "r": 212,
+    "g": 212,
+    "b": 212
+  },
+  "vomiting_face": {
+    "name": "vomiting_face",
+    "r": 94,
+    "g": 168,
+    "b": 143
+  },
+  "vs": {
+    "name": "vs",
+    "r": 247,
+    "g": 153,
+    "b": 66
+  },
+  "vulcan_salute": {
+    "name": "vulcan_salute",
+    "r": 249,
+    "g": 184,
+    "b": 17
+  },
+  "waffle": {
+    "name": "waffle",
+    "r": 219,
+    "g": 145,
+    "b": 56
+  },
+  "wales": {
+    "name": "wales",
+    "r": 131,
+    "g": 156,
+    "b": 121
+  },
+  "walking": {
+    "name": "walking",
+    "r": 86,
+    "g": 107,
+    "b": 84
+  },
+  "walking_man": {
+    "name": "walking_man",
+    "r": 92,
+    "g": 111,
+    "b": 83
+  },
+  "walking_woman": {
+    "name": "walking_woman",
+    "r": 104,
+    "g": 80,
+    "b": 94
+  },
+  "wallis_futuna": {
+    "name": "wallis_futuna",
+    "r": 201,
+    "g": 76,
+    "b": 92
+  },
+  "waning_crescent_moon": {
+    "name": "waning_crescent_moon",
+    "r": 138,
+    "g": 131,
+    "b": 81
+  },
+  "waning_gibbous_moon": {
+    "name": "waning_gibbous_moon",
+    "r": 191,
+    "g": 178,
+    "b": 77
+  },
+  "warning": {
+    "name": "warning",
+    "r": 227,
+    "g": 193,
+    "b": 37
+  },
+  "wastebasket": {
+    "name": "wastebasket",
+    "r": 142,
+    "g": 156,
+    "b": 162
+  },
+  "watch": {
+    "name": "watch",
+    "r": 181,
+    "g": 180,
+    "b": 180
+  },
+  "water_buffalo": {
+    "name": "water_buffalo",
+    "r": 147,
+    "g": 143,
+    "b": 141
+  },
+  "water_polo": {
+    "name": "water_polo",
+    "r": 153,
+    "g": 145,
+    "b": 100
+  },
+  "watermelon": {
+    "name": "watermelon",
+    "r": 210,
+    "g": 113,
+    "b": 93
+  },
+  "wave": {
+    "name": "wave",
+    "r": 234,
+    "g": 175,
+    "b": 20
+  },
+  "wavy_dash": {
+    "name": "wavy_dash",
+    "r": 82,
+    "g": 82,
+    "b": 82
+  },
+  "waxing_crescent_moon": {
+    "name": "waxing_crescent_moon",
+    "r": 132,
+    "g": 124,
+    "b": 81
+  },
+  "waxing_gibbous_moon": {
+    "name": "waxing_gibbous_moon",
+    "r": 201,
+    "g": 187,
+    "b": 77
+  },
+  "wc": {
+    "name": "wc",
+    "r": 109,
+    "g": 152,
+    "b": 247
+  },
+  "weary": {
+    "name": "weary",
+    "r": 210,
+    "g": 149,
+    "b": 37
+  },
+  "wedding": {
+    "name": "wedding",
+    "r": 217,
+    "g": 169,
+    "b": 186
+  },
+  "weight_lifting": {
+    "name": "weight_lifting",
+    "r": 148,
+    "g": 142,
+    "b": 77
+  },
+  "weight_lifting_man": {
+    "name": "weight_lifting_man",
+    "r": 154,
+    "g": 148,
+    "b": 76
+  },
+  "weight_lifting_woman": {
+    "name": "weight_lifting_woman",
+    "r": 164,
+    "g": 113,
+    "b": 97
+  },
+  "western_sahara": {
+    "name": "western_sahara",
+    "r": 102,
+    "g": 102,
+    "b": 90
+  },
+  "whale": {
+    "name": "whale",
+    "r": 89,
+    "g": 176,
+    "b": 223
+  },
+  "whale2": {
+    "name": "whale2",
+    "r": 89,
+    "g": 175,
+    "b": 222
+  },
+  "wheel_of_dharma": {
+    "name": "wheel_of_dharma",
+    "r": 168,
+    "g": 134,
+    "b": 244
+  },
+  "wheelchair": {
+    "name": "wheelchair",
+    "r": 117,
+    "g": 157,
+    "b": 246
+  },
+  "white_check_mark": {
+    "name": "white_check_mark",
+    "r": 208,
+    "g": 208,
+    "b": 208
+  },
+  "white_circle": {
+    "name": "white_circle",
+    "r": 236,
+    "g": 236,
+    "b": 236
+  },
+  "white_flag": {
+    "name": "white_flag",
+    "r": 227,
+    "g": 227,
+    "b": 227
+  },
+  "white_flower": {
+    "name": "white_flower",
+    "r": 255,
+    "g": 203,
+    "b": 218
+  },
+  "white_haired_man": {
+    "name": "white_haired_man",
+    "r": 163,
+    "g": 188,
+    "b": 118
+  },
+  "white_haired_woman": {
+    "name": "white_haired_woman",
+    "r": 187,
+    "g": 151,
+    "b": 160
+  },
+  "white_heart": {
+    "name": "white_heart",
+    "r": 226,
+    "g": 226,
+    "b": 226
+  },
+  "white_large_square": {
+    "name": "white_large_square",
+    "r": 237,
+    "g": 237,
+    "b": 237
+  },
+  "white_medium_small_square": {
+    "name": "white_medium_small_square",
+    "r": 233,
+    "g": 233,
+    "b": 233
+  },
+  "white_medium_square": {
+    "name": "white_medium_square",
+    "r": 236,
+    "g": 236,
+    "b": 236
+  },
+  "white_small_square": {
+    "name": "white_small_square",
+    "r": 230,
+    "g": 230,
+    "b": 230
+  },
+  "white_square_button": {
+    "name": "white_square_button",
+    "r": 157,
+    "g": 157,
+    "b": 157
+  },
+  "wilted_flower": {
+    "name": "wilted_flower",
+    "r": 161,
+    "g": 106,
+    "b": 52
+  },
+  "wind_chime": {
+    "name": "wind_chime",
+    "r": 161,
+    "g": 203,
+    "b": 229
+  },
+  "wind_face": {
+    "name": "wind_face",
+    "r": 187,
+    "g": 221,
+    "b": 248
+  },
+  "wine_glass": {
+    "name": "wine_glass",
+    "r": 186,
+    "g": 141,
+    "b": 143
+  },
+  "wink": {
+    "name": "wink",
+    "r": 228,
+    "g": 181,
+    "b": 38
+  },
+  "wolf": {
+    "name": "wolf",
+    "r": 176,
+    "g": 176,
+    "b": 176
+  },
+  "woman": {
+    "name": "woman",
+    "r": 148,
+    "g": 107,
+    "b": 39
+  },
+  "woman_artist": {
+    "name": "woman_artist",
+    "r": 154,
+    "g": 131,
+    "b": 83
+  },
+  "woman_astronaut": {
+    "name": "woman_astronaut",
+    "r": 174,
+    "g": 153,
+    "b": 112
+  },
+  "woman_cartwheeling": {
+    "name": "woman_cartwheeling",
+    "r": 201,
+    "g": 123,
+    "b": 66
+  },
+  "woman_cook": {
+    "name": "woman_cook",
+    "r": 186,
+    "g": 170,
+    "b": 132
+  },
+  "woman_dancing": {
+    "name": "woman_dancing",
+    "r": 188,
+    "g": 73,
+    "b": 11
+  },
+  "woman_facepalming": {
+    "name": "woman_facepalming",
+    "r": 128,
+    "g": 77,
+    "b": 100
+  },
+  "woman_factory_worker": {
+    "name": "woman_factory_worker",
+    "r": 144,
+    "g": 126,
+    "b": 103
+  },
+  "woman_farmer": {
+    "name": "woman_farmer",
+    "r": 202,
+    "g": 175,
+    "b": 60
+  },
+  "woman_firefighter": {
+    "name": "woman_firefighter",
+    "r": 207,
+    "g": 111,
+    "b": 42
+  },
+  "woman_health_worker": {
+    "name": "woman_health_worker",
+    "r": 154,
+    "g": 133,
+    "b": 87
+  },
+  "woman_in_manual_wheelchair": {
+    "name": "woman_in_manual_wheelchair",
+    "r": 112,
+    "g": 69,
+    "b": 75
+  },
+  "woman_in_motorized_wheelchair": {
+    "name": "woman_in_motorized_wheelchair",
+    "r": 97,
+    "g": 71,
+    "b": 70
+  },
+  "woman_judge": {
+    "name": "woman_judge",
+    "r": 133,
+    "g": 103,
+    "b": 60
+  },
+  "woman_juggling": {
+    "name": "woman_juggling",
+    "r": 111,
+    "g": 80,
+    "b": 128
+  },
+  "woman_mechanic": {
+    "name": "woman_mechanic",
+    "r": 147,
+    "g": 110,
+    "b": 55
+  },
+  "woman_office_worker": {
+    "name": "woman_office_worker",
+    "r": 132,
+    "g": 103,
+    "b": 52
+  },
+  "woman_pilot": {
+    "name": "woman_pilot",
+    "r": 121,
+    "g": 98,
+    "b": 51
+  },
+  "woman_playing_handball": {
+    "name": "woman_playing_handball",
+    "r": 158,
+    "g": 105,
+    "b": 102
+  },
+  "woman_playing_water_polo": {
+    "name": "woman_playing_water_polo",
+    "r": 113,
+    "g": 135,
+    "b": 157
+  },
+  "woman_scientist": {
+    "name": "woman_scientist",
+    "r": 156,
+    "g": 139,
+    "b": 111
+  },
+  "woman_shrugging": {
+    "name": "woman_shrugging",
+    "r": 131,
+    "g": 77,
+    "b": 120
+  },
+  "woman_singer": {
+    "name": "woman_singer",
+    "r": 141,
+    "g": 92,
+    "b": 65
+  },
+  "woman_student": {
+    "name": "woman_student",
+    "r": 122,
+    "g": 97,
+    "b": 47
+  },
+  "woman_teacher": {
+    "name": "woman_teacher",
+    "r": 130,
+    "g": 123,
+    "b": 80
+  },
+  "woman_technologist": {
+    "name": "woman_technologist",
+    "r": 84,
+    "g": 129,
+    "b": 102
+  },
+  "woman_with_headscarf": {
+    "name": "woman_with_headscarf",
+    "r": 132,
+    "g": 67,
+    "b": 106
+  },
+  "woman_with_probing_cane": {
+    "name": "woman_with_probing_cane",
+    "r": 106,
+    "g": 80,
+    "b": 98
+  },
+  "woman_with_turban": {
+    "name": "woman_with_turban",
+    "r": 205,
+    "g": 184,
+    "b": 137
+  },
+  "womans_clothes": {
+    "name": "womans_clothes",
+    "r": 107,
+    "g": 179,
+    "b": 238
+  },
+  "womans_hat": {
+    "name": "womans_hat",
+    "r": 246,
+    "g": 190,
+    "b": 65
+  },
+  "women_wrestling": {
+    "name": "women_wrestling",
+    "r": 179,
+    "g": 109,
+    "b": 70
+  },
+  "womens": {
+    "name": "womens",
+    "r": 116,
+    "g": 157,
+    "b": 249
+  },
+  "woozy_face": {
+    "name": "woozy_face",
+    "r": 234,
+    "g": 180,
+    "b": 46
+  },
+  "world_map": {
+    "name": "world_map",
+    "r": 101,
+    "g": 165,
+    "b": 172
+  },
+  "worried": {
+    "name": "worried",
+    "r": 225,
+    "g": 163,
+    "b": 34
+  },
+  "wrench": {
+    "name": "wrench",
+    "r": 147,
+    "g": 147,
+    "b": 147
+  },
+  "wrestling": {
+    "name": "wrestling",
+    "r": 168,
+    "g": 134,
+    "b": 57
+  },
+  "writing_hand": {
+    "name": "writing_hand",
+    "r": 205,
+    "g": 176,
+    "b": 66
+  },
+  "x": {
+    "name": "x",
+    "r": 224,
+    "g": 43,
+    "b": 43
+  },
+  "yarn": {
+    "name": "yarn",
+    "r": 223,
+    "g": 78,
+    "b": 107
+  },
+  "yawning_face": {
+    "name": "yawning_face",
+    "r": 228,
+    "g": 178,
+    "b": 33
+  },
+  "yellow_circle": {
+    "name": "yellow_circle",
+    "r": 244,
+    "g": 197,
+    "b": 48
+  },
+  "yellow_heart": {
+    "name": "yellow_heart",
+    "r": 246,
+    "g": 200,
+    "b": 50
+  },
+  "yellow_square": {
+    "name": "yellow_square",
+    "r": 246,
+    "g": 205,
+    "b": 50
+  },
+  "yemen": {
+    "name": "yemen",
+    "r": 153,
+    "g": 102,
+    "b": 102
+  },
+  "yen": {
+    "name": "yen",
+    "r": 209,
+    "g": 181,
+    "b": 132
+  },
+  "yin_yang": {
+    "name": "yin_yang",
+    "r": 178,
+    "g": 149,
+    "b": 245
+  },
+  "yo_yo": {
+    "name": "yo_yo",
+    "r": 171,
+    "g": 83,
+    "b": 80
+  },
+  "yum": {
+    "name": "yum",
+    "r": 227,
+    "g": 174,
+    "b": 46
+  },
+  "zambia": {
+    "name": "zambia",
+    "r": 68,
+    "g": 115,
+    "b": 26
+  },
+  "zany_face": {
+    "name": "zany_face",
+    "r": 220,
+    "g": 164,
+    "b": 65
+  },
+  "zap": {
+    "name": "zap",
+    "r": 237,
+    "g": 204,
+    "b": 54
+  },
+  "zebra": {
+    "name": "zebra",
+    "r": 141,
+    "g": 141,
+    "b": 141
+  },
+  "zero": {
+    "name": "zero",
+    "r": 124,
+    "g": 200,
+    "b": 234
+  },
+  "zimbabwe": {
+    "name": "zimbabwe",
+    "r": 152,
+    "g": 123,
+    "b": 53
+  },
+  "zipper_mouth_face": {
+    "name": "zipper_mouth_face",
+    "r": 220,
+    "g": 178,
+    "b": 43
+  },
+  "zombie": {
+    "name": "zombie",
+    "r": 129,
+    "g": 115,
+    "b": 37
+  },
+  "zombie_man": {
+    "name": "zombie_man",
+    "r": 102,
+    "g": 141,
+    "b": 58
+  },
+  "zombie_woman": {
+    "name": "zombie_woman",
+    "r": 110,
+    "g": 99,
+    "b": 60
+  },
+  "zzz": {
+    "name": "zzz",
+    "r": 42,
+    "g": 138,
+    "b": 219
+  }
+}

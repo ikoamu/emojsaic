@@ -1,7 +1,7 @@
 import * as Canvas from 'canvas';
 import * as fs from 'fs';
 
-const STEP = 5;
+const STEP = 1;
 
 type Pixel = {
   r: number;
@@ -9,6 +9,17 @@ type Pixel = {
   b: number;
   a?: number;
 };
+
+type EmojiData = {
+  name: string;
+  r: number;
+  g: number;
+  b: number;
+};
+
+interface Dict<T> {
+  [key: string]: T;
+}
 
 const mapToPixes = (data: Uint8ClampedArray): Pixel[] => {
   const pixels: Pixel[] = [];
@@ -48,10 +59,13 @@ const calcAvg = (matrix: Pixel[][], x: number, y: number): Pixel => {
   let sumB = 0;
   for (let i = y; i < y + STEP; i++) {
     for (let j = x; j < x + STEP; j++) {
-      count++;
-      sumR += matrix[i][j].r;
-      sumG += matrix[i][j].g;
-      sumB += matrix[i][j].b;
+      const p = matrix[i][j];
+      if (p.a !== 0) {
+        count++;
+        sumG += p.g;
+        sumB += p.b;
+        sumR += p.r;
+      }
     }
   }
 
@@ -113,3 +127,63 @@ const mosaTest = () => {
     createMosaicPng(mosaicPixel, img.width, img.height);
   });
 };
+
+const calcEmojiAvg = (matrix: Pixel[][], imgWidth: number, imgHeight: number): Pixel => {
+  let count = 0;
+  let sumR = 0;
+  let sumG = 0;
+  let sumB = 0;
+  for (let i = 0; i < imgHeight; i++) {
+    for (let j = 0; j < imgWidth; j++) {
+      const p = matrix[i][j];
+      if (p.a !== 0) {
+        count++;
+        sumG += p.g;
+        sumB += p.b;
+        sumR += p.r;
+      }
+    }
+  }
+
+  return {
+    r: Math.round(sumR / count),
+    g: Math.round(sumG / count),
+    b: Math.round(sumB / count),
+  }
+};
+
+const createEmojiDataList = async (input: Dict<string>): Promise<EmojiData[]> => {
+  return Promise.all(Object.keys(input).map(async (val, idx) => {
+    return await Canvas.loadImage(input[val]).then(img => {
+      const ctx = Canvas.createCanvas(img.width, img.height).getContext('2d');
+      ctx.drawImage(img, 0, 0, img.width, img.height);
+      const pixels: Pixel[] = mapToPixes(ctx.getImageData(0, 0, img.width, img.height).data);
+      const matrix: Pixel[][] = mapToMatrix(pixels, img.width, img.height);
+      return {
+        name: val,
+        ...calcEmojiAvg(matrix, img.width, img.height),
+      };
+    }).finally(() => console.log(idx));
+  }));
+};
+
+const createEmojiDict = (data: EmojiData[]): Dict<EmojiData> => {
+  const result: Dict<EmojiData> = {};
+  data.forEach(val => {
+    result[val.name] = val;
+  });
+  return result;
+};
+
+const main = async () => {
+  const input: Dict<string> = JSON.parse(fs.readFileSync('./emojis.json', 'utf8'));
+  const dataList: EmojiData[] = await createEmojiDataList(input);
+  const output: Dict<EmojiData> = createEmojiDict(dataList);
+  fs.writeFile(
+    './data.json',
+    JSON.stringify(output, undefined, 2),
+    err => console.log(err)
+  );
+};
+
+main();
