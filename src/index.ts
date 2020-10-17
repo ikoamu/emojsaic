@@ -1,7 +1,7 @@
 import * as Canvas from 'canvas';
 import * as fs from 'fs';
 
-const STEP = 1;
+const STEP = 10;
 
 type Pixel = {
   r: number;
@@ -112,22 +112,6 @@ const createMosaicPng = (
   out.on('finish', () => console.log('done'));
 };
 
-const mosaTest = () => {
-  fs.readFile('./input/IMG_5052.JPG', (err, data) => {
-    if (err) throw err;
-    let img = new Canvas.Image;
-    img.src = data;
-
-    const ctx = Canvas.createCanvas(img.width, img.height).getContext('2d');
-    ctx.drawImage(img, 0, 0, img.width, img.height);
-
-    const pixels: Pixel[] = mapToPixes(ctx.getImageData(0, 0, img.width, img.height).data);
-    const matrix: Pixel[][] = mapToMatrix(pixels, img.width, img.height);
-    const mosaicPixel: Pixel[][] = createMosaicPixel(matrix, img.width, img.height)
-    createMosaicPng(mosaicPixel, img.width, img.height);
-  });
-};
-
 const calcEmojiAvg = (matrix: Pixel[][], imgWidth: number, imgHeight: number): Pixel => {
   let count = 0;
   let sumR = 0;
@@ -175,7 +159,7 @@ const createEmojiDict = (data: EmojiData[]): Dict<EmojiData> => {
   return result;
 };
 
-const main = async () => {
+const createEmojiData = async () => {
   const input: Dict<string> = JSON.parse(fs.readFileSync('./emojis.json', 'utf8'));
   const dataList: EmojiData[] = await createEmojiDataList(input);
   const output: Dict<EmojiData> = createEmojiDict(dataList);
@@ -184,6 +168,89 @@ const main = async () => {
     JSON.stringify(output, undefined, 2),
     err => console.log(err)
   );
+};
+
+const mosaTest = () => {
+  fs.readFile('./input/IMG_5052.JPG', (err, data) => {
+    if (err) throw err;
+    let img = new Canvas.Image;
+    img.src = data;
+
+    const ctx = Canvas.createCanvas(img.width, img.height).getContext('2d');
+    ctx.drawImage(img, 0, 0, img.width, img.height);
+
+    const pixels: Pixel[] = mapToPixes(ctx.getImageData(0, 0, img.width, img.height).data);
+    const matrix: Pixel[][] = mapToMatrix(pixels, img.width, img.height);
+    const mosaicPixel: Pixel[][] = createMosaicPixel(matrix, img.width, img.height)
+    createMosaicPng(mosaicPixel, img.width, img.height);
+  });
+};
+
+const calcDistance = (
+  target: {r:number, g: number, b: number},
+  emoji: {r:number, g: number, b: number},
+) => {
+  return Math.sqrt(
+    Math.pow(target.r - emoji.r, 2) +
+    Math.pow(target.g - emoji.g, 2) +
+    Math.pow(target.b - emoji.b, 2)
+  );
+};
+
+const choiceEmoji = (r: number, g: number, b: number): EmojiData => {
+  const data: Dict<EmojiData> = JSON.parse(fs.readFileSync('./data.json', 'utf8'));
+
+  const keys = Object.keys(data);
+  let resDist: number = Infinity;
+  let result: EmojiData | undefined = undefined;
+
+  keys.forEach((key, idx) => {
+    const emoji = data[key];
+    console.log(`${idx} / ${keys.length}`, emoji);
+
+    if (!result) {
+      result = emoji;
+      resDist = calcDistance({r, g, b}, {...emoji});
+    } else {
+      const distance = calcDistance({r, g, b}, {...emoji});
+      console.log(resDist, distance);
+      if (distance < resDist) {
+        result = emoji;
+        resDist = distance;
+      }
+    }
+  });
+
+  return result ? result : data['+1'];
+};
+
+const main= () => {
+  fs.readFile('./input/icon.png', (err, data) => {
+    if (err) throw err;
+    let img = new Canvas.Image;
+    img.src = data;
+
+    const ctx = Canvas.createCanvas(img.width, img.height).getContext('2d');
+    ctx.drawImage(img, 0, 0, img.width, img.height);
+
+    const pixels: Pixel[] = mapToPixes(ctx.getImageData(0, 0, img.width, img.height).data);
+    const matrix: Pixel[][] = mapToMatrix(pixels, img.width, img.height);
+    const mosaicPixel: Pixel[][] = createMosaicPixel(matrix, img.width, img.height)
+
+    let result: string = '';
+    for (let y = 0; y < mosaicPixel.length; y++) {
+      for (let x = 0; x < mosaicPixel[y].length; x++) {
+        const {r, g, b} = mosaicPixel[y][x];
+        const emoji = choiceEmoji(r, g, b);
+        result += ` :${emoji.name}:`;
+      }
+
+      result += '\n';
+    }
+
+    console.log('result is ')
+    console.log(result);
+  });
 };
 
 main();
