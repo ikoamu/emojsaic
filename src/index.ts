@@ -1,7 +1,7 @@
 import * as Canvas from 'canvas';
 import * as fs from 'fs';
 
-const STEP = 10;
+const STEP = 5;
 
 type Pixel = {
   r: number;
@@ -10,16 +10,18 @@ type Pixel = {
   a?: number;
 };
 
-type EmojiData = {
-  name: string;
-  r: number;
-  g: number;
-  b: number;
-};
-
 interface Dict<T> {
   [key: string]: T;
 }
+
+type EmojiDetail = {
+  r: number;
+  g: number;
+  b: number;
+  name: string;
+  char?: string;
+  diff?: number;
+};
 
 const mapToPixes = (data: Uint8ClampedArray): Pixel[] => {
   const pixels: Pixel[] = [];
@@ -136,7 +138,7 @@ const calcEmojiAvg = (matrix: Pixel[][], imgWidth: number, imgHeight: number): P
   }
 };
 
-const createEmojiDataList = async (input: Dict<string>): Promise<EmojiData[]> => {
+const createEmojiDataList = async (input: Dict<string>): Promise<EmojiDetail[]> => {
   return Promise.all(Object.keys(input).map(async (val, idx) => {
     return await Canvas.loadImage(input[val]).then(img => {
       const ctx = Canvas.createCanvas(img.width, img.height).getContext('2d');
@@ -151,8 +153,8 @@ const createEmojiDataList = async (input: Dict<string>): Promise<EmojiData[]> =>
   }));
 };
 
-const createEmojiDict = (data: EmojiData[]): Dict<EmojiData> => {
-  const result: Dict<EmojiData> = {};
+const createEmojiDict = (data: EmojiDetail[]): Dict<EmojiDetail> => {
+  const result: Dict<EmojiDetail> = {};
   data.forEach(val => {
     result[val.name] = val;
   });
@@ -161,8 +163,8 @@ const createEmojiDict = (data: EmojiData[]): Dict<EmojiData> => {
 
 const createEmojiData = async () => {
   const input: Dict<string> = JSON.parse(fs.readFileSync('./emojis.json', 'utf8'));
-  const dataList: EmojiData[] = await createEmojiDataList(input);
-  const output: Dict<EmojiData> = createEmojiDict(dataList);
+  const dataList: EmojiDetail[] = await createEmojiDataList(input);
+  const output: Dict<EmojiDetail> = createEmojiDict(dataList);
   fs.writeFile(
     './data.json',
     JSON.stringify(output, undefined, 2),
@@ -197,17 +199,13 @@ const calcDistance = (
   );
 };
 
-const choiceEmoji = (r: number, g: number, b: number): EmojiData => {
-  const data: Dict<EmojiData> = JSON.parse(fs.readFileSync('./data.json', 'utf8'));
+const choiceEmoji = (r: number, g: number, b: number): EmojiDetail => {
+  const data: EmojiDetail[] = JSON.parse(fs.readFileSync('./newdata.json', 'utf8'));
 
-  const keys = Object.keys(data);
   let resDist: number = Infinity;
-  let result: EmojiData | undefined = undefined;
-
-  keys.forEach((key, idx) => {
-    const emoji = data[key];
-    console.log(`${idx} / ${keys.length}`, emoji);
-
+  let result: EmojiDetail | undefined = undefined;
+  data.forEach((emoji, idx) => {
+    console.log(`${idx} / ${data.length}`, emoji);
     if (!result) {
       result = emoji;
       resDist = calcDistance({r, g, b}, {...emoji});
@@ -221,7 +219,7 @@ const choiceEmoji = (r: number, g: number, b: number): EmojiData => {
     }
   });
 
-  return result ? result : data['+1'];
+  return result ? result : data[0];
 };
 
 const main= () => {
@@ -242,13 +240,13 @@ const main= () => {
       for (let x = 0; x < mosaicPixel[y].length; x++) {
         const {r, g, b} = mosaicPixel[y][x];
         const emoji = choiceEmoji(r, g, b);
-        result += ` :${emoji.name}:`;
+        result += `${emoji.char}`;
       }
 
       result += '\n';
     }
 
-    console.log('result is ')
+    console.log('result is')
     console.log(result);
   });
 };

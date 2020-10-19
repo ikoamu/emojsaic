@@ -1,0 +1,5 @@
+# emojsaic
+
+## color palette
+
+🥋
